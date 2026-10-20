@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Audio Streaks Preview</title>
+<style>
+  :root { --bg: #000; --fg: #bdb6d6; }
+  html, body { margin: 0; height: 100%; background: var(--bg); color: var(--fg); font: 12px/1.4 system-ui, sans-serif; }
+  body { display: flex; align-items: center; justify-content: center; }
+  canvas { height: 100vh; max-width: 100vw; aspect-ratio: 4 / 5; display: block; }
+  #ui { position: fixed; left: 12px; top: 12px; display: flex; gap: 8px; align-items: center; opacity: .6; }
+  #ui:hover { opacity: 1; }
+  button, label { background: #111; color: var(--fg); border: 1px solid #333; padding: 4px 8px; cursor: pointer; }
+  input[type=file] { display: none; }
+</style>
+</head>
+<body>
+<canvas id="c" width="1080" height="1350"></canvas>
+<div id="ui">
+  <label>Arquivo de áudio<input id="file" type="file" accept="audio/*"></label>
+  <button id="mic">Microfone</button>
+  <span id="src">fonte: espectro sintético</span>
+</div>
+<script>
+// Pré-visualização no navegador da mesma rede do TouchDesigner.
+// Os .glsl em ../shaders são carregados sem alteração; o cabeçalho abaixo
+// imita o que o GLSL TOP do TD declara (sTD2DInputs, uTDOutputInfo, vUV).
+const params = new URLSearchParams(location.search);
+const FIXED_T = params.has('t') ? parseFloat(params.get('t')) : null;
+const SCALE = parseFloat(params.get('scale') || '1');   // < 1 só para captura rápida
+const W = Math.round(1080 * SCALE), H = Math.round(1350 * SCALE), SPEC = 256;
+const P = {
+  spec_smooth: { uAttack: .6, uRelease: .08 },
+  lines:  { uGain: 1.4, uRows: 14, uRange: [.22, .93], uThick: 2.2, uTilt: 6 },
+  trails: { uDecay: .965, uWarp: .0028, uDrift: .0005, uSpread: .0003, uCut: .002, uEmit: .5 },
+  grade:  { uCore: [.97, .94, 1], uGlow: [.50, .42, .95], uGlowAmt: .75, uSat: .7, uExposure: 1.1, uHorizon: .14, uReflect: .55 },
+  blurSmall: 4, blurLarge: 24,
+};
+P.lines.uThick *= SCALE; P.blurSmall *= SCALE; P.blurLarge *= SCALE;
+const canvas = document.getElementById('c');
+canvas.width = W; canvas.height = H;
+const gl = canvas.getContext('webgl2', { antialias: false, preserveDrawingBuffer: true });
+if (!gl.getExtension('EXT_color_buffer_float')) throw new Error('EXT_color_buffer_float ausente');
+gl.getExtension('OES_texture_float_linear');
+
+const HEADER = `#version 300 es
+precision highp float;
+uniform sampler2D sTD2DInputs[3];
+struct TDTexInfo { vec4 res; vec4 depth; };
+uniform TDTexInfo uTDOutputInfo;
+in vec3 vUV;
+#define TDOutputSwizzle(c) (c)
+#line 1
+`;
+const VERT = `#version 300 es
+out vec3 vUV;
+void main() {
+  vec2 p = vec2((gl_VertexID << 1) & 2, gl_VertexID & 2);
+  vUV = vec3(p, 0.);
+  gl_Position = vec4(p * 2. - 1., 0., 1.);
+}`;
+const BLUR = `
+uniform vec2 uDir;
+uniform float uRadius;
+out vec4 fragColor;
+void main() {
+  vec2 px = uTDOutputInfo.res.xy * uDir;
+  float s = max(uRadius / 3., .5), wsum = 0.;
+  vec4 acc = vec4(0.);
+  for (int i = -24; i <= 24; i++) {
+    float x = float(i) * uRadius / 24.;
+    float w = exp(-x * x / (2. * s * s));
+    acc += texture(sTD2DInputs[0], vUV.st + px * x) * w;
+    wsum += w;
+  }
+  fragColor = acc / wsum;
+}`;
+
+function compile(type, src) {
+  const s = gl.createShader(type);
+  gl.shaderSource(s, src);
+  gl.compileShader(s);
+  if (!gl.getShaderParameter(s, gl.COMPILE_STATUS)) throw new Error(gl.getShaderInfoLog(s));
+  return s;
+}
+function program(name, frag) {
+  const p = gl.createProgram();
+  gl.attachShader(p, compile(gl.VERTEX_SHADER, VERT));
+  gl.attachShader(p, compile(gl.FRAGMENT_SHADER, HEADER + frag));
+  gl.linkProgram(p);
+  if (!gl.getProgramParameter(p, gl.LINK_STATUS)) throw new Error(name + ': ' + gl.getProgramInfoLog(p));
+  return p;
+}
+function target(w, h) {
+  const tex = gl.createTexture();
+  gl.bindTexture(gl.TEXTURE_2D, tex);
+  gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA16F, w, h, 0, gl.RGBA, gl.HALF_FLOAT, null);
+  for (const [k, v] of [[gl.TEXTURE_MIN_FILTER, gl.LINEAR], [gl.TEXTURE_MAG_FILTER, gl.LINEAR],
+                        [gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE], [gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE]])
+    gl.texParameteri(gl.TEXTURE_2D, k, v);
+  const fb = gl.createFramebuffer();
+  gl.bindFramebuffer(gl.FRAMEBUFFER, fb);
+  gl.framebufferTexture2D(gl.FRAMEBUFFER, gl.COLOR_ATTACHMENT0, gl.TEXTURE_2D, tex, 0);
+  return { tex, fb, w, h };
+}
+function pass(prog, inputs, out, uniforms) {
+  gl.useProgram(prog);
+  gl.bindFramebuffer(gl.FRAMEBUFFER, out ? out.fb : null);
+  const w = out ? out.w : W, h = out ? out.h : H;
+  gl.viewport(0, 0, w, h);
+  inputs.forEach((t, i) => {
+    gl.activeTexture(gl.TEXTURE0 + i);
+    gl.bindTexture(gl.TEXTURE_2D, t.tex);
+    gl.uniform1i(gl.getUniformLocation(prog, `sTD2DInputs[${i}]`), i);
+  });
+  gl.uniform4f(gl.getUniformLocation(prog, 'uTDOutputInfo.res'), 1 / w, 1 / h, w, h);
+  for (const [k, v] of Object.entries(uniforms)) {
+    const loc = gl.getUniformLocation(prog, k);
+    if (!loc) continue;
+    if (typeof v === 'number') gl.uniform1f(loc, v);
+    else gl[`uniform${v.length}fv`](loc, v);
+  }
+  gl.drawArrays(gl.TRIANGLES, 0, 3);
+}
+
+// --- fonte de espectro: sintética, arquivo ou microfone -------------------
+const raw = new Float32Array(SPEC * 2 * 4);
+let analyser = null, fbuf = null;
+function hash(n) { return (Math.sin(n * 127.1) * 43758.5453) % 1; }
+function synthSpectrum(t) {
+  const beat = t * 2.1;                         // ~126 bpm
+  const kick = Math.exp(-((beat % 1) * 9));
+  const hat = Math.exp(-(((beat * 2) % 1) * 22));
+  const bar = Math.floor(beat / 4);
+  const chord = [0, 3, 7, 10].map(n => 110 * Math.pow(2, (n + [0, 5, 3, 8][bar % 4]) / 12));
+  const out = new Float32Array(SPEC);
+  for (let i = 0; i < SPEC; i++) {
+    const f = (i + .5) / SPEC * 22050;
+    let v = .06 / Math.sqrt(1 + f / 200);
+    v += kick * 1.4 * Math.exp(-Math.pow((f - 55) / 40, 2));
+    v += .5 * Math.exp(-Math.pow((f - chord[0] / 2) / 25, 2)) * (.6 + .4 * Math.sin(t * 3));
+    for (const c of chord) for (let h = 1; h < 7; h++)
+      v += .35 / h * Math.exp(-Math.pow((f - c * h) / (8 + 4 * h), 2)) * (.7 + .3 * Math.sin(t * 1.7 + h));
+    v += hat * .25 * Math.exp(-Math.pow((f - 9000) / 3500, 2));
+    v += .4 * Math.exp(-Math.pow((f - 2400 - 600 * Math.sin(t * .5)) / 300, 2)) * (.5 + .5 * Math.sin(t * 1.1));
+    v *= .75 + .5 * Math.abs(hash(i + Math.floor(t * 30) * 13.1));
+    out[i] = v;
+  }
+  return out;
+}
+function liveSpectrum() {
+  analyser.getFloatFrequencyData(fbuf);         // dB, 0..nyquist
+  const out = new Float32Array(SPEC);
+  const step = fbuf.length / SPEC;
+  for (let i = 0; i < SPEC; i++) {
+    let m = 0;
+    for (let j = 0; j < step; j++) m = Math.max(m, Math.pow(10, fbuf[Math.floor(i * step + j)] / 20));
+    out[i] = m * 6;
+  }
+  return out;
+}
+async function useSource(node, ctx, label) {
+  analyser = ctx.createAnalyser();
+  analyser.fftSize = 2048;
+  analyser.smoothingTimeConstant = 0;
+  fbuf = new Float32Array(analyser.frequencyBinCount);
+  node.connect(analyser);
+  document.getElementById('src').textContent = 'fonte: ' + label;
+}
+document.getElementById('file').onchange = async e => {
+  const f = e.target.files[0]; if (!f) return;
+  const ctx = new AudioContext();
+  const el = new Audio(URL.createObjectURL(f)); el.loop = true; await el.play();
+  const n = ctx.createMediaElementSource(el); n.connect(ctx.destination);
+  useSource(n, ctx, f.name);
+};
+document.getElementById('mic').onclick = async () => {
+  const ctx = new AudioContext();
+  const s = await navigator.mediaDevices.getUserMedia({ audio: true });
+  useSource(ctx.createMediaStreamSource(s), ctx, 'microfone');
+};
+
+// --- rede ------------------------------------------------------------------
+async function main() {
+  const load = n => fetch(`../shaders/${n}.glsl`).then(r => r.text());
+  const progs = {};
+  for (const n of ['spec_smooth', 'lines', 'trails', 'grade']) progs[n] = program(n, await load(n));
+  progs.blur = program('blur', BLUR);
+
+  const specTex = gl.createTexture();
+  gl.bindTexture(gl.TEXTURE_2D, specTex);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_S, gl.CLAMP_TO_EDGE);
+  gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
+  const spec = { tex: specTex };
+
+  let smoothA = target(SPEC, 2), smoothB = target(SPEC, 2);
+  const lines = target(W, H);
+  let trailA = target(W, H), trailB = target(W, H);
+  const tmp = target(W, H), blurS = target(W, H);
+  const tmpL = target(W / 4, H / 4), blurL = target(W / 4, H / 4);
+
+  function frame(t) {
+    const s = analyser ? liveSpectrum() : synthSpectrum(t);
+    for (let r = 0; r < 2; r++) for (let i = 0; i < SPEC; i++) raw[(r * SPEC + i) * 4] = s[i];
+    gl.bindTexture(gl.TEXTURE_2D, specTex);
+    gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA32F, SPEC, 2, 0, gl.RGBA, gl.FLOAT, raw);
+
+    pass(progs.spec_smooth, [spec, smoothA], smoothB, P.spec_smooth); [smoothA, smoothB] = [smoothB, smoothA];
+    pass(progs.lines, [smoothA], lines, { uTime: t, ...P.lines });
+    pass(progs.trails, [lines, trailA], trailB, { uTime: t, ...P.trails }); [trailA, trailB] = [trailB, trailA];
+    pass(progs.blur, [trailA], tmp, { uDir: [1, 0], uRadius: P.blurSmall });
+    pass(progs.blur, [tmp], blurS, { uDir: [0, 1], uRadius: P.blurSmall });
+    pass(progs.blur, [trailA], tmpL, { uDir: [1, 0], uRadius: P.blurLarge / 4 });
+    pass(progs.blur, [tmpL], blurL, { uDir: [0, 1], uRadius: P.blurLarge / 4 });
+    pass(progs.grade, [trailA, blurS, blurL], null, { uTime: t, ...P.grade });
+  }
+
+  if (FIXED_T !== null) {
+    // modo de captura: simula 2.5 s a 60 fps e para no instante pedido
+    for (let i = 0; i <= 150; i++) frame(FIXED_T - 2.5 + i / 60);
+    document.title = 'ready';
+    return;
+  }
+  const t0 = performance.now();
+  (function loop() { frame((performance.now() - t0) / 1000); requestAnimationFrame(loop); })();
+}
+main().catch(e => { document.body.textContent = e.message; document.title = 'error'; console.error(e); });
+</script>
+</body>
+</html>
