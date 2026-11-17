@@ -1,0 +1,17 @@
+CHARACTER LOCK — JULIO PISTOLADA. The attached photos are the ONLY reference for this man's identity. Reproduce him exactly:
+- Face: round full face, wide cheeks, warm light-brown/tan skin (#A17157 lit, #A97150 shadow), full lips. Same face shape as the photos.
+- Hair: short black tightly-curled hair with a skin fade on the sides, a bit taller on top.
+- Beard: thick full black beard (#333130), fuller and slightly longer at the chin, sharp lined cheek edge, connected to the mustache.
+- BODY WEIGHT LOCK: big, broad-shouldered, stocky man with a moderate belly — EXACTLY the same weight and proportions as in the full-body reference photo. Do NOT make him fatter, do NOT add weight, do NOT exaggerate the belly, cheeks, neck or double chin, NOT obese. Also do NOT slim him down and do NOT make him muscular. Realistic adult proportions, normal-sized head.
+- Signature item (always on his face): silver metal wraparound sport sunglasses with oval ruby-red mirrored lenses (#CF394A lens, #95908A frame), "Juliet" style.
+- Accessories: large black-and-silver chronograph watch on the left wrist, thin silver chain.
+- Attitude: serious, confident, chin slightly up.
+- CLOTHING LOCK: IGNORE the clothes in the reference photos completely (never the black jersey with a crest, never "NARIZES FC", never the red-and-blue sleeve band). He only wears GTA video game protagonist wardrobe as described in the prompt. Never: football jerseys, tactical vests, bandanas, balaclavas, slide sandals, flip-flops.
+Do not change his ethnicity, age (mid-twenties), face shape, beard shape or weight. No tattoos, earrings or hats unless the prompt asks.
+
+STYLE — 3D VIDEO GAME CHARACTER: render him as a real-time 3D character model from a modern open-world crime video game, like Grand Theft Auto V on PC at max settings / Grand Theft Auto VI (Rockstar RAGE engine look). Realistic human proportions, game-quality 3D skin with pores and subsurface scattering, realistic curly hair and beard, PBR fabric with folds and stitching, ray-traced lighting and soft shadows. It must look like an in-game screenshot / a character model viewer, NOT a drawing.
+NEGATIVE: no cartoon, no comic, no illustration, no painting, no cel shading, no black outlines, no anime, no caricature, no big head, no exaggerated body, no vector art.
+
+3D EXPRESSION SHEET of JULIO PISTOLADA: 3x3 grid of in-engine head-and-shoulders renders, same lighting, neutral gray studio backdrop, red-lens sunglasses ON in all, plain black crew-neck t-shirt (no logos):
+1 serious/neutral, 2 confident smirk, 3 hyped shouting (streamer reaction), 4 laughing, 5 shocked, 6 angry frown, 7 "finger gun" gesture next to his face, 8 arms crossed looking down at the camera, 9 pointing at the viewer.
+Same face, beard and weight in all 9 — do not make the face fuller. Only text: "JULIO PISTOLADA" small at the top.
