@@ -1,6 +1,8 @@
 # ETAPA 1 — Character sheet do JULIO PISTOLADA
 
-Faça esta etapa **antes de tudo**. A ficha ilustrada que sair daqui vira a referência de rosto de todas as artes depois.
+Faça esta etapa **antes de tudo**.
+
+> **A roupa das fotos (camisa preta do Narizes FC) NÃO entra nas artes.** As fotos servem só para o rosto e o corpo. A roupa base da ficha é a do **Flamengo**; as outras opções são **colete** e **clássicos do GTA** (Etapa 2). A ficha ilustrada que sair daqui vira a referência de rosto de todas as artes depois.
 
 ## O que anexar
 
@@ -26,6 +28,7 @@ CHARACTER LOCK — JULIO PISTOLADA. The attached photos are the ONLY reference f
 - Signature item (always on his face): silver metal wraparound sport sunglasses with oval ruby-red mirrored lenses (#CF394A lens, #95908A frame), "Juliet" style.
 - Signature accessories: large black-and-silver chronograph watch on the left wrist, thin silver chain.
 - Attitude: serious and confident, chin up. Signature poses: arms crossed over the chest, or a "finger gun" hand gesture pointing up next to his face.
+- CLOTHING: IGNORE the clothes in the reference photos completely. NEVER draw the black jersey with the crest, the "NARIZES FC" lettering, the brand logo or the red-and-blue sleeve band from the photos. Use ONLY the outfit described in this prompt.
 Do not change his ethnicity, age (mid-twenties), face shape, beard shape or body type. No tattoos, earrings or hats unless the prompt asks.
 ```
 
@@ -42,9 +45,9 @@ Layout, horizontal 16:9, clean light-gray studio background with a subtle grid:
 - TOP ROW (full body, same scale, aligned on one baseline): FRONT view, 3/4 view, SIDE profile, BACK view. Neutral standing pose, arms relaxed.
 - BOTTOM-LEFT: 3 head close-ups — front, 3/4, profile — all with the red-lens sunglasses.
 - BOTTOM-RIGHT: 2 detail callouts: the sunglasses (front and side) and the watch on his wrist.
-- A thin color palette strip at the bottom: #A17157, #A97150, #333130, #CF394A, #95908A, #0E0E10, olive green.
+- A thin color palette strip at the bottom: #A17157, #A97150, #333130, #CF394A, #95908A, #C8102E (red), #0E0E10 (black).
 
-Base outfit in every view (a reinterpretation of his real look): oversized black football-style jersey t-shirt with a small generic crest on the chest and a red-and-blue stripe band on the left sleeve, olive-green cargo shorts, black sneakers, thin silver chain, black-and-silver watch.
+Base outfit in every view (FLAMENGO look): oversized Flamengo-style home football jersey with bold horizontal red-and-black hoops (no sponsor logos, simple small crest area), black football shorts, black slide sandals with white socks, thick silver chain, black-and-silver chronograph watch. Do NOT use the clothes from the reference photos.
 Keep face, beard, skin tone and heavyset body IDENTICAL in every view.
 Only text allowed: "JULIO PISTOLADA" as the title in the top-left corner. No other text, no watermarks.
 ```
@@ -56,7 +59,7 @@ Only text allowed: "JULIO PISTOLADA" as the title in the top-left corner. No oth
 ```
 [PASTE CHARACTER LOCK]
 
-EXPRESSION SHEET of JULIO PISTOLADA, GTA promotional art style, 3x3 grid of head-and-shoulders portraits, same lighting, light-gray background, red-lens sunglasses ON in all of them:
+EXPRESSION SHEET of JULIO PISTOLADA, GTA promotional art style, 3x3 grid of head-and-shoulders portraits wearing the red-and-black hooped Flamengo-style jersey, same lighting, light-gray background, red-lens sunglasses ON in all of them:
 1 serious/neutral, 2 confident smirk, 3 shouting hyped (streamer reaction, mouth open), 4 laughing hard, 5 shocked, 6 angry/frowning, 7 "finger gun" gesture next to his face, 8 arms crossed looking down at the camera, 9 pointing straight at the viewer.
 Identical face, beard and body in all 9. No text except "JULIO PISTOLADA" small at the top.
 ```
@@ -70,7 +73,7 @@ Identical face, beard and body in all 9. No text except "JULIO PISTOLADA" small 
 
 POSE SHEET of JULIO PISTOLADA, full body, GTA promotional art style, 6 poses in a row on a light-gray background, same outfit as the base sheet:
 1 arms crossed (signature), 2 finger-gun gesture up near his face (signature), 3 walking toward the camera, 4 leaning back against an invisible wall, 5 holding a game controller, 6 holding a phone recording a selfie video.
-Same scale, same face and heavyset body in every pose. Only text: "JULIO PISTOLADA".
+Outfit in every pose: the FLAMENGO look from the main sheet (red-and-black hooped jersey, black shorts, slides). Same scale, same face and heavyset body in every pose. Only text: "JULIO PISTOLADA".
 ```
 
 ---
@@ -85,5 +88,6 @@ Same scale, same face and heavyset body in every pose. Only text: "JULIO PISTOLA
 
 - **Emagreceu:** repita “heavyset, plus-size — do not slim him down” e anexe `04-corpo-inteiro-em-pe.png`.
 - **Barba mudou:** anexe `09-detalhe-barba.png` e escreva “beard exactly like the reference”.
+- **Saiu com a camisa do Narizes das fotos:** repita a linha `CLOTHING: IGNORE the clothes in the reference photos` e descreva a roupa nova com mais detalhe. Se continuar, anexe só os recortes de rosto (`01`, `03`, `08`, `09`) e tire as fotos de corpo.
 - **Óculos trocou:** anexe `08-detalhe-oculos.png`.
 - **Pele clareou ou escureceu:** cite os códigos de cor. Eles foram medidos nas fotos e são aproximados, porque a luz muda o tom.

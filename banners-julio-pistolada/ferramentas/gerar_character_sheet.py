@@ -28,7 +28,7 @@ crops = {
     "08-detalhe-oculos": p9.crop((230, 90, 520, 330)),
     "09-detalhe-barba": p3.crop((500, 400, 880, 700)),
     "10-detalhe-relogio": p8.crop((250, 550, 370, 700)),
-    "11-detalhe-bracadeira": p9.crop((520, 520, 740, 680)),
+    "11-detalhe-oculos-lado": p4.crop((170, 540, 800, 900)),
 }
 for k, v in crops.items():
     v.save(os.path.join(REF, k + ".png"))
@@ -43,7 +43,8 @@ swatches = [
     ("CABELO/BARBA", avg(p3, (600, 180, 760, 230), lambda p: sum(p) < 200)),
     ("LENTE RUBI", avg(p9, (230, 90, 520, 330), lambda p: p[0] > 170 and p[1] < 80 and p[2] < 120)),
     ("ARMAÇÃO PRATA", avg(p4, (230, 560, 760, 820), lambda p: abs(p[0] - p[1]) < 12 and abs(p[1] - p[2]) < 12 and 120 < p[0] < 200)),
-    ("CAMISA", (14, 14, 16)),
+    ("RUBRO (FLA)", (200, 16, 46)),
+    ("NEGRO (FLA)", (14, 14, 16)),
 ]
 
 W, H = 2400, 1700
@@ -83,11 +84,11 @@ place(crops["08-detalhe-oculos"], c3 + 2 * (cw + 20), TOP, cw, 360, "ÓCULOS")
 y2 = TOP + 384
 place(crops["09-detalhe-barba"], c3, y2, cw, 250, "BARBA")
 place(crops["10-detalhe-relogio"], c3 + cw + 20, y2, cw, 250, "RELÓGIO", (0.5, 0.4))
-place(crops["11-detalhe-bracadeira"], c3 + 2 * (cw + 20), y2, cw, 250, "BRAÇADEIRA")
+place(crops["11-detalhe-oculos-lado"], c3 + 2 * (cw + 20), y2, cw, 250, "ÓCULOS (LADO)")
 
 y3 = y2 + 250 + 26
 d.text((c3, y3), "PALETA (TIRADA DAS FOTOS, APROXIMADA)", font=font(22), fill=PINK)
-sw = (r - c3 - 5 * 14) // 6
+sw = (r - c3 - 6 * 14) // 7
 for i, (name, col) in enumerate(swatches):
     x = c3 + i * (sw + 14)
     d.rounded_rectangle([x, y3 + 36, x + sw, y3 + 96], 10, fill=col, outline=WHITE, width=2)
@@ -104,8 +105,8 @@ traits = [
     "Rosto redondo e cheio, bochechas largas",
     "Corpo robusto / plus size, ombros largos (NÃO emagrecer)",
     "Óculos esportivo prata, lente espelhada vermelha (tipo “Juliet”)",
-    "Camiseta preta oversized de time + braçadeira vermelha/azul",
-    "Relógio grande preto e prata, bermuda cargo verde-oliva",
+    "Relógio grande preto e prata + corrente prata",
+    "ROUPA: Flamengo, colete ou clássico GTA (NÃO a camisa das fotos)",
     "Pose: braços cruzados ou “pistolinha” com a mão; queixo pra cima",
 ]
 for i, t in enumerate(traits):

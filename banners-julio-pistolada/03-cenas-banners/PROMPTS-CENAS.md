@@ -33,16 +33,17 @@ Live: **GTA VI sem parar na Kick, 19 até 21 de novembro (qui → sáb)**
 
 | Cena | Figurino |
 |---|---|
-| 01 Vice City · 07 Setup · 09 Tela de carregamento | RJ-01 Camisa de time |
-| 02 Grade de quadros | um figurino diferente em cada quadro |
+| 01 Vice City · 07 Setup · 09 Tela de carregamento | FLA-01 Manto titular |
+| 02 Grade de quadros | um figurino diferente em cada quadro (FLA, COL e GTA misturados) |
 | 03 Lowrider | GTA-01 Grove Street |
-| 04 Assalto | GTA-05 Heist |
+| 04 Assalto | GTA-05 Heist ou COL-02 Colete preto |
 | 05 Procurado | GTA-07 Procurado |
-| 06 Perseguição | RJ-04 Bonde de moto |
-| 08 Madrugada | GTA-03 Liberty City ou RJ-07 Inverno |
+| 06 Perseguição | FLA-03 Corta-vento |
+| 08 Madrugada | GTA-03 Liberty City ou COL-02 Colete preto |
 | 10 Iate | GTA-02 Vice City 1986 |
-| 11 Favela · 13 Laje | RJ-05 ou RJ-06 Colete |
-| 12 Morro → Vice City | RJ-01 Camisa de time |
+| 11 Favela | COL-01 Colete camuflado |
+| 12 Morro → Vice City | FLA-01 Manto titular ou COL-03 Colete + manto |
+| 13 Laje | COL-02 Colete preto ou COL-03 Colete + manto |
 
 Quando a descrição da cena falar de roupa, **a roupa da cena vale mais** que a do figurino.
 
@@ -85,7 +86,7 @@ Small panel: "KICK.COM/@SEU_USUARIO_KICK"
 
 ### CENA 03 — “Lowrider em Grove” (vibe San Andreas)
 ```
-Horizontal 16:9. Julio Pistolada leaning against a candy-green lowrider with chrome wheels and hydraulics raised on one side, in a sunny West Coast neighborhood street from the early 90s: graffiti walls, palm trees, telephone wires, hazy orange-yellow sky. He wears a black oversized tee, silver chain, red-lens sunglasses, a green bandana in his back pocket. Warm yellow and orange San Andreas color grading, hand-painted look, thick outlines.
+Horizontal 16:9. Julio Pistolada leaning against a candy-green lowrider with chrome wheels and hydraulics raised on one side, in a sunny West Coast neighborhood street from the early 90s: graffiti walls, palm trees, telephone wires, hazy orange-yellow sky. He wears the classic 90s West Coast look: white ribbed tank top, baggy light-blue jeans, green bandana tied on his head, thick gold chain, red-lens sunglasses. Warm yellow and orange San Andreas color grading, hand-painted look, thick outlines.
 ```
 Texto B:
 ```
@@ -95,7 +96,7 @@ Bottom: "DO SAN ANDREAS AO GTA VI" (small) and "LIVE SEM PARAR • 19 ATÉ 21 �
 
 ### CENA 04 — “O assalto” (heist do GTA Online)
 ```
-Horizontal 16:9. Julio Pistolada walking toward the camera in slow-motion style out of a bank vault, carrying two black duffel bags overflowing with cash, cash bills flying in the air, alarm red light, smoke behind him, two blurred crew members in masks at his sides (do not show their faces). He wears a black tactical vest over his black t-shirt and his red mirrored sunglasses. Dramatic low angle, cinematic teal and red lighting.
+Horizontal 16:9. Julio Pistolada walking toward the camera in slow-motion style out of a bank vault, carrying two black duffel bags overflowing with cash, cash bills flying in the air, alarm red light, smoke behind him, two blurred crew members in masks at his sides (do not show their faces). He wears a black tactical plate-carrier vest over a red-and-black Flamengo-style long-sleeve jersey and his red mirrored sunglasses. Dramatic low angle, cinematic teal and red lighting.
 ```
 Texto B:
 ```
@@ -140,7 +141,7 @@ Bottom bar: "19 ATÉ 21 • KICK" (neon green accent)
 
 ### CENA 08 — “Liberty City de madrugada” (vibe GTA IV, pra madrugada da maratona)
 ```
-Horizontal 16:9. Julio Pistolada standing alone on a wet street at night in a cold, gritty big-city setting inspired by GTA IV: desaturated gray, sepia and olive tones, steam coming from manholes, yellow taxi blurred behind, rain reflections, a single streetlight from above. Black hoodie over black tee, red lenses are the only saturated color in the image. Serious, tired-but-unbreakable expression.
+Horizontal 16:9. Julio Pistolada standing alone on a wet street at night in a cold, gritty big-city setting inspired by GTA IV: desaturated gray, sepia and olive tones, steam coming from manholes, yellow taxi blurred behind, rain reflections, a single streetlight from above. He wears a worn brown leather jacket over a dark gray t-shirt (GTA IV look); the red lenses are the only saturated color in the image. Serious, tired-but-unbreakable expression.
 ```
 Texto B:
 ```
@@ -161,7 +162,7 @@ Under it: "19 ATÉ 21 • KICK"
 
 ### CENA 10 — “Iate e o pôr do sol” (comemoração/fim)
 ```
-Horizontal 16:9. Julio Pistolada relaxing on the deck of a luxury white yacht at sunset off the Vice City coast, open shirt over his black tee, holding a cold drink, cash scattered on the deck, jet skis around, pink and orange sky, skyline behind. Calm, victorious smile with sunglasses on.
+Horizontal 16:9. Julio Pistolada relaxing on the deck of a luxury white yacht at sunset off the Vice City coast, open Hawaiian shirt over a red-and-black Flamengo-style jersey, holding a cold drink, cash scattered on the deck, jet skis around, pink and orange sky, skyline behind. Calm, victorious smile with sunglasses on.
 ```
 Texto B:
 ```
@@ -169,10 +170,10 @@ Center: "MISSÃO CUMPRIDA"
 Bottom: "3 DIAS DE GTA VI • VALEU, TROPA! • JULIO PISTOLADA"
 ```
 
-### CENA 11 — “Favela ao pôr do sol” (figurino RJ-05 ou RJ-06)
+### CENA 11 — “Favela ao pôr do sol” (figurino COL-01)
 Cenário inspirado na referência que vocês mandaram (`referencia-cenario-favela.webp`). Nela, **o rosto não é o do Julio**: use a imagem só pelo cenário e pela luz.
 ```
-Horizontal 16:9. Julio Pistolada stands in the foreground, chest-up, facing the camera, in a narrow alley at the bottom of a Rio de Janeiro hillside favela at dusk: dramatic orange-red and purple sunset sky, tangled electric wires and poles, colorful party flags strung across the alley, blue water tanks on rooftops, brick houses climbing the hill with hundreds of warm lit windows, a parked motorcycle, yellow plastic bar chairs, a streetlight, wet ground reflecting the sky. He wears [OUTFIT RJ-05]. Cinematic low angle, red lenses reflecting the sunset, GTA promotional painted style.
+Horizontal 16:9. Julio Pistolada stands in the foreground, chest-up, facing the camera, in a narrow alley at the bottom of a Rio de Janeiro hillside favela at dusk: dramatic orange-red and purple sunset sky, tangled electric wires and poles, colorful party flags strung across the alley, blue water tanks on rooftops, brick houses climbing the hill with hundreds of warm lit windows, a parked motorcycle, yellow plastic bar chairs, a streetlight, wet ground reflecting the sky. He wears [OUTFIT COL-01]. Cinematic low angle, red lenses reflecting the sunset, GTA promotional painted style.
 ```
 Texto B:
 ```
@@ -183,7 +184,7 @@ Bottom bar: "19 ATÉ 21 • AO VIVO NA KICK"
 
 ### CENA 12 — “Do morro pra Vice City” (Rio × Leonida)
 ```
-Vertical 4:5 split-scene poster. Julio Pistolada in the center, arms crossed (signature pose). The left half of the background is a Rio de Janeiro favela hillside at night with thousands of lit windows and Christ-the-Redeemer-style mountain silhouette in the distance (no recognizable statue details); the right half blends into a Vice City neon beach boulevard with palm trees and pink-purple sunset. The two halves merge behind him in a smooth gradient. Helicopter in the upper-left. He wears [OUTFIT RJ-01].
+Vertical 4:5 split-scene poster. Julio Pistolada in the center, arms crossed (signature pose). The left half of the background is a Rio de Janeiro favela hillside at night with thousands of lit windows and Christ-the-Redeemer-style mountain silhouette in the distance (no recognizable statue details); the right half blends into a Vice City neon beach boulevard with palm trees and pink-purple sunset. The two halves merge behind him in a smooth gradient. Helicopter in the upper-left. He wears [OUTFIT FLA-01].
 ```
 Texto B:
 ```
@@ -195,7 +196,7 @@ Bottom: "19 ATÉ 21 • KICK"
 
 ### CENA 13 — “Laje” (vigia no alto do morro)
 ```
-Horizontal 16:9. Julio Pistolada standing on a rooftop terrace (laje) of a favela at night, looking down at the camera, one foot on the low brick wall, city lights and the ocean far below, a kite flying in the sky, warm orange streetlights, cool blue moonlight rim light. He wears [OUTFIT RJ-06]. Wide cinematic GTA key art composition with empty sky space for text.
+Horizontal 16:9. Julio Pistolada standing on a rooftop terrace (laje) of a favela at night, looking down at the camera, one foot on the low brick wall, city lights and the ocean far below, a kite flying in the sky, warm orange streetlights, cool blue moonlight rim light. He wears [OUTFIT COL-02]. Wide cinematic GTA key art composition with empty sky space for text.
 ```
 Texto B:
 ```
