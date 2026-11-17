@@ -82,7 +82,7 @@ Only text allowed: "JULIO PISTOLADA" as the title in the top-left corner. No oth
 
 [PASTE STYLE — OPÇÃO A]
 
-3D EXPRESSION SHEET of JULIO PISTOLADA — 3D in-game render in the style of Grand Theft Auto V / GTA VI (Rockstar RAGE engine look): realistic 3D game character model, PBR skin and fabric textures, real-time ray-traced lighting, NOT a cartoon, NOT an illustration, NO outlines. 3x3 grid of in-engine of head-and-shoulders portraits wearing the red-and-black hooped Flamengo-style jersey, same lighting, neutral gray 3D studio backdrop, red-lens sunglasses ON in all of them:
+3D EXPRESSION SHEET of JULIO PISTOLADA — 3D in-game render in the style of Grand Theft Auto V / GTA VI (Rockstar RAGE engine look): realistic 3D game character model, PBR skin and fabric textures, real-time ray-traced lighting, NOT a cartoon, NOT an illustration, NO outlines. 3x3 grid of in-engine head-and-shoulders portraits wearing the red-and-black hooped Flamengo-style jersey, same lighting, neutral gray 3D studio backdrop, red-lens sunglasses ON in all of them:
 1 serious/neutral, 2 confident smirk, 3 shouting hyped (streamer reaction, mouth open), 4 laughing hard, 5 shocked, 6 angry/frowning, 7 "finger gun" gesture next to his face, 8 arms crossed looking down at the camera, 9 pointing straight at the viewer.
 Identical face, beard and body in all 9. No text except "JULIO PISTOLADA" small at the top.
 ```
