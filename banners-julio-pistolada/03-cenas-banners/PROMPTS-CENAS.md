@@ -1,4 +1,6 @@
-# ETAPA 3 — Cenas para banners do JULIO PISTOLADA × GTA VI
+# ETAPA 3 — Cenas V1 para banners do JULIO PISTOLADA × GTA VI
+
+> As cenas da favela foram removidas. Há mais cenas no estilo que vocês aprovaram em `PROMPTS-CENAS-V2-VICE-CITY.md`.
 
 Live: **GTA VI sem parar na Kick, 19 até 21 de novembro (qui → sáb)**
 
@@ -43,9 +45,6 @@ Live: **GTA VI sem parar na Kick, 19 até 21 de novembro (qui → sáb)**
 | 06 Perseguição | FLA-03 Corta-vento |
 | 08 Madrugada | GTA-03 Liberty City ou COL-02 Colete preto |
 | 10 Iate | GTA-02 Vice City 1986 |
-| 11 Favela | COL-01 Colete camuflado |
-| 12 Morro → Vice City | FLA-01 Manto titular ou COL-03 Colete + manto |
-| 13 Laje | COL-02 Colete preto ou COL-03 Colete + manto |
 
 Quando a descrição da cena falar de roupa, **a roupa da cena vale mais** que a do figurino.
 
@@ -172,40 +171,6 @@ Center: "MISSÃO CUMPRIDA"
 Bottom: "3 DIAS DE GTA VI • VALEU, TROPA! • JULIO PISTOLADA"
 ```
 
-### CENA 11 — “Favela ao pôr do sol” (figurino COL-01)
-Cenário inspirado na referência que vocês mandaram (`referencia-cenario-favela.webp`). Nela, **o rosto não é o do Julio**: use a imagem só pelo cenário e pela luz.
-```
-Horizontal 16:9. Julio Pistolada stands in the foreground, chest-up, facing the camera, in a narrow alley at the bottom of a Rio de Janeiro hillside favela at dusk: dramatic orange-red and purple sunset sky, tangled electric wires and poles, colorful party flags strung across the alley, blue water tanks on rooftops, brick houses climbing the hill with hundreds of warm lit windows, a parked motorcycle, yellow plastic bar chairs, a streetlight, wet ground reflecting the sky. He wears [OUTFIT COL-01]. Cinematic low angle, red lenses reflecting the sunset, 3D next-gen game cutscene render.
-```
-Texto B:
-```
-Top-right: "JULIO PISTOLADA"
-Center-bottom huge: "GTA VI SEM PARAR!!!"
-Bottom bar: "19 ATÉ 21 • AO VIVO NA KICK"
-```
-
-### CENA 12 — “Do morro pra Vice City” (Rio × Leonida)
-```
-Vertical 4:5 split-scene poster. Julio Pistolada in the center, arms crossed (signature pose). The left half of the background is a Rio de Janeiro favela hillside at night with thousands of lit windows and Christ-the-Redeemer-style mountain silhouette in the distance (no recognizable statue details); the right half blends into a Vice City neon beach boulevard with palm trees and pink-purple sunset. The two halves merge behind him in a smooth gradient. Helicopter in the upper-left. He wears [OUTFIT FLA-01].
-```
-Texto B:
-```
-Top: "DO MORRO PRA VICE CITY"
-Center huge: "GTA VI"
-Below: "SEM PARAR!!! • JULIO PISTOLADA"
-Bottom: "19 ATÉ 21 • KICK"
-```
-
-### CENA 13 — “Laje” (vigia no alto do morro)
-```
-Horizontal 16:9. Julio Pistolada standing on a rooftop terrace (laje) of a favela at night, looking down at the camera, one foot on the low brick wall, city lights and the ocean far below, a kite flying in the sky, warm orange streetlights, cool blue moonlight rim light. He wears [OUTFIT COL-02]. Wide cinematic 3D in-game screenshot composition with empty sky space for text.
-```
-Texto B:
-```
-Sky area: "A LIVE TÁ ROLANDO — BROTA!!!"
-Bottom: "JULIO PISTOLADA • GTA VI SEM PARAR • KICK"
-```
-
 ---
 
 ## Dicas e cuidados
@@ -215,4 +180,3 @@ Bottom: "JULIO PISTOLADA • GTA VI SEM PARAR • KICK"
 3. **Direitos autorais (importante):** o banner de exemplo usa o **logo oficial do GTA VI e os protagonistas oficiais (Jason e Lucia)**. Os prompts acima pegam só a **estética** e deixam esses dois de fora de propósito. Escrever “GTA VI” como texto, pra dizer o jogo da live, é o que todo streamer faz. Copiar o logo e os personagens é mais arriscado, principalmente se a arte tiver patrocínio. Não sou advogado; na dúvida, confira com quem cuida disso pra vocês.
 4. **Formatos:** 16:9 (thumbnail/banner da Kick), 4:5 (feed do Instagram), 9:16 (story/TikTok). Gere a mesma cena nos três formatos pra manter a identidade visual.
 5. **Data:** pelo que pesquisei, o lançamento de GTA VI está marcado para **19/11/2026** (PS5 e Xbox Series X|S). Já foi adiado mais de uma vez, então confirme nos canais oficiais da Rockstar antes de postar a arte final.
-6. **Cenas na favela:** usem como cenário e clima, no estilo da ficção de GTA. Evitem símbolos, siglas ou nomes de facções reais, e marcas ou brasões de polícia ou do Exército de verdade no colete. Isso protege o canal e evita que a arte seja lida como apologia.

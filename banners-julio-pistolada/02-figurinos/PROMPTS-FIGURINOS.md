@@ -3,7 +3,7 @@
 O Julio usa **só 3 tipos de roupa**:
 
 1. **FLAMENGO**: camisas e peças rubro-negras
-2. **COLETE**: colete tático (favela/operação)
+2. **COLETE**: colete tático (operação / assalto)
 3. **CLÁSSICOS DO GTA**: um visual de cada era do jogo
 
 > **Nunca usar a camisa preta do Narizes FC das fotos de referência.** As fotos servem **só para o rosto e o corpo**. A trava de identidade (Etapa 1) já manda a IA ignorar a roupa das fotos.
@@ -56,7 +56,7 @@ red-and-black Flamengo-style hooped jersey, a red-and-black striped flag tied ar
 
 ## B) COLETE 🦺
 
-### COL-01 — “Favela + colete camuflado” (igual à referência que vocês mandaram)
+### COL-01 — “Colete camuflado”
 ```
 green woodland/digital camouflage tactical plate-carrier vest with pouches and a black radio earpiece cable, worn over a red-and-black Flamengo-style long-sleeve jersey (the red and black sleeves visible), black cargo pants, black tactical boots, fingerless gloves.
 ```
