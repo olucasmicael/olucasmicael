@@ -43,8 +43,8 @@ swatches = [
     ("CABELO/BARBA", avg(p3, (600, 180, 760, 230), lambda p: sum(p) < 200)),
     ("LENTE RUBI", avg(p9, (230, 90, 520, 330), lambda p: p[0] > 170 and p[1] < 80 and p[2] < 120)),
     ("ARMAÇÃO PRATA", avg(p4, (230, 560, 760, 820), lambda p: abs(p[0] - p[1]) < 12 and abs(p[1] - p[2]) < 12 and 120 < p[0] < 200)),
-    ("RUBRO (FLA)", (200, 16, 46)),
-    ("NEGRO (FLA)", (14, 14, 16)),
+    ("ROSA VICE", (255, 46, 160)),
+    ("ROXO VICE", (110, 50, 200)),
 ]
 
 W, H = 2400, 1700
@@ -103,10 +103,10 @@ traits = [
     "Cabelo preto crespo curto, degradê (fade) nas laterais",
     "Barba preta cheia e volumosa no queixo, ligada ao bigode",
     "Rosto redondo e cheio, bochechas largas",
-    "Corpo robusto / plus size, ombros largos (NÃO emagrecer)",
+    "Corpo IGUAL às fotos: forte e cheinho — NÃO engordar, NÃO emagrecer",
     "Óculos esportivo prata, lente espelhada vermelha (tipo “Juliet”)",
     "Relógio grande preto e prata + corrente prata",
-    "ROUPA: Flamengo, colete ou clássico GTA (NÃO a camisa das fotos)",
+    "ROUPA: só trajes de GTA (NÃO a camisa das fotos)",
     "Pose: braços cruzados ou “pistolinha” com a mão; queixo pra cima",
 ]
 for i, t in enumerate(traits):
