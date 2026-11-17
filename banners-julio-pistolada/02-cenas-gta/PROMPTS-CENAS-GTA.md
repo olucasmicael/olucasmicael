@@ -11,7 +11,8 @@ Cada cena é uma **releitura de uma era do GTA**, do San Andreas ao GTA VI: o am
 1. **Anexe:** `APROVADO-1A-cabeca.png` + `01-rosto-frente-oculos-vermelho.png`
 2. **Cole a TRAVA** (abaixo).
 3. **Cole a CENA** (cada uma já tem o estilo, o ambiente e o traje).
-4. **Final:** `SEM TEXTO` ou `COM TEXTO` (no fim do arquivo).
+4. **Cole o VIDEO GAME LOOK** (abaixo). É ele que impede de sair realista.
+5. **Final:** `SEM TEXTO` ou `COM TEXTO` (no fim do arquivo).
 
 ---
 
@@ -23,7 +24,19 @@ CHARACTER LOCK — JULIO PISTOLADA. The attached head sheet and photos are the O
 - Always wearing silver metal wraparound sport sunglasses with oval ruby-red mirrored lenses ("Juliet" style). Large black-and-silver chronograph watch on the left wrist.
 - BODY: about 10-15 kg LIGHTER than in the reference photos — solid, broad-shouldered, sturdy build, only a slight belly, slimmer neck, no double chin, defined jawline under the beard. Still clearly the same man. NOT fat, NOT obese, NOT skinny, NOT a bodybuilder. Realistic proportions, normal-sized head.
 - CLOTHING: ignore the clothes in the photos completely. He wears ONLY the GTA outfit described in the scene. Never football jerseys, tactical vests, bandanas, balaclavas, slide sandals, flip-flops, no "NARIZES FC".
-STYLE BASE: realistic real-time 3D video game render, Rockstar RAGE engine look (Grand Theft Auto V / Grand Theft Auto VI), PBR skin and fabric, ray-traced lighting, cinematic in-game cutscene / photo-mode screenshot. NOT a cartoon, NOT an illustration, NO outlines, NO cel shading, NO caricature. No real game logos.
+STYLE BASE: real-time 3D VIDEO GAME graphics, Rockstar RAGE engine look (Grand Theft Auto V / Grand Theft Auto VI), in-game cutscene screenshot. Clearly a video game, NOT a real photo, NOT hyperrealistic. NOT a cartoon, NOT an illustration, NO outlines, NO cel shading, NO caricature. No real game logos.
+```
+
+## VIDEO GAME LOOK (cole embaixo de TODA cena, antes do final)
+
+```
+VIDEO GAME LOOK — MOST IMPORTANT RULE: the image must clearly look like a VIDEO GAME, not a real photo and not a movie. It must look like an actual in-game screenshot / cutscene frame from Grand Theft Auto V (PS4/PC) or Grand Theft Auto VI gameplay: stylized real-time 3D game graphics, the character is a 3D game character model with smooth, slightly simplified game skin (no real-life pores, no photographic detail), slightly stylized game-model facial features, clean game textures on clothes, cars and buildings, typical game-engine lighting (bloom, bright saturated colors, crisp game shadows, screen-space reflections), slightly "CG" look on cars, palm trees and buildings, simplified background detail in the distance.
+NOT a photograph, NOT hyperrealistic, NOT a film still, NOT a DSLR photo, no film grain, no photographic bokeh, no real-camera look. Also NOT a cartoon, NOT an illustration, NOT a drawing, no outlines.
+```
+
+**Opcional: HUD de jogo.** Deixa a imagem com cara de print do jogo. Não use junto com texto grande no topo direito.
+```
+OPTIONAL GAME HUD (makes it scream "video game"): add a subtle generic open-world game HUD: small round minimap in the bottom-left corner with a thin health/armor bar under it, five small white wanted stars and a "$" money counter in the top-right corner. Generic design, no real game logos.
 ```
 
 ---
@@ -32,7 +45,7 @@ STYLE BASE: realistic real-time 3D video game render, Rockstar RAGE engine look 
 
 ### SA-01 — “Rua sem saída ao pôr do sol”
 ```
-ERA: early-1990s West Coast, inspired by GTA San Andreas, remastered as a next-gen 3D game. Hazy smog sunset, warm orange-yellow and dusty green color grading, slight film grain.
+ERA: early-1990s West Coast, inspired by GTA San Andreas, remastered as a next-gen 3D game. Hazy smog sunset, warm orange-yellow and dusty green color grading.
 SCENE: Julio Pistolada leaning against a candy-green 1960s lowrider convertible with gold wire wheels, parked in a quiet suburban cul-de-sac of small pastel houses with palm trees, telephone wires against an orange sky, kids' bicycle on the lawn, a police helicopter far in the upper-left sky. Arms crossed, chin up, relaxed confidence. Vertical 4:5, low camera angle, empty sky at the top.
 OUTFIT (90s West Coast): oversized plain white crew-neck t-shirt, light-blue baggy straight jeans, crisp white classic leather sneakers, thin gold chain, black-and-silver watch.
 ```
@@ -122,35 +135,35 @@ OUTFIT (CEO): charcoal double-breasted suit, black turtleneck, black loafers, bl
 
 ### VI-01 — “Pôr do sol em Vice City” (a principal)
 ```
-ERA: present-day Vice City / Leonida (Florida-inspired), in the style of Grand Theft Auto VI trailers — near-photorealistic next-gen 3D, ray-traced reflections, volumetric light, cinematic depth of field, subtle film grain. Hot pink, magenta, orange and purple sunset grading.
+ERA: present-day Vice City / Leonida (Florida-inspired), in the style of Grand Theft Auto VI trailers — next-gen 3D video game graphics, game-engine reflections and volumetric light. Hot pink, magenta, orange and purple sunset grading.
 SCENE: Julio Pistolada standing in front of a modern black sports car on a neon beach boulevard at sunset, art-deco hotels with pink and cyan neon, tall palm trees, a helicopter in the upper-left sky, wet asphalt reflections. Arms crossed, chin up. Vertical 4:5, low angle, clean sky space at the top.
 OUTFIT (Leonida modern): fitted plain black t-shirt, light-wash slim jeans, white leather sneakers, thin silver chain, black-and-silver watch.
 ```
 
 ### VI-02 — “Pântano de Leonida”
 ```
-ERA: present-day Leonida swamp, GTA VI trailer look, near-photorealistic next-gen 3D. Golden-hour light, humid haze, orange-pink sky reflected on the water.
+ERA: present-day Leonida swamp, GTA VI trailer look, next-gen 3D video game graphics. Golden-hour light, humid haze, orange-pink sky reflected on the water.
 SCENE: Julio Pistolada standing on a fast airboat crossing a swamp, water spray behind, cypress trees with hanging moss, a flamingo flying, an alligator's eyes in the foreground water. Wind in his shirt, big smile. Horizontal 16:9.
 OUTFIT (Leonida swamp): open short-sleeve camp-collar shirt in a sunset-orange and pink tropical print over a white tank top, olive cargo pants, brown boots, watch.
 ```
 
 ### VI-03 — “Noite em South Beach”
 ```
-ERA: present-day Vice City nightlife, GTA VI trailer look, near-photorealistic next-gen 3D. Purple and pink neon, glossy wet streets, bokeh.
+ERA: present-day Vice City nightlife, GTA VI trailer look, next-gen 3D video game graphics. Purple and pink neon, glossy wet streets, bokeh.
 SCENE: Julio Pistolada stepping out of a luxury car in front of a glowing nightclub entrance with a red velvet rope, a crowd filming with their phones, paparazzi flashes, neon signs and palm trees. Vertical 4:5.
 OUTFIT (Vice City night): black silk short-sleeve shirt with a subtle purple palm print, black tailored trousers, black leather loafers, thin silver chain, watch.
 ```
 
 ### VI-04 — “Ficha da polícia de Leonida” (procurado)
 ```
-ERA: present-day Leonida, GTA VI trailer look, near-photorealistic next-gen 3D. Harsh fluorescent light mixed with red-and-blue police flashes.
+ERA: present-day Leonida, GTA VI trailer look, next-gen 3D video game graphics. Harsh fluorescent light mixed with red-and-blue police flashes.
 SCENE: police mugshot photo booth: Julio Pistolada holding a booking placard, standing against a height-chart wall, one eyebrow raised above the red sunglasses, cocky half-smile. Five glowing golden wanted stars float above his head. Vertical 4:5.
 OUTFIT: the Leonida modern look — fitted plain black t-shirt, light-wash jeans, silver chain, watch.
 ```
 
 ### VI-05 — “Selfie na praia” (rede social do jogo)
 ```
-ERA: present-day Vice City beach, GTA VI trailer look, near-photorealistic next-gen 3D, social-media-video aesthetic, lens flare.
+ERA: present-day Vice City beach, GTA VI trailer look, next-gen 3D video game graphics, in-game social-media-video aesthetic, lens flare.
 SCENE: slightly high-angle selfie-style frame of Julio Pistolada filming himself on a crowded beach at sunset, finger-gun gesture next to his face, jet skis and a party boat behind him, palm trees and pink sky. Vertical 9:16.
 OUTFIT (Vice City beach): open pink-and-teal short-sleeve tropical shirt over a white tank top, white swim shorts, white sneakers, thin silver chain, watch.
 ```
@@ -161,7 +174,7 @@ OUTFIT (Vice City beach): open pink-and-teal short-sleeve tropical shirt over a 
 
 ### CAPA-01 — “Grade de quadros”
 ```
-Vertical 4:5 poster designed as the classic Grand Theft Auto box-art collage: 9 panels separated by thick black borders, EVERY panel a realistic next-gen 3D in-game render (not drawn). A helicopter in the top-left panel. The center panel is the biggest: Julio Pistolada in the Leonida modern look (black tee, light-wash jeans) at a Vice City sunset. The other panels show Julio in each era's outfit: 1990s lowrider street (white tee, baggy jeans), 1986 Vice City (Hawaiian shirt) on a beach boulevard, Liberty City (brown leather jacket) on a rainy bridge, Los Santos (navy suit) by a mansion pool, heist (black suit and gloves) in a gold vault, Vice City night (black silk shirt) at a nightclub, Leonida swamp airboat. Each panel keeps its era's color grading.
+Vertical 4:5 poster designed as the classic Grand Theft Auto box-art collage: 9 panels separated by thick black borders, EVERY panel a 3D in-game screenshot with video game graphics (not drawn, not a real photo). A helicopter in the top-left panel. The center panel is the biggest: Julio Pistolada in the Leonida modern look (black tee, light-wash jeans) at a Vice City sunset. The other panels show Julio in each era's outfit: 1990s lowrider street (white tee, baggy jeans), 1986 Vice City (Hawaiian shirt) on a beach boulevard, Liberty City (brown leather jacket) on a rainy bridge, Los Santos (navy suit) by a mansion pool, heist (black suit and gloves) in a gold vault, Vice City night (black silk shirt) at a nightclub, Leonida swamp airboat. Each panel keeps its era's color grading.
 ```
 
 ---
