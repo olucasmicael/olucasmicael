@@ -61,6 +61,69 @@ INFO: "kick.com/juliopistolada"
 
 O INFO é sempre `kick.com/juliopistolada`.
 
+
+# Blocos prontos “3 DIAS” (maratona)
+
+## 5 — 3 DIAS SEGUIDOS DE LIVE!
+```
+TEXT ON THE IMAGE — TYPOGRAPHY: premium GTA VI key-art title design — chunky condensed retro lettering in the spirit of the Grand Theft Auto logo (Pricedown-like), sunset gradient fill (golden yellow → orange → hot pink → magenta), thin dark-plum outline, subtle 3D bevel, soft glow and drop shadow. Secondary line in clean white condensed sans-serif, all caps, wide letter-spacing. Info line inside a sleek dark glass rounded pill. Text in the emptiest area (sky / top or bottom), clear hierarchy, never covering his face.
+SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç). Always "GTA VI" in Roman numerals — NEVER "GTA 6". No extra words.
+Do NOT write the name "JULIO PISTOLADA" anywhere on the image — the name appears ONLY inside the link "kick.com/juliopistolada".
+TITLE: "3 DIAS SEGUIDOS DE LIVE!"
+SUBTITLE: "GTA VI • COMEÇA 00H"
+INFO: "kick.com/juliopistolada"
+```
+
+## 6 — 3 DIAS SEM PARAR DE GTA VI
+```
+TEXT ON THE IMAGE — TYPOGRAPHY: premium GTA VI key-art title design — chunky condensed retro lettering in the spirit of the Grand Theft Auto logo (Pricedown-like), sunset gradient fill (golden yellow → orange → hot pink → magenta), thin dark-plum outline, subtle 3D bevel, soft glow and drop shadow. Secondary line in clean white condensed sans-serif, all caps, wide letter-spacing. Info line inside a sleek dark glass rounded pill. Text in the emptiest area (sky / top or bottom), clear hierarchy, never covering his face.
+SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç). Always "GTA VI" in Roman numerals — NEVER "GTA 6". No extra words.
+Do NOT write the name "JULIO PISTOLADA" anywhere on the image — the name appears ONLY inside the link "kick.com/juliopistolada".
+TITLE: "3 DIAS SEM PARAR DE GTA VI"
+SUBTITLE: "00H • DE QUARTA PRA QUINTA"
+INFO: "kick.com/juliopistolada"
+```
+
+## 7 — MARATONA DE GTA VI
+```
+TEXT ON THE IMAGE — TYPOGRAPHY: premium GTA VI key-art title design — chunky condensed retro lettering in the spirit of the Grand Theft Auto logo (Pricedown-like), sunset gradient fill (golden yellow → orange → hot pink → magenta), thin dark-plum outline, subtle 3D bevel, soft glow and drop shadow. Secondary line in clean white condensed sans-serif, all caps, wide letter-spacing. Info line inside a sleek dark glass rounded pill. Text in the emptiest area (sky / top or bottom), clear hierarchy, never covering his face.
+SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç). Always "GTA VI" in Roman numerals — NEVER "GTA 6". No extra words.
+Do NOT write the name "JULIO PISTOLADA" anywhere on the image — the name appears ONLY inside the link "kick.com/juliopistolada".
+TITLE: "MARATONA DE GTA VI"
+SUBTITLE: "3 DIAS SEM PARAR • COMEÇA 00H"
+INFO: "kick.com/juliopistolada"
+```
+
+## 8 — A MARATONA VAI COMEÇAR
+```
+TEXT ON THE IMAGE — TYPOGRAPHY: premium GTA VI key-art title design — chunky condensed retro lettering in the spirit of the Grand Theft Auto logo (Pricedown-like), sunset gradient fill (golden yellow → orange → hot pink → magenta), thin dark-plum outline, subtle 3D bevel, soft glow and drop shadow. Secondary line in clean white condensed sans-serif, all caps, wide letter-spacing. Info line inside a sleek dark glass rounded pill. Text in the emptiest area (sky / top or bottom), clear hierarchy, never covering his face.
+SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç). Always "GTA VI" in Roman numerals — NEVER "GTA 6". No extra words.
+Do NOT write the name "JULIO PISTOLADA" anywhere on the image — the name appears ONLY inside the link "kick.com/juliopistolada".
+TITLE: "A MARATONA VAI COMEÇAR"
+SUBTITLE: "3 DIAS DE GTA VI • 00H"
+INFO: "kick.com/juliopistolada"
+```
+
+## 9 — DO DIA 19 ATÉ 21
+```
+TEXT ON THE IMAGE — TYPOGRAPHY: premium GTA VI key-art title design — chunky condensed retro lettering in the spirit of the Grand Theft Auto logo (Pricedown-like), sunset gradient fill (golden yellow → orange → hot pink → magenta), thin dark-plum outline, subtle 3D bevel, soft glow and drop shadow. Secondary line in clean white condensed sans-serif, all caps, wide letter-spacing. Info line inside a sleek dark glass rounded pill. Text in the emptiest area (sky / top or bottom), clear hierarchy, never covering his face.
+SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç). Always "GTA VI" in Roman numerals — NEVER "GTA 6". No extra words.
+Do NOT write the name "JULIO PISTOLADA" anywhere on the image — the name appears ONLY inside the link "kick.com/juliopistolada".
+TITLE: "DO DIA 19 ATÉ 21"
+SUBTITLE: "GTA VI SEM PARAR"
+INFO: "kick.com/juliopistolada"
+```
+
+## 10 — COMEÇOU A MARATONA (a partir da 00h)
+```
+TEXT ON THE IMAGE — TYPOGRAPHY: premium GTA VI key-art title design — chunky condensed retro lettering in the spirit of the Grand Theft Auto logo (Pricedown-like), sunset gradient fill (golden yellow → orange → hot pink → magenta), thin dark-plum outline, subtle 3D bevel, soft glow and drop shadow. Secondary line in clean white condensed sans-serif, all caps, wide letter-spacing. Info line inside a sleek dark glass rounded pill. Text in the emptiest area (sky / top or bottom), clear hierarchy, never covering his face.
+SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç). Always "GTA VI" in Roman numerals — NEVER "GTA 6". No extra words.
+Do NOT write the name "JULIO PISTOLADA" anywhere on the image — the name appears ONLY inside the link "kick.com/juliopistolada".
+TITLE: "COMEÇOU A MARATONA"
+SUBTITLE: "3 DIAS DE GTA VI AO VIVO"
+INFO: "kick.com/juliopistolada"
+```
+
 ## Frases “3 DIAS” (maratona)
 
 | Momento | TITLE | SUBTITLE |
