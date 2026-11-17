@@ -17,10 +17,10 @@
 ## Rota (uma etapa por vez, aprovando antes de seguir)
 
 - [ ] **ETAPA 1 — Character sheet** ← *estamos aqui*
-  - 1A: ficha de **rosto** (só a cabeça). Aprovar o rosto antes de tudo.
-  - 1B: ficha de **corpo inteiro**, em 4 vistas, com o traje base de GTA. Aprovar o peso e a proporção.
-  - 1C: expressões. 1D: poses.
-  - ✅ Validar com o Julio: rosto, peso, óculos e barba.
+  - Ficha **só da cabeça**: o corpo e a roupa vêm em cada prompt de cena.
+  - 1A: cabeça em 5 vistas + close-ups. Aprovar o rosto com o Julio.
+  - 1B: expressões (só cabeça).
+  - ✅ Validar com o Julio: rosto, óculos, barba e o rosto um pouco mais magro.
 - [ ] **ETAPA 2 — Guarda-roupa GTA**: trajes só de GTA, cada um com uma ficha.
 - [ ] **ETAPA 3 — Cenas**: reaproveitar as melhores ideias (Vice City, iate, carro, setup, procurado, grade, outdoor, roda de personagens…) com traje de GTA.
 - [ ] **ETAPA 4 — Frases de pré-live**: com 00h de quarta pra quinta, “até ficar doente” e o link da Kick.

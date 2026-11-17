@@ -5,18 +5,19 @@
 2. **Só traje de GTA:** nada de camisa de time, colete, chinelo ou bandana, que deixavam “estilo favela”.
 3. **Visual 3D de jogo:** não pode sair cartoon.
 
-Faça **na ordem** (1A → 1B → 1C → 1D) e só avance quando a anterior estiver aprovada.
+**A ficha é SÓ DA CABEÇA.** Ela trava o rosto. O corpo (peso) e a roupa vêm em cada prompt de cena, conforme a referência de traje de GTA. A trava de identidade continua com a linha de peso, para o corpo sair certo nas cenas.
+
+Faça **na ordem**: 1A (rosto) → 1B (expressões). Só avance quando a 1A estiver aprovada.
 
 ---
 
-## O que anexar (em TODAS as gerações da Etapa 1)
+## O que anexar (na 1A e na 1B)
 
 | Arquivo (`referencias/`) | Por quê |
 |---|---|
 | `01-rosto-frente-oculos-vermelho.png` | Rosto oficial |
 | `03-rosto-3-4.png` | Rosto em outro ângulo |
 | `09-detalhe-barba.png` | Formato da barba |
-| `04-corpo-inteiro-em-pe.png` | **Só na 1B, 1C e 1D**, para a IA copiar o peso real |
 
 **Não anexem** a ficha montada (`character-sheet-julio-pistolada.png`) no gerador. Ela tem muita camisa do Narizes e texto, e a IA copia. Ela serve para **vocês** conferirem o resultado.
 
@@ -44,73 +45,38 @@ STYLE — 3D VIDEO GAME CHARACTER: render him as a real-time 3D character model 
 NEGATIVE: no cartoon, no comic, no illustration, no painting, no cel shading, no black outlines, no anime, no caricature, no big head, no exaggerated body, no vector art.
 ```
 
-## TRAJE BASE DA FICHA (protagonista de GTA)
-
-Um visual limpo de protagonista de GTA, neutro, que funciona como padrão. Os outros trajes de GTA vêm na Etapa 2.
-```
-OUTFIT (GTA protagonist casual): plain fitted black crew-neck t-shirt with no logos, dark-wash straight-leg jeans, black leather belt, clean white low-top leather sneakers, thin silver chain, black-and-silver chronograph watch, red-lens wraparound sunglasses.
-```
-
 ---
 
-## 1A — FICHA DE ROSTO (gere primeiro e aprove o rosto)
+## 1A — FICHA DA CABEÇA (gere primeiro e aprove o rosto)
 
 ```
 [BLOCO 1]
 [BLOCO 2]
 
 3D HEAD TURNAROUND SHEET of JULIO PISTOLADA, horizontal 16:9, neutral mid-gray 3D studio backdrop, soft three-point lighting, same lighting in every view.
-Row of 5 head-and-shoulders renders at the same scale: FRONT, 3/4 LEFT, LEFT PROFILE, 3/4 RIGHT, BACK OF THE HEAD.
-He wears the red-lens wraparound sunglasses in every view and a plain black crew-neck t-shirt (no logos).
-Focus on matching the reference photos exactly: face shape, cheeks, beard line and length, hair fade, skin tone. Neutral serious expression.
+HEAD ONLY — no body, no outfit: each view is cropped at the base of the neck (only a hint of a plain dark neutral collar, no logos, no clothing details).
+TOP ROW — 5 head renders at the same scale: FRONT, 3/4 LEFT, LEFT PROFILE, 3/4 RIGHT, BACK OF THE HEAD.
+BOTTOM ROW — 2 bigger close-ups: FRONT close-up and 3/4 close-up, showing skin pores, beard texture, hair fade and the reflection on the red lenses; plus a small render of the sunglasses alone (front and side).
+He wears the red-lens wraparound sunglasses in every head view.
+Match the reference photos exactly: face shape, beard line and length, hair fade, skin tone — but with the slimmer neck, no double chin and slightly less full cheeks from the weight lock. Neutral serious expression.
 Only text: "JULIO PISTOLADA" small in the top-left corner.
 ```
 
-**Aprova se:** o rosto é dele, a barba tem o mesmo formato, a pele tem o mesmo tom, o óculos está certo, e o corpo está **mais leve que nas fotos** (pescoço mais fino, sem papada), mas ainda dá pra reconhecer o Julio.
+**Aprova se:** o rosto é dele, a barba tem o mesmo formato, a pele tem o mesmo tom, o óculos está certo, e o rosto está **um pouco mais magro que nas fotos** (pescoço mais fino, sem papada), mas ainda é claramente o Julio. Mostrem pro Julio e salvem a aprovada como `APROVADO-1A-cabeca.png`.
 
 ---
 
-## 1B — FICHA DE CORPO INTEIRO (turnaround)
+## 1B — EXPRESSÕES (só cabeça)
 
-Anexe também `04-corpo-inteiro-em-pe.png` e a melhor imagem aprovada na 1A.
+Anexe a `APROVADO-1A-cabeca.png` + `01-rosto-frente-oculos-vermelho.png`.
 
 ```
 [BLOCO 1]
 [BLOCO 2]
 
-3D CHARACTER MODEL SHEET of JULIO PISTOLADA, presented like a game studio's character turnaround rendered in-engine. Horizontal 16:9, neutral mid-gray 3D studio backdrop with soft three-point lighting and a subtle floor reflection.
-- TOP ROW (full body, same scale, aligned on one baseline): FRONT, 3/4, SIDE PROFILE, BACK. Neutral standing pose, arms relaxed at the sides.
-- BOTTOM: 2 small detail renders — the sunglasses (front and side) and the watch on his wrist.
-OUTFIT (GTA protagonist casual): plain fitted black crew-neck t-shirt with no logos, dark-wash straight-leg jeans, black leather belt, clean white low-top leather sneakers, thin silver chain, black-and-silver chronograph watch.
-Body: about 10-15 kg lighter than the full-body reference photo (sturdy, broad, slight belly) — same height, same face.
-Only text: "JULIO PISTOLADA" in the top-left corner.
-```
-
-**Aprova se:** comparando lado a lado com `04-corpo-inteiro-em-pe.png`, ele está **visivelmente mais leve** (barriga menor, pescoço mais fino) e continua reconhecível.
-
----
-
-## 1C — EXPRESSÕES
-
-```
-[BLOCO 1]
-[BLOCO 2]
-
-3D EXPRESSION SHEET of JULIO PISTOLADA: 3x3 grid of in-engine head-and-shoulders renders, same lighting, neutral gray studio backdrop, red-lens sunglasses ON in all, plain black crew-neck t-shirt (no logos):
-1 serious/neutral, 2 confident smirk, 3 hyped shouting (streamer reaction), 4 laughing, 5 shocked, 6 angry frown, 7 "finger gun" gesture next to his face, 8 arms crossed looking down at the camera, 9 pointing at the viewer.
+3D EXPRESSION SHEET of JULIO PISTOLADA — HEAD ONLY: 3x3 grid of in-engine head renders cropped at the neck (no outfit details), same lighting, neutral gray studio backdrop, red-lens sunglasses ON in all:
+1 serious/neutral, 2 confident smirk, 3 hyped shouting (streamer reaction), 4 laughing, 5 shocked, 6 angry frown, 7 eyebrow raised (one brow above the glasses), 8 chin up looking down at the camera, 9 tired-but-smiling (marathon mode).
 Same face, beard and weight in all 9 — slimmer neck and jawline, no double chin. Only text: "JULIO PISTOLADA" small at the top.
-```
-
-## 1D — POSES
-
-```
-[BLOCO 1]
-[BLOCO 2]
-
-3D POSE SHEET of JULIO PISTOLADA, full body, 6 poses in a row on a neutral gray 3D studio backdrop, same scale:
-1 arms crossed, 2 "finger gun" gesture near his face, 3 walking toward the camera, 4 leaning back against an invisible wall, 5 holding a game controller, 6 holding a phone recording a selfie video.
-OUTFIT in every pose (GTA protagonist casual): plain fitted black crew-neck t-shirt with no logos, dark-wash straight-leg jeans, black belt, white low-top sneakers, thin silver chain, watch.
-Same lighter, sturdy body in every pose (about 10-15 kg lighter than the reference photo). Only text: "JULIO PISTOLADA".
 ```
 
 ---
@@ -120,9 +86,9 @@ Same lighter, sturdy body in every pose (about 10-15 kg lighter than the referen
 | Problema | Correção (mande como edição na imagem que saiu) |
 |---|---|
 | Saiu mais gordo | `Make him slightly slimmer to match the full-body reference photo exactly: smaller belly, less double chin, thinner neck. Keep face and beard identical.` |
-| Saiu magro ou forte demais | `Make his body match the reference photo: stocky with a moderate belly, not muscular.` |
+| Saiu magro demais / rosto mudou | `Keep him recognizable: face only slightly slimmer than the reference photos, same cheeks shape and beard.` Ou troque “10-15 kg” por “5-10 kg” na trava. |
 | Saiu cartoon | Comece com `3D game screenshot, Rockstar RAGE engine render, realistic` e peça `not fan art, not illustration`. |
-| Apareceu a camisa do Narizes | Tire a foto de corpo dos anexos e deixe só os recortes de rosto. |
+| Apareceu roupa/camisa | Reforce `HEAD ONLY — no clothing details` e anexe só os recortes de rosto. |
 | Rosto diferente | Gere 4 a 8 opções e escolha. Se a ferramenta deixar, use a função de referência de personagem/rosto. |
 
-Depois de aprovar a 1A e a 1B, salvem como `APROVADO-1A-rosto.png` e `APROVADO-1B-corpo.png` aqui na pasta. Elas viram a referência de todas as próximas etapas.
+Daqui pra frente, **todo prompt de cena** leva: a `APROVADO-1A-cabeca.png` anexada + a TRAVA DE IDENTIDADE + o traje de GTA da cena. Assim o rosto vem da ficha e a roupa vem do prompt.

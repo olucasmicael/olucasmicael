@@ -12,9 +12,6 @@ Do not change his ethnicity, age (mid-twenties), face shape, beard shape or weig
 STYLE — 3D VIDEO GAME CHARACTER: render him as a real-time 3D character model from a modern open-world crime video game, like Grand Theft Auto V on PC at max settings / Grand Theft Auto VI (Rockstar RAGE engine look). Realistic human proportions, game-quality 3D skin with pores and subsurface scattering, realistic curly hair and beard, PBR fabric with folds and stitching, ray-traced lighting and soft shadows. It must look like an in-game screenshot / a character model viewer, NOT a drawing.
 NEGATIVE: no cartoon, no comic, no illustration, no painting, no cel shading, no black outlines, no anime, no caricature, no big head, no exaggerated body, no vector art.
 
-3D CHARACTER MODEL SHEET of JULIO PISTOLADA, presented like a game studio's character turnaround rendered in-engine. Horizontal 16:9, neutral mid-gray 3D studio backdrop with soft three-point lighting and a subtle floor reflection.
-- TOP ROW (full body, same scale, aligned on one baseline): FRONT, 3/4, SIDE PROFILE, BACK. Neutral standing pose, arms relaxed at the sides.
-- BOTTOM: 2 small detail renders — the sunglasses (front and side) and the watch on his wrist.
-OUTFIT (GTA protagonist casual): plain fitted black crew-neck t-shirt with no logos, dark-wash straight-leg jeans, black leather belt, clean white low-top leather sneakers, thin silver chain, black-and-silver chronograph watch.
-Body: about 10-15 kg lighter than the full-body reference photo (sturdy, broad, slight belly) — same height, same face.
-Only text: "JULIO PISTOLADA" in the top-left corner.
+3D EXPRESSION SHEET of JULIO PISTOLADA — HEAD ONLY: 3x3 grid of in-engine head renders cropped at the neck (no outfit details), same lighting, neutral gray studio backdrop, red-lens sunglasses ON in all:
+1 serious/neutral, 2 confident smirk, 3 hyped shouting (streamer reaction), 4 laughing, 5 shocked, 6 angry frown, 7 eyebrow raised (one brow above the glasses), 8 chin up looking down at the camera, 9 tired-but-smiling (marathon mode).
+Same face, beard and weight in all 9 — slimmer neck and jawline, no double chin. Only text: "JULIO PISTOLADA" small at the top.
