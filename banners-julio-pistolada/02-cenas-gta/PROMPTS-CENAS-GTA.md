@@ -183,14 +183,42 @@ SUBTITLE: "COMEÇA 00H • DE QUARTA PRA QUINTA"
 INFO PILL: "kick.com/juliopistolada"
 ```
 
-**Outras combinações de texto** (troque as linhas TITLE/SUBTITLE/INFO):
+## FRASES DE CHAMADA (troque as linhas TITLE / SUBTITLE / INFO)
+
+### ⭐ PRINCIPAIS (pedidas pelo Julio, usem mais que todas)
 
 | TITLE | SUBTITLE | INFO |
 |---|---|---|
+| `LIVE DE GTA VI ATÉ FICAR DOENTE` | `COMEÇA 00H • DE QUARTA PRA QUINTA` | `kick.com/juliopistolada` |
 | `A LIVE VAI COMEÇAR` | `00H • DE QUARTA PRA QUINTA` | `kick.com/juliopistolada` |
-| `GTA VI ATÉ FICAR DOENTE` | `JULIO PISTOLADA` | `00H • QUARTA PRA QUINTA` |
-| `PREPARA O CORAÇÃO` | `GTA VI COMEÇA 00H` | `kick.com/juliopistolada` |
-| `HOJE TEM GTA VI` | `A PARTIR DA MEIA-NOITE` | `kick.com/juliopistolada` |
-| `JULIO PISTOLADA` | `LIVE DE GTA VI ATÉ FICAR DOENTE` | `00H • DE QUARTA PRA QUINTA` |
+| `GTA VI ATÉ FICAR DOENTE` | `JULIO PISTOLADA` | `00H • DE QUARTA PRA QUINTA` |
+
+### 🕛 PRÉ-LIVE (antes da meia-noite de quarta)
+
+| TITLE | SUBTITLE | INFO |
+|---|---|---|
+| `HOJE À MEIA-NOITE TEM GTA VI` | `LIVE ATÉ FICAR DOENTE` | `kick.com/juliopistolada` |
+| `PREPARA O CORAÇÃO` | `GTA VI COMEÇA 00H` | `DE QUARTA PRA QUINTA` |
+| `CANCELA O SONO` | `00H DE QUARTA PRA QUINTA É GTA VI` | `kick.com/juliopistolada` |
+| `SEPARA O LANCHE` | `00H COMEÇA A LIVE DE GTA VI` | `JULIO PISTOLADA` |
+| `FALTAM 3 HORAS` *(troque o número)* | `LIVE DE GTA VI ATÉ FICAR DOENTE` | `kick.com/juliopistolada` |
+| `A CONTAGEM COMEÇOU` | `GTA VI • 00H • QUARTA PRA QUINTA` | `kick.com/juliopistolada` |
+
+### 🔴 LIVE COMEÇANDO / AO VIVO (a partir da 00h)
+
+| TITLE | SUBTITLE | INFO |
+|---|---|---|
+| `A LIVE COMEÇOU — BROTA!!!` | `GTA VI ATÉ FICAR DOENTE` | `kick.com/juliopistolada` |
+| `TÁ ON!` | `GTA VI AO VIVO AGORA` | `kick.com/juliopistolada` |
+| `ENTROU NO AR` | `LIVE DE GTA VI ATÉ FICAR DOENTE` | `JULIO PISTOLADA • KICK` |
+| `00H EM PONTO` | `VEM PRA LIVE DE GTA VI` | `kick.com/juliopistolada` |
+| `AO VIVO AGORA` | `JULIO PISTOLADA NO GTA VI` | `kick.com/juliopistolada` |
+| `BROTA NA KICK` | `O GTA VI JÁ TÁ ROLANDO` | `kick.com/juliopistolada` |
+
+**Qual frase em qual cena** (sugestão):
+- **Principal (VI-01, CAPA-01):** “LIVE DE GTA VI ATÉ FICAR DOENTE” + “COMEÇA 00H • DE QUARTA PRA QUINTA” + link
+- **Pré-live:** VC-01, LS-01, SA-01, VC-02, ON-02
+- **Live começando:** VI-03 (entrada da boate), ON-01 (assalto), VI-05 (selfie), LS-02, VI-02
+- **Madrugada / humor:** LC-01 (“TÁ ON!”), VI-04 procurado (“ENTROU NO AR”)
 
 > **Símbolo da Kick:** os geradores costumam errar logos reais. Coloquem o ícone oficial da Kick no Canva, ao lado do link, depois de gerar.
