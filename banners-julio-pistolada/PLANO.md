@@ -16,13 +16,13 @@
 
 ## Rota (uma etapa por vez, aprovando antes de seguir)
 
-- [ ] **ETAPA 1 — Character sheet** ← *estamos aqui*
+- [x] **ETAPA 1 — Character sheet**
   - Ficha **só da cabeça**: o corpo e a roupa vêm em cada prompt de cena.
   - 1A: cabeça em 5 vistas + close-ups. Aprovar o rosto com o Julio.
   - 1B: expressões (só cabeça).
   - ✅ Validar com o Julio: rosto, óculos, barba e o rosto um pouco mais magro.
-- [ ] **ETAPA 2 — Guarda-roupa GTA**: trajes só de GTA, cada um com uma ficha.
-- [ ] **ETAPA 3 — Cenas**: reaproveitar as melhores ideias (Vice City, iate, carro, setup, procurado, grade, outdoor, roda de personagens…) com traje de GTA.
+- [ ] **ETAPA 2 — Cenas por era do GTA** ← *estamos aqui*: `02-cenas-gta/PROMPTS-CENAS-GTA.md`, com 16 cenas (San Andreas, Vice City, Liberty City, Los Santos, GTA Online, GTA VI e capa) e traje de cada era.
+- [ ] **ETAPA 3 — Cenas extras**: reaproveitar ideias antigas (iate, setup, outdoor, roda de personagens…) com traje de GTA, se o cliente quiser mais.
 - [ ] **ETAPA 4 — Frases de pré-live**: com 00h de quarta pra quinta, “até ficar doente” e o link da Kick.
 - [ ] **ETAPA 5 — Montagem final**: título premium e link da Kick nas artes certas.
 
