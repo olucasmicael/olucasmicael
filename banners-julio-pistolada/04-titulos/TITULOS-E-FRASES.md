@@ -1,0 +1,48 @@
+# ETAPA 4 — Títulos e frases para cada momento da maratona
+
+Use no **título da live**, na **arte** e no **post/story**.
+
+### Antes (dias 15 a 18 — esquenta)
+- **GTA VI SEM PARAR!!! — 19 ATÉ 21 NA KICK**
+- FALTAM 3 DIAS PRO CAOS
+- SEPARA O LANCHE: 19 ATÉ 21 É GTA VI
+- O JULIO VAI MORAR EM VICE CITY
+- CANCELA TUDO DIA 19
+
+### Véspera / dia do lançamento
+- **É AMANHÃ. GTA VI SEM PARAR!!!**
+- HOJE À NOITE O MAPA É NOSSO
+- PRÉ-LOAD FEITO, CORAÇÃO NÃO
+
+### A live vai começar
+- **A LIVE JÁ VAI COMEÇAR — COLA!**
+- AQUECENDO O MOTOR… 5 MIN
+- LIGANDO A CÂMERA, CHAMA A TROPA
+- PRIMEIRA HORA DE GTA VI: AO VIVO
+
+### Live rolando
+- **LIVE TÁ ROLANDO — BROTA!!!**
+- AO VIVO AGORA: GTA VI SEM PARAR
+- 5 ESTRELAS DE PROCURADO — VEM VER
+- O JULIO TÁ FUGINDO DA POLÍCIA AGORA
+- ENTRA AÍ QUE O CAOS TÁ FEITO
+
+### Marcos durante a maratona
+- **10 HORAS SEM PARAR E CONTANDO**
+- 24H DE GTA VI — AINDA DE PÉ
+- MADRUGADA EM VICE CITY (ainda ao vivo)
+- O JULIO NÃO DORMIU. VOCÊ DORMIU?
+- DIA 2 DE 3 — SEGUE O BAILE
+- META BATIDA: [X] NA LIVE
+
+### Reta final
+- **ÚLTIMAS HORAS DA MARATONA**
+- DIA 21: O GRANDE FINAL
+- ÚLTIMA MISSÃO — NÃO PERDE
+
+### Depois
+- MISSÃO CUMPRIDA — VALEU, TROPA!
+- 3 DIAS, 0 DESCANSO
+- OS MELHORES MOMENTOS JÁ TÃO NO AR
+
+---

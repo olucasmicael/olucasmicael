@@ -1,12 +1,10 @@
-# JULIO PISTOLADA × GTA VI — Kit de prompts para banners
+# ETAPA 3 — Cenas para banners do JULIO PISTOLADA × GTA VI
 
-Live: **GTA VI sem parar na Kick — 19 até 21 de novembro (qui → sáb)**
+Live: **GTA VI sem parar na Kick, 19 até 21 de novembro (qui → sáb)**
 
-> Antes de usar: troque `@SEU_USUARIO_KICK` pelo @ real do Julio na Kick (não sei qual é).
+> Antes de usar: troque `@SEU_USUARIO_KICK` pelo @ real do Julio na Kick.
 
----
-
-## 1. Pesquisa: como a Rockstar faz a arte de divulgação (San Andreas → GTA VI)
+## Pesquisa: como a Rockstar faz a arte de divulgação (San Andreas → GTA VI)
 
 | Era | Visual da arte | O que pegar pro Julio |
 |---|---|---|
@@ -25,20 +23,28 @@ Live: **GTA VI sem parar na Kick — 19 até 21 de novembro (qui → sáb)**
 
 ---
 
-## 2. DNA do personagem (cole no começo de TODOS os prompts)
-
-Anexe as **3 fotos do Julio** como referência de rosto. Os prompts estão em inglês porque a maioria dos geradores segue melhor assim; os textos que aparecem na arte ficam em português.
-
-```
-Use the attached photos as the strict face and body reference. The main character is JULIO PISTOLADA, a Brazilian streamer: young man in his twenties, warm tan/light-brown skin, short black curly hair with a skin fade on the sides, thick full black beard neatly lined with a mustache, round full face, heavyset/broad stocky build. Signature look: metallic silver wraparound sport sunglasses with ruby-red mirrored lenses (he ALWAYS wears them), oversized black t-shirt, thin silver chain, chunky black digital sports watch, olive cargo shorts. Keep his facial features, beard shape, skin tone and body type IDENTICAL to the reference photos — do not slim him down, do not change his face. Confident, serious, slightly menacing expression, chin up.
-Art style: official Rockstar Games Grand Theft Auto promotional key art — painted digital illustration, bold dark outlines, high contrast, cinematic rim lighting, saturated colors, semi-realistic.
-```
-
 ---
 
-## 3. Cenas (cada uma tem versão SEM texto e COM texto)
+## Cenas (cada uma tem versão SEM texto e COM texto)
 
-**Como usar:** `[DNA]` + `[CENA]` + o final **A (sem texto)** ou **B (com texto)**.
+**Como usar:** anexe a ficha aprovada (Etapa 1), a ficha do figurino (Etapa 2) e a foto `01-rosto-frente-oculos-vermelho.png`. Depois monte: `[CHARACTER LOCK]` + `Outfit: [figurino]` + `[CENA]` + o final **A (sem texto)** ou **B (com texto)**.
+
+**Figurino sugerido por cena** (da Etapa 2):
+
+| Cena | Figurino |
+|---|---|
+| 01 Vice City · 07 Setup · 09 Tela de carregamento | RJ-01 Camisa de time |
+| 02 Grade de quadros | um figurino diferente em cada quadro |
+| 03 Lowrider | GTA-01 Grove Street |
+| 04 Assalto | GTA-05 Heist |
+| 05 Procurado | GTA-07 Procurado |
+| 06 Perseguição | RJ-04 Bonde de moto |
+| 08 Madrugada | GTA-03 Liberty City ou RJ-07 Inverno |
+| 10 Iate | GTA-02 Vice City 1986 |
+| 11 Favela · 13 Laje | RJ-05 ou RJ-06 Colete |
+| 12 Morro → Vice City | RJ-01 Camisa de time |
+
+Quando a descrição da cena falar de roupa, **a roupa da cena vale mais** que a do figurino.
 
 **Final A — SEM TEXTO** (para thumbnail, fundo de overlay ou pra você colocar o texto no Canva):
 ```
@@ -163,61 +169,47 @@ Center: "MISSÃO CUMPRIDA"
 Bottom: "3 DIAS DE GTA VI • VALEU, TROPA! • JULIO PISTOLADA"
 ```
 
----
+### CENA 11 — “Favela ao pôr do sol” (figurino RJ-05 ou RJ-06)
+Cenário inspirado na referência que vocês mandaram (`referencia-cenario-favela.webp`). Nela, **o rosto não é o do Julio**: use a imagem só pelo cenário e pela luz.
+```
+Horizontal 16:9. Julio Pistolada stands in the foreground, chest-up, facing the camera, in a narrow alley at the bottom of a Rio de Janeiro hillside favela at dusk: dramatic orange-red and purple sunset sky, tangled electric wires and poles, colorful party flags strung across the alley, blue water tanks on rooftops, brick houses climbing the hill with hundreds of warm lit windows, a parked motorcycle, yellow plastic bar chairs, a streetlight, wet ground reflecting the sky. He wears [OUTFIT RJ-05]. Cinematic low angle, red lenses reflecting the sunset, GTA promotional painted style.
+```
+Texto B:
+```
+Top-right: "JULIO PISTOLADA"
+Center-bottom huge: "GTA VI SEM PARAR!!!"
+Bottom bar: "19 ATÉ 21 • AO VIVO NA KICK"
+```
 
-## 4. Títulos e frases para cada momento da maratona
+### CENA 12 — “Do morro pra Vice City” (Rio × Leonida)
+```
+Vertical 4:5 split-scene poster. Julio Pistolada in the center, arms crossed (signature pose). The left half of the background is a Rio de Janeiro favela hillside at night with thousands of lit windows and Christ-the-Redeemer-style mountain silhouette in the distance (no recognizable statue details); the right half blends into a Vice City neon beach boulevard with palm trees and pink-purple sunset. The two halves merge behind him in a smooth gradient. Helicopter in the upper-left. He wears [OUTFIT RJ-01].
+```
+Texto B:
+```
+Top: "DO MORRO PRA VICE CITY"
+Center huge: "GTA VI"
+Below: "SEM PARAR!!! • JULIO PISTOLADA"
+Bottom: "19 ATÉ 21 • KICK"
+```
 
-Use no **título da live**, na **arte** e no **post/story**.
-
-### Antes (dias 15 a 18 — esquenta)
-- **GTA VI SEM PARAR!!! — 19 ATÉ 21 NA KICK**
-- FALTAM 3 DIAS PRO CAOS
-- SEPARA O LANCHE: 19 ATÉ 21 É GTA VI
-- O JULIO VAI MORAR EM VICE CITY
-- CANCELA TUDO DIA 19
-
-### Véspera / dia do lançamento
-- **É AMANHÃ. GTA VI SEM PARAR!!!**
-- HOJE À NOITE O MAPA É NOSSO
-- PRÉ-LOAD FEITO, CORAÇÃO NÃO
-
-### A live vai começar
-- **A LIVE JÁ VAI COMEÇAR — COLA!**
-- AQUECENDO O MOTOR… 5 MIN
-- LIGANDO A CÂMERA, CHAMA A TROPA
-- PRIMEIRA HORA DE GTA VI: AO VIVO
-
-### Live rolando
-- **LIVE TÁ ROLANDO — BROTA!!!**
-- AO VIVO AGORA: GTA VI SEM PARAR
-- 5 ESTRELAS DE PROCURADO — VEM VER
-- O JULIO TÁ FUGINDO DA POLÍCIA AGORA
-- ENTRA AÍ QUE O CAOS TÁ FEITO
-
-### Marcos durante a maratona
-- **10 HORAS SEM PARAR E CONTANDO**
-- 24H DE GTA VI — AINDA DE PÉ
-- MADRUGADA EM VICE CITY (ainda ao vivo)
-- O JULIO NÃO DORMIU. VOCÊ DORMIU?
-- DIA 2 DE 3 — SEGUE O BAILE
-- META BATIDA: [X] NA LIVE
-
-### Reta final
-- **ÚLTIMAS HORAS DA MARATONA**
-- DIA 21: O GRANDE FINAL
-- ÚLTIMA MISSÃO — NÃO PERDE
-
-### Depois
-- MISSÃO CUMPRIDA — VALEU, TROPA!
-- 3 DIAS, 0 DESCANSO
-- OS MELHORES MOMENTOS JÁ TÃO NO AR
+### CENA 13 — “Laje” (vigia no alto do morro)
+```
+Horizontal 16:9. Julio Pistolada standing on a rooftop terrace (laje) of a favela at night, looking down at the camera, one foot on the low brick wall, city lights and the ocean far below, a kite flying in the sky, warm orange streetlights, cool blue moonlight rim light. He wears [OUTFIT RJ-06]. Wide cinematic GTA key art composition with empty sky space for text.
+```
+Texto B:
+```
+Sky area: "A LIVE TÁ ROLANDO — BROTA!!!"
+Bottom: "JULIO PISTOLADA • GTA VI SEM PARAR • KICK"
+```
 
 ---
 
-## 5. Dicas e cuidados
+## Dicas e cuidados
 
-1. **Rosto fiel:** anexe as 3 fotos juntas e repita “keep face IDENTICAL to reference”. Se o gerador emagrecer o Julio ou trocar o óculos, gere de novo ou use edição/face-swap só no rosto. Os óculos de lente vermelha são a marca registrada dele: não deixe sair.
+1. **Rosto fiel:** veja as dicas da Etapa 1 (`01-character-sheet/PROMPT-CHARACTER-SHEET.md`).
 2. **Texto:** gerador de imagem ainda erra letras (acento em “ATÉ” principalmente). O mais seguro é gerar a **versão SEM TEXTO** e escrever no Canva/Photoshop. Fontes parecidas com a do GTA: “Pricedown” (gratuita para uso pessoal, confira a licença) + “Bebas Neue” ou “Montserrat” para os textos de apoio.
 3. **Direitos autorais (importante):** o banner de exemplo usa o **logo oficial do GTA VI e os protagonistas oficiais (Jason e Lucia)**. Os prompts acima pegam só a **estética** e deixam esses dois de fora de propósito. Escrever “GTA VI” como texto, pra dizer o jogo da live, é o que todo streamer faz. Copiar o logo e os personagens é mais arriscado, principalmente se a arte tiver patrocínio. Não sou advogado; na dúvida, confira com quem cuida disso pra vocês.
 4. **Formatos:** 16:9 (thumbnail/banner da Kick), 4:5 (feed do Instagram), 9:16 (story/TikTok). Gere a mesma cena nos três formatos pra manter a identidade visual.
 5. **Data:** pelo que pesquisei, o lançamento de GTA VI está marcado para **19/11/2026** (PS5 e Xbox Series X|S). Já foi adiado mais de uma vez, então confirme nos canais oficiais da Rockstar antes de postar a arte final.
+6. **Cenas na favela:** usem como cenário e clima, no estilo da ficção de GTA. Evitem símbolos, siglas ou nomes de facções reais, e marcas ou brasões de polícia ou do Exército de verdade no colete. Isso protege o canal e evita que a arte seja lida como apologia.
