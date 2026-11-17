@@ -4,7 +4,7 @@
 
 | # | O que ele disse | Como corrigimos |
 |---|---|---|
-| 1 | “A IA me botou com mais 10 kg” | A trava de identidade agora proíbe engordar **e** emagrecer: o corpo tem que ser **igual às fotos**. Nada de “plus size”. |
+| 1 | “A IA me botou com mais 10 kg” e depois pediu **menos peso** | A trava agora pede o Julio **uns 10 a 15 kg mais leve que nas fotos**: forte, ombro largo, só um pouco de barriga, sem papada. |
 | 2 | “Tá muito estilo favela ainda” | Saem a camisa de time, o colete tático, o chinelo, a bandana e a balaclava. Fica **só traje de GTA**. |
 | 3 | “Tinha que ficar pegada GTA mesmo, traje de GTA” | Guarda-roupa novo inspirado nos protagonistas e figurinos dos jogos (Vice City, Los Santos, Leonida). |
 | 4 | “As cenas seriam interessantes, mas com traje de GTA” | Vamos reaproveitar as **ideias de cena**, trocando a roupa. |

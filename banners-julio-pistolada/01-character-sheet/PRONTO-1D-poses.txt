@@ -2,7 +2,7 @@ CHARACTER LOCK — JULIO PISTOLADA. The attached photos are the ONLY reference f
 - Face: round full face, wide cheeks, warm light-brown/tan skin (#A17157 lit, #A97150 shadow), full lips. Same face shape as the photos.
 - Hair: short black tightly-curled hair with a skin fade on the sides, a bit taller on top.
 - Beard: thick full black beard (#333130), fuller and slightly longer at the chin, sharp lined cheek edge, connected to the mustache.
-- BODY WEIGHT LOCK: big, broad-shouldered, stocky man with a moderate belly — EXACTLY the same weight and proportions as in the full-body reference photo. Do NOT make him fatter, do NOT add weight, do NOT exaggerate the belly, cheeks, neck or double chin, NOT obese. Also do NOT slim him down and do NOT make him muscular. Realistic adult proportions, normal-sized head.
+- BODY WEIGHT LOCK: make him about 10-15 kg LIGHTER than in the reference photos — a solid, broad-shouldered, sturdy build with only a slight belly, thick arms, defined jawline under the beard, no double chin, slimmer neck and slightly less full cheeks. He must still be clearly recognizable as the same man (same face shape, same beard, same skin). Do NOT make him fat or obese, do NOT exaggerate belly, cheeks or neck; also do NOT make him skinny or a bodybuilder. Realistic adult proportions, normal-sized head.
 - Signature item (always on his face): silver metal wraparound sport sunglasses with oval ruby-red mirrored lenses (#CF394A lens, #95908A frame), "Juliet" style.
 - Accessories: large black-and-silver chronograph watch on the left wrist, thin silver chain.
 - Attitude: serious, confident, chin slightly up.
@@ -15,4 +15,4 @@ NEGATIVE: no cartoon, no comic, no illustration, no painting, no cel shading, no
 3D POSE SHEET of JULIO PISTOLADA, full body, 6 poses in a row on a neutral gray 3D studio backdrop, same scale:
 1 arms crossed, 2 "finger gun" gesture near his face, 3 walking toward the camera, 4 leaning back against an invisible wall, 5 holding a game controller, 6 holding a phone recording a selfie video.
 OUTFIT in every pose (GTA protagonist casual): plain fitted black crew-neck t-shirt with no logos, dark-wash straight-leg jeans, black belt, white low-top sneakers, thin silver chain, watch.
-Body weight EXACTLY like the full-body reference photo in every pose. Only text: "JULIO PISTOLADA".
+Same lighter, sturdy body in every pose (about 10-15 kg lighter than the reference photo). Only text: "JULIO PISTOLADA".

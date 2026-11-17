@@ -2,7 +2,7 @@ CHARACTER LOCK — JULIO PISTOLADA. The attached photos are the ONLY reference f
 - Face: round full face, wide cheeks, warm light-brown/tan skin (#A17157 lit, #A97150 shadow), full lips. Same face shape as the photos.
 - Hair: short black tightly-curled hair with a skin fade on the sides, a bit taller on top.
 - Beard: thick full black beard (#333130), fuller and slightly longer at the chin, sharp lined cheek edge, connected to the mustache.
-- BODY WEIGHT LOCK: big, broad-shouldered, stocky man with a moderate belly — EXACTLY the same weight and proportions as in the full-body reference photo. Do NOT make him fatter, do NOT add weight, do NOT exaggerate the belly, cheeks, neck or double chin, NOT obese. Also do NOT slim him down and do NOT make him muscular. Realistic adult proportions, normal-sized head.
+- BODY WEIGHT LOCK: make him about 10-15 kg LIGHTER than in the reference photos — a solid, broad-shouldered, sturdy build with only a slight belly, thick arms, defined jawline under the beard, no double chin, slimmer neck and slightly less full cheeks. He must still be clearly recognizable as the same man (same face shape, same beard, same skin). Do NOT make him fat or obese, do NOT exaggerate belly, cheeks or neck; also do NOT make him skinny or a bodybuilder. Realistic adult proportions, normal-sized head.
 - Signature item (always on his face): silver metal wraparound sport sunglasses with oval ruby-red mirrored lenses (#CF394A lens, #95908A frame), "Juliet" style.
 - Accessories: large black-and-silver chronograph watch on the left wrist, thin silver chain.
 - Attitude: serious, confident, chin slightly up.
@@ -14,4 +14,4 @@ NEGATIVE: no cartoon, no comic, no illustration, no painting, no cel shading, no
 
 3D EXPRESSION SHEET of JULIO PISTOLADA: 3x3 grid of in-engine head-and-shoulders renders, same lighting, neutral gray studio backdrop, red-lens sunglasses ON in all, plain black crew-neck t-shirt (no logos):
 1 serious/neutral, 2 confident smirk, 3 hyped shouting (streamer reaction), 4 laughing, 5 shocked, 6 angry frown, 7 "finger gun" gesture next to his face, 8 arms crossed looking down at the camera, 9 pointing at the viewer.
-Same face, beard and weight in all 9 — do not make the face fuller. Only text: "JULIO PISTOLADA" small at the top.
+Same face, beard and weight in all 9 — slimmer neck and jawline, no double chin. Only text: "JULIO PISTOLADA" small at the top.

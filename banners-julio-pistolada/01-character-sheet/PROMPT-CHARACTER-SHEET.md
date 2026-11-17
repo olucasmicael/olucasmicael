@@ -1,7 +1,7 @@
 # ETAPA 1 — Character sheet do JULIO PISTOLADA (versão corrigida)
 
 **Correções do cliente aplicadas:**
-1. **Peso igual às fotos:** antes saía uns 10 kg mais pesado.
+1. **Mais magro que nas fotos:** o cliente pediu menos peso. A trava agora pede uns 10 a 15 kg a menos, sem deixar de ser ele.
 2. **Só traje de GTA:** nada de camisa de time, colete, chinelo ou bandana, que deixavam “estilo favela”.
 3. **Visual 3D de jogo:** não pode sair cartoon.
 
@@ -29,7 +29,7 @@ CHARACTER LOCK — JULIO PISTOLADA. The attached photos are the ONLY reference f
 - Face: round full face, wide cheeks, warm light-brown/tan skin (#A17157 lit, #A97150 shadow), full lips. Same face shape as the photos.
 - Hair: short black tightly-curled hair with a skin fade on the sides, a bit taller on top.
 - Beard: thick full black beard (#333130), fuller and slightly longer at the chin, sharp lined cheek edge, connected to the mustache.
-- BODY WEIGHT LOCK: big, broad-shouldered, stocky man with a moderate belly — EXACTLY the same weight and proportions as in the full-body reference photo. Do NOT make him fatter, do NOT add weight, do NOT exaggerate the belly, cheeks, neck or double chin, NOT obese. Also do NOT slim him down and do NOT make him muscular. Realistic adult proportions, normal-sized head.
+- BODY WEIGHT LOCK: make him about 10-15 kg LIGHTER than in the reference photos — a solid, broad-shouldered, sturdy build with only a slight belly, thick arms, defined jawline under the beard, no double chin, slimmer neck and slightly less full cheeks. He must still be clearly recognizable as the same man (same face shape, same beard, same skin). Do NOT make him fat or obese, do NOT exaggerate belly, cheeks or neck; also do NOT make him skinny or a bodybuilder. Realistic adult proportions, normal-sized head.
 - Signature item (always on his face): silver metal wraparound sport sunglasses with oval ruby-red mirrored lenses (#CF394A lens, #95908A frame), "Juliet" style.
 - Accessories: large black-and-silver chronograph watch on the left wrist, thin silver chain.
 - Attitude: serious, confident, chin slightly up.
@@ -66,7 +66,7 @@ Focus on matching the reference photos exactly: face shape, cheeks, beard line a
 Only text: "JULIO PISTOLADA" small in the top-left corner.
 ```
 
-**Aprova se:** o rosto é dele, a barba tem o mesmo formato, a pele tem o mesmo tom, o óculos está certo, e o rosto e o pescoço **não estão mais gordos** que nas fotos.
+**Aprova se:** o rosto é dele, a barba tem o mesmo formato, a pele tem o mesmo tom, o óculos está certo, e o corpo está **mais leve que nas fotos** (pescoço mais fino, sem papada), mas ainda dá pra reconhecer o Julio.
 
 ---
 
@@ -82,11 +82,11 @@ Anexe também `04-corpo-inteiro-em-pe.png` e a melhor imagem aprovada na 1A.
 - TOP ROW (full body, same scale, aligned on one baseline): FRONT, 3/4, SIDE PROFILE, BACK. Neutral standing pose, arms relaxed at the sides.
 - BOTTOM: 2 small detail renders — the sunglasses (front and side) and the watch on his wrist.
 OUTFIT (GTA protagonist casual): plain fitted black crew-neck t-shirt with no logos, dark-wash straight-leg jeans, black leather belt, clean white low-top leather sneakers, thin silver chain, black-and-silver chronograph watch.
-Body weight and proportions EXACTLY like the full-body reference photo — not heavier, not lighter.
+Body: about 10-15 kg lighter than the full-body reference photo (sturdy, broad, slight belly) — same height, same face.
 Only text: "JULIO PISTOLADA" in the top-left corner.
 ```
 
-**Aprova se:** comparando lado a lado com `04-corpo-inteiro-em-pe.png`, a barriga, os braços e o pescoço têm o **mesmo tamanho**.
+**Aprova se:** comparando lado a lado com `04-corpo-inteiro-em-pe.png`, ele está **visivelmente mais leve** (barriga menor, pescoço mais fino) e continua reconhecível.
 
 ---
 
@@ -98,7 +98,7 @@ Only text: "JULIO PISTOLADA" in the top-left corner.
 
 3D EXPRESSION SHEET of JULIO PISTOLADA: 3x3 grid of in-engine head-and-shoulders renders, same lighting, neutral gray studio backdrop, red-lens sunglasses ON in all, plain black crew-neck t-shirt (no logos):
 1 serious/neutral, 2 confident smirk, 3 hyped shouting (streamer reaction), 4 laughing, 5 shocked, 6 angry frown, 7 "finger gun" gesture next to his face, 8 arms crossed looking down at the camera, 9 pointing at the viewer.
-Same face, beard and weight in all 9 — do not make the face fuller. Only text: "JULIO PISTOLADA" small at the top.
+Same face, beard and weight in all 9 — slimmer neck and jawline, no double chin. Only text: "JULIO PISTOLADA" small at the top.
 ```
 
 ## 1D — POSES
@@ -110,7 +110,7 @@ Same face, beard and weight in all 9 — do not make the face fuller. Only text:
 3D POSE SHEET of JULIO PISTOLADA, full body, 6 poses in a row on a neutral gray 3D studio backdrop, same scale:
 1 arms crossed, 2 "finger gun" gesture near his face, 3 walking toward the camera, 4 leaning back against an invisible wall, 5 holding a game controller, 6 holding a phone recording a selfie video.
 OUTFIT in every pose (GTA protagonist casual): plain fitted black crew-neck t-shirt with no logos, dark-wash straight-leg jeans, black belt, white low-top sneakers, thin silver chain, watch.
-Body weight EXACTLY like the full-body reference photo in every pose. Only text: "JULIO PISTOLADA".
+Same lighter, sturdy body in every pose (about 10-15 kg lighter than the reference photo). Only text: "JULIO PISTOLADA".
 ```
 
 ---
