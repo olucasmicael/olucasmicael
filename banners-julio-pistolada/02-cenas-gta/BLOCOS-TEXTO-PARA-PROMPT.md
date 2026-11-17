@@ -60,3 +60,21 @@ INFO: "kick.com/juliopistolada"
 | Começou | `AO VIVO AGORA` | `GTA VI` |
 
 O INFO é sempre `kick.com/juliopistolada`.
+
+## Frases “3 DIAS” (maratona)
+
+| Momento | TITLE | SUBTITLE |
+|---|---|---|
+| Pré-live | `3 DIAS SEGUIDOS DE LIVE!` | `GTA VI • COMEÇA 00H` |
+| Pré-live | `3 DIAS SEM PARAR DE GTA VI` | `00H • DE QUARTA PRA QUINTA` |
+| Pré-live | `SÃO 3 DIAS DE GTA VI` | `COMEÇA 00H` |
+| Pré-live | `MARATONA DE GTA VI` | `3 DIAS SEM PARAR` |
+| Pré-live | `A MARATONA VAI COMEÇAR` | `3 DIAS DE GTA VI • 00H` |
+| Pré-live | `SE PREPARA` | `3 DIAS SEGUIDOS DE GTA VI` |
+| Pré-live | `DO DIA 19 ATÉ 21` | `GTA VI SEM PARAR` |
+| Começou | `COMEÇOU A MARATONA` | `3 DIAS DE GTA VI AO VIVO` |
+| Durante | `DIA 1 DE 3` | `GTA VI AO VIVO` |
+| Durante | `DIA 2 DE 3` | `A MARATONA CONTINUA` |
+| Durante | `ÚLTIMO DIA` | `GTA VI AO VIVO` |
+
+O INFO é sempre `kick.com/juliopistolada`.
