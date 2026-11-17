@@ -190,6 +190,7 @@ No text, no letters, no logos, no watermarks anywhere. Keep the top third clean 
 ```
 TYPOGRAPHY — premium GTA VI key-art title design by a AAA game marketing art director. Main title: chunky condensed retro display lettering in the spirit of the Grand Theft Auto logo (Pricedown-like), sunset gradient fill (golden yellow → orange → hot pink → magenta), thin dark-plum outline, subtle 3D bevel, soft glow and drop shadow. Secondary lines: clean condensed white sans-serif, all caps, wide letter-spacing. Info line inside a sleek dark glass pill. Clear hierarchy, lots of breathing room, text never covers his face.
 SPELLING LOCK: render every word exactly as written, letter by letter, with Portuguese accents. Always write "GTA VI" with Roman numerals — NEVER "GTA 6". Do not add or invent words.
+Do NOT write the name "JULIO PISTOLADA" anywhere on the image — the name appears ONLY inside the link "kick.com/juliopistolada".
 TEXT TO RENDER:
 TITLE: "LIVE DE GTA VI ATÉ FICAR DOENTE"
 SUBTITLE: "COMEÇA 00H • DE QUARTA PRA QUINTA"
@@ -204,7 +205,7 @@ INFO PILL: "kick.com/juliopistolada"
 |---|---|---|
 | `LIVE DE GTA VI ATÉ FICAR DOENTE` | `COMEÇA 00H • DE QUARTA PRA QUINTA` | `kick.com/juliopistolada` |
 | `A LIVE VAI COMEÇAR` | `00H • DE QUARTA PRA QUINTA` | `kick.com/juliopistolada` |
-| `GTA VI ATÉ FICAR DOENTE` | `JULIO PISTOLADA` | `00H • DE QUARTA PRA QUINTA` |
+| `GTA VI ATÉ FICAR DOENTE` | `COMEÇA 00H • DE QUARTA PRA QUINTA` | `kick.com/juliopistolada` |
 
 ### 🕛 PRÉ-LIVE (antes da meia-noite de quarta)
 
@@ -213,7 +214,7 @@ INFO PILL: "kick.com/juliopistolada"
 | `HOJE À MEIA-NOITE TEM GTA VI` | `LIVE ATÉ FICAR DOENTE` | `kick.com/juliopistolada` |
 | `PREPARA O CORAÇÃO` | `GTA VI COMEÇA 00H` | `DE QUARTA PRA QUINTA` |
 | `CANCELA O SONO` | `00H DE QUARTA PRA QUINTA É GTA VI` | `kick.com/juliopistolada` |
-| `SEPARA O LANCHE` | `00H COMEÇA A LIVE DE GTA VI` | `JULIO PISTOLADA` |
+| `SEPARA O LANCHE` | `00H COMEÇA A LIVE DE GTA VI` | `kick.com/juliopistolada` |
 | `FALTAM 3 HORAS` *(troque o número)* | `LIVE DE GTA VI ATÉ FICAR DOENTE` | `kick.com/juliopistolada` |
 | `A CONTAGEM COMEÇOU` | `GTA VI • 00H • QUARTA PRA QUINTA` | `kick.com/juliopistolada` |
 
@@ -223,9 +224,9 @@ INFO PILL: "kick.com/juliopistolada"
 |---|---|---|
 | `A LIVE COMEÇOU — BROTA!!!` | `GTA VI ATÉ FICAR DOENTE` | `kick.com/juliopistolada` |
 | `TÁ ON!` | `GTA VI AO VIVO AGORA` | `kick.com/juliopistolada` |
-| `ENTROU NO AR` | `LIVE DE GTA VI ATÉ FICAR DOENTE` | `JULIO PISTOLADA • KICK` |
+| `ENTROU NO AR` | `LIVE DE GTA VI ATÉ FICAR DOENTE` | `kick.com/juliopistolada` |
 | `00H EM PONTO` | `VEM PRA LIVE DE GTA VI` | `kick.com/juliopistolada` |
-| `AO VIVO AGORA` | `JULIO PISTOLADA NO GTA VI` | `kick.com/juliopistolada` |
+| `AO VIVO AGORA` | `GTA VI ATÉ FICAR DOENTE` | `kick.com/juliopistolada` |
 | `BROTA NA KICK` | `O GTA VI JÁ TÁ ROLANDO` | `kick.com/juliopistolada` |
 
 **Qual frase em qual cena** (sugestão):
