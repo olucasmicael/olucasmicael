@@ -18,7 +18,7 @@ Live: **GTA VI sem parar na Kick, 19 até 21 de novembro (qui → sáb)**
 - **Grade de quadros** com bordas pretas, cada quadro com uma cena.
 - **Helicóptero no canto superior esquerdo.** Várias matérias dizem que ele aparece em todas as capas desde o GTA III; não conferi capa por capa.
 - Personagem de **corpo inteiro ou 3/4, visto de baixo**, olhando direto pra câmera, cara de “não tô de brincadeira”.
-- Ilustração pintada com **contorno escuro** e luz de recorte (rim light) forte.
+- As **capas** são ilustração pintada, mas **os jogos** são 3D. Pros banners do Julio vamos usar o **3D de jogo** (print de cutscene ou modo foto), que é o que vocês querem. Das capas, aproveitamos só a composição (grade, helicóptero, pose).
 - Tipografia: título em fonte **condensada e pesada estilo “Pricedown”** (a fonte do logo de GTA) e texto de apoio em sans-serif fina.
 
 ---
@@ -27,7 +27,9 @@ Live: **GTA VI sem parar na Kick, 19 até 21 de novembro (qui → sáb)**
 
 ## Cenas (cada uma tem versão SEM texto e COM texto)
 
-**Como usar:** anexe a ficha aprovada (Etapa 1), a ficha do figurino (Etapa 2) e a foto `01-rosto-frente-oculos-vermelho.png`. Depois monte: `[CHARACTER LOCK]` + `Outfit: [figurino]` + `[CENA]` + o final **A (sem texto)** ou **B (com texto)**.
+**Como usar:** anexe a ficha aprovada (Etapa 1), a ficha do figurino (Etapa 2) e a foto `01-rosto-frente-oculos-vermelho.png`. Depois monte: `[CHARACTER LOCK]` + `[ESTILO 3D — OPÇÃO B]` (Etapa 1) + `Outfit: [figurino]` + `[CENA]` + o final **A (sem texto)** ou **B (com texto)**.
+
+> **Estilo:** todas as cenas são **3D de jogo** (print de cutscene ou modo foto do GTA), nunca desenho. Use a Opção B do Prompt 0 (Etapa 1). Só a CENA 02 (grade) tem molduras de capa, e mesmo nela cada quadro é um render 3D.
 
 **Figurino sugerido por cena** (da Etapa 2):
 
@@ -74,7 +76,7 @@ Bottom pill-shaped bar: "19 ATÉ 21 • AO VIVO NA KICK" (neon green #53FC18 acc
 
 ### CENA 02 — “Grade de quadros” (homenagem às capas clássicas)
 ```
-Vertical 4:5 poster designed as the classic Grand Theft Auto box-art collage: a grid of 7 to 9 rectangular comic-style panels with thick black borders. Largest center panel: Julio Pistolada full-body hero pose. Other panels: (1) Julio driving a convertible at sunset with one hand on the wheel, (2) Julio at his gaming chair with a webcam and controller, lit by RGB lights, (3) a police helicopter with spotlight in the top-left panel, (4) close-up of his ruby-red sunglasses reflecting neon, (5) Julio on a jet ski spraying water, (6) a stack of cash and a PS5-style console box, (7) Julio running from police cars with red and blue lights. Pink/purple/orange Vice City palette, each panel with a slightly different accent color.
+Vertical 4:5 poster designed as the classic Grand Theft Auto box-art collage: a grid of 7 to 9 rectangular panels separated by thick black borders, where EVERY panel is a realistic 3D in-game render / cutscene screenshot (not drawn). Largest center panel: Julio Pistolada full-body hero pose. Other panels: (1) Julio driving a convertible at sunset with one hand on the wheel, (2) Julio at his gaming chair with a webcam and controller, lit by RGB lights, (3) a police helicopter with spotlight in the top-left panel, (4) close-up of his ruby-red sunglasses reflecting neon, (5) Julio on a jet ski spraying water, (6) a stack of cash and a PS5-style console box, (7) Julio running from police cars with red and blue lights. Pink/purple/orange Vice City palette, each panel with a slightly different accent color.
 ```
 Texto B (no quadro central ou faixa central):
 ```
@@ -86,7 +88,7 @@ Small panel: "KICK.COM/@SEU_USUARIO_KICK"
 
 ### CENA 03 — “Lowrider em Grove” (vibe San Andreas)
 ```
-Horizontal 16:9. Julio Pistolada leaning against a candy-green lowrider with chrome wheels and hydraulics raised on one side, in a sunny West Coast neighborhood street from the early 90s: graffiti walls, palm trees, telephone wires, hazy orange-yellow sky. He wears the classic 90s West Coast look: white ribbed tank top, baggy light-blue jeans, green bandana tied on his head, thick gold chain, red-lens sunglasses. Warm yellow and orange San Andreas color grading, hand-painted look, thick outlines.
+Horizontal 16:9. Julio Pistolada leaning against a candy-green lowrider with chrome wheels and hydraulics raised on one side, in a sunny West Coast neighborhood street from the early 90s: graffiti walls, palm trees, telephone wires, hazy orange-yellow sky. He wears the classic 90s West Coast look: white ribbed tank top, baggy light-blue jeans, green bandana tied on his head, thick gold chain, red-lens sunglasses. Warm yellow and orange San Andreas-style color grading on a modern 3D game render (like a remastered next-gen version), realistic lighting, no outlines.
 ```
 Texto B:
 ```
@@ -151,7 +153,7 @@ Bottom: "JULIO PISTOLADA • GTA VI • AINDA AO VIVO NA KICK"
 
 ### CENA 09 — “Tela de carregamento” (o mais limpo e “oficial”)
 ```
-Vertical 9:16 (story). Single huge character illustration in the style of a GTA V loading screen: Julio Pistolada from a dramatic low angle, holding a smartphone recording himself (selfie pose), the other hand flashing a peace sign, flat solid background split diagonally in hot pink and deep purple, bold black outline around the whole character, subtle halftone texture.
+Vertical 9:16 (story). Single huge 3D character render composed like a GTA V loading screen, but realistic 3D (no drawing): Julio Pistolada from a dramatic low angle, holding a smartphone recording himself (selfie pose), the other hand flashing a peace sign, clean studio-like background split diagonally in hot pink and deep purple gradients, strong colored rim light separating him from the background, realistic 3D skin and fabric.
 ```
 Texto B:
 ```
@@ -173,7 +175,7 @@ Bottom: "3 DIAS DE GTA VI • VALEU, TROPA! • JULIO PISTOLADA"
 ### CENA 11 — “Favela ao pôr do sol” (figurino COL-01)
 Cenário inspirado na referência que vocês mandaram (`referencia-cenario-favela.webp`). Nela, **o rosto não é o do Julio**: use a imagem só pelo cenário e pela luz.
 ```
-Horizontal 16:9. Julio Pistolada stands in the foreground, chest-up, facing the camera, in a narrow alley at the bottom of a Rio de Janeiro hillside favela at dusk: dramatic orange-red and purple sunset sky, tangled electric wires and poles, colorful party flags strung across the alley, blue water tanks on rooftops, brick houses climbing the hill with hundreds of warm lit windows, a parked motorcycle, yellow plastic bar chairs, a streetlight, wet ground reflecting the sky. He wears [OUTFIT COL-01]. Cinematic low angle, red lenses reflecting the sunset, GTA promotional painted style.
+Horizontal 16:9. Julio Pistolada stands in the foreground, chest-up, facing the camera, in a narrow alley at the bottom of a Rio de Janeiro hillside favela at dusk: dramatic orange-red and purple sunset sky, tangled electric wires and poles, colorful party flags strung across the alley, blue water tanks on rooftops, brick houses climbing the hill with hundreds of warm lit windows, a parked motorcycle, yellow plastic bar chairs, a streetlight, wet ground reflecting the sky. He wears [OUTFIT COL-01]. Cinematic low angle, red lenses reflecting the sunset, 3D next-gen game cutscene render.
 ```
 Texto B:
 ```
@@ -196,7 +198,7 @@ Bottom: "19 ATÉ 21 • KICK"
 
 ### CENA 13 — “Laje” (vigia no alto do morro)
 ```
-Horizontal 16:9. Julio Pistolada standing on a rooftop terrace (laje) of a favela at night, looking down at the camera, one foot on the low brick wall, city lights and the ocean far below, a kite flying in the sky, warm orange streetlights, cool blue moonlight rim light. He wears [OUTFIT COL-02]. Wide cinematic GTA key art composition with empty sky space for text.
+Horizontal 16:9. Julio Pistolada standing on a rooftop terrace (laje) of a favela at night, looking down at the camera, one foot on the low brick wall, city lights and the ocean far below, a kite flying in the sky, warm orange streetlights, cool blue moonlight rim light. He wears [OUTFIT COL-02]. Wide cinematic 3D in-game screenshot composition with empty sky space for text.
 ```
 Texto B:
 ```

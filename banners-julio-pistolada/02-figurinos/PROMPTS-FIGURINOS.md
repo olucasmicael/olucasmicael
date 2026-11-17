@@ -14,8 +14,9 @@ Em qualquer figurino ficam sempre: o **óculos prata de lente vermelha**, o **re
 
 ```
 [CHARACTER LOCK da Etapa 1]
+[ESTILO 3D — OPÇÃO A da Etapa 1]
 
-OUTFIT SHEET of JULIO PISTOLADA, GTA promotional art style, full body FRONT view and 3/4 view side by side, light-gray background. Keep face, beard, skin, heavyset body, red-lens sunglasses, black-and-silver watch and silver chain IDENTICAL. Ignore the clothes in the reference photos completely.
+3D OUTFIT SHEET of JULIO PISTOLADA — 3D in-game render in the style of Grand Theft Auto V / GTA VI (Rockstar RAGE engine look): realistic 3D game character model, PBR skin and fabric textures, real-time ray-traced lighting, NOT a cartoon, NOT an illustration, NO outlines. Full body FRONT view and 3/4 view side by side, neutral gray 3D studio backdrop, realistic PBR fabric with folds and stitching. Keep face, beard, skin, heavyset body, red-lens sunglasses, black-and-silver watch and silver chain IDENTICAL. Ignore the clothes in the reference photos completely.
 Outfit: [COLE A DESCRIÇÃO DO FIGURINO]
 Only text: "JULIO PISTOLADA — [NOME DO FIGURINO]" small at the top.
 ```
