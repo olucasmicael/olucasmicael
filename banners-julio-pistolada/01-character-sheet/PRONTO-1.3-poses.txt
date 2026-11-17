@@ -1,0 +1,17 @@
+CHARACTER LOCK — JULIO PISTOLADA. The attached photos are the ONLY reference for this person's identity. Reproduce him exactly:
+- Face: round, full face with wide cheeks; warm light-brown/tan skin (#A17157 lit, #A97150 shadow); full lips.
+- Hair: short black tightly-curled hair, skin fade on the sides, slightly taller on top.
+- Beard: thick full black beard (#333130), fuller and longer at the chin, sharp lined cheek edge, connected to the mustache.
+- Body: heavyset, broad, stocky, plus-size build with wide shoulders and thick arms. NEVER slim him down, NEVER make him muscular or lean.
+- Signature item (always on his face): silver metal wraparound sport sunglasses with oval ruby-red mirrored lenses (#CF394A lens, #95908A frame), "Juliet" style.
+- Signature accessories: large black-and-silver chronograph watch on the left wrist, thin silver chain.
+- Attitude: serious and confident, chin up. Signature poses: arms crossed over the chest, or a "finger gun" hand gesture pointing up next to his face.
+- CLOTHING: IGNORE the clothes in the reference photos completely. NEVER draw the black jersey with the crest, the "NARIZES FC" lettering, the brand logo or the red-and-blue sleeve band from the photos. Use ONLY the outfit described in this prompt.
+Do not change his ethnicity, age (mid-twenties), face shape, beard shape or body type. No tattoos, earrings or hats unless the prompt asks.
+
+STYLE — 3D VIDEO GAME CHARACTER: render him as a real-time 3D character model from a modern open-world crime video game, exactly like Grand Theft Auto V running on PC with max graphics (Rockstar RAGE engine look). Realistic human proportions, game-quality 3D skin with pores and subsurface scattering, 3D modeled curly hair cards, realistic beard, PBR fabric with folds and stitching, real-time ray-traced lighting and soft shadows, slight game-engine sharpness. It must look like a SCREENSHOT FROM THE GAME / a character model viewer, NOT a drawing.
+NEGATIVE: no cartoon, no comic, no illustration, no painting, no cel shading, no black outlines, no anime, no caricature, no exaggerated big head, no vector art, no flat colors.
+
+3D POSE SHEET of JULIO PISTOLADA, full body — 3D in-game render in the style of Grand Theft Auto V / GTA VI (Rockstar RAGE engine look): realistic 3D game character model, PBR skin and fabric textures, real-time ray-traced lighting, NOT a cartoon, NOT an illustration, NO outlines. 6 poses in a row on a neutral gray 3D studio backdrop, same outfit as the base sheet:
+1 arms crossed (signature), 2 finger-gun gesture up near his face (signature), 3 walking toward the camera, 4 leaning back against an invisible wall, 5 holding a game controller, 6 holding a phone recording a selfie video.
+Outfit in every pose: the FLAMENGO look from the main sheet (red-and-black hooped jersey, black shorts, slides). Same scale, same face and heavyset body in every pose. Only text: "JULIO PISTOLADA".
