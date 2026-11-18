@@ -1,0 +1,161 @@
+# Leva 12: ação com arma à mostra + Kick
+
+## L12-01 — Saindo do lava-jato
+```
+REFERENCE: classic GTA humor moment at a neon car wash in Vice City, rendered with the same official Rockstar game-engine look.
+SCENE: Horizontal 16:9. Night at a neon Vice City car wash: a black muscle car rolling out of the car wash tunnel covered in pink foam and water spray, spinning brushes behind, Julio Pistolada at the wheel with the window down, the pistol visible in his free hand on the window frame, looking at the camera, two police cars waiting outside with flashing lights, palm trees and a pink-purple neon sign glow.
+OUTFIT: worn brown leather jacket over a dark gray t-shirt, dark jeans.
+[LAYOUT]: title lockup on the right third, over the dark sky above the car wash.
+ACTION & WEAPON: epic GTA VI action moment frozen at its peak. Julio has a serious, focused, intense expression — jaw set, NOT laughing, NOT smiling. The black semi-automatic pistol is clearly VISIBLE in his hand as a key prop, held in a confident GTA hero pose (low-ready or close to his chest), finger off the trigger, NOT firing: no muzzle flash, no bullets, no blood, no injured people, no gore. Stylized video game action.
+
+=== JULIO PISTOLADA — MASTER RULES V3 (apply all) ===
+ATTACHMENTS: (1) the APPROVED head character sheet of Julio, (2) his official face photo with the rectangular sunglasses, (3) the OFFICIAL GTA VI LOGO image, (4) the OFFICIAL KICK LOGO image.
+CHARACTER: Julio Pistolada — copy his face EXACTLY from the approved head sheet: round face, warm light-brown skin, thick full black beard with sharp lined edge connected to the mustache.
+HAIR: VERY SHORT buzz-cut length (about 1 cm on top), flat and close to the scalp, high skin fade on the sides. NO volume, NO height, NO afro, NOT wavy.
+SUNGLASSES (always on): flat-front narrow RECTANGULAR metal sunglasses (Matrix / Y2K style), thin gunmetal full-rim frame, dark smoke lenses. NOT wraparound, NOT oval, NOT sporty, NOT red.
+BODY: about 10-15 kg slimmer than his real photos — solid, broad shoulders, small belly, slim neck, no double chin; head proportional to the body (no bobblehead). Black-and-silver watch on the left wrist.
+CLOTHING: only the GTA outfit written in the scene. Never football jerseys, tactical vests, bandanas, balaclavas, slide sandals, "NARIZES FC".
+GAME STYLE — STRICT (most important rule): this is OFFICIAL ROCKSTAR GAMES KEY ART made with in-game 3D assets of Grand Theft Auto VI. Everything — Julio, cars, buildings, palm trees, water, sky — is a 3D GAME ASSET rendered in the game engine: Rockstar-style 3D character model with smooth, slightly stylized CG skin (no real pores, no photographic skin), stylized facial modeling like a GTA protagonist, game-quality hair and clothing meshes, clean game textures, saturated GTA VI color grading, game-engine bloom, glossy CG reflections. When in doubt, choose MORE game-like, never more realistic. FORBIDDEN: photo, photorealism, live-action, movie still, DSLR look, real human skin, film grain, AI-photo look. Also forbidden: cartoon, comic, flat 2D drawing, anime, outlines.
+CINEMATIC COMPOSITION: AAA game cover composition — Julio is the hero, dramatic low or dynamic camera angle, strong colored rim light, depth, atmosphere, foreground/background layers, rule of thirds. His face is always large, sharp and readable (at least about 1/6 of the image height). Keep the title zone clean (sky, wall or dark area) so the title lockup sits on a calm background.
+OFFICIAL LOGO: place the attached official GTA VI logo image EXACTLY as provided — same shapes, colors and proportions, not redrawn, not distorted, not recolored. If it cannot be reproduced exactly, leave its space EMPTY instead of drawing a fake logo. Never write "GTA", "GTA VI", "GTA 6" or "Grand Theft Auto" as text.
+TITLE LOCKUP — ART DIRECTION (this is a game cover, never a random caption):
+- Design ONE unified title lockup, like the title block of an official video game cover or a blockbuster movie poster, created by a AAA game art director. All text elements are aligned to the same center axis, with consistent spacing and a clear hierarchy: LOGO (top of the lockup) → MAIN TITLE (biggest) → SUBTITLE → KICK LINK PILL.
+- Position: the whole lockup sits in the [LAYOUT] area given in the scene, centered on that area, with generous safe margins. Nothing floats randomly, nothing is tilted at random angles, no stray text anywhere else in the image.
+- MAIN TITLE: heavy condensed GTA-style display lettering (Pricedown-like), ALL CAPS, very tight letter-spacing, 1 or 2 stacked lines with tight leading, spanning about 70-85% of the lockup width; WHITE fill with a THICK clean BLACK outline, a crisp hard black drop shadow and a subtle bevel, so it reads like an embossed game logo. Light from the scene can add a soft warm edge glow.
+- HIGHLIGHT: the word(s) between *asterisks* use the GTA VI sunset gradient (hot pink #FF2E9A → magenta #C2185B → a touch of orange) inside the same letterforms and outline. Never print the asterisks.
+- SUBTITLE: clean condensed sans-serif, white, all caps, wide letter-spacing, much smaller than the title, thin dark outline.
+- KICK LINK PILL (always): a sleek black rounded pill with a thin Kick-green border (#53FC18); on the left inside the pill, the attached OFFICIAL KICK LOGO exactly as provided (not redrawn, not recolored); then the link text in bold Kick green #53FC18 (any "AO VIVO •" part in white). If the Kick logo cannot be reproduced exactly, leave a small empty square for it instead of drawing a fake one.
+- The lockup NEVER covers his face or sunglasses. No other text, labels, watermarks or UI anywhere unless the scene asks for it.
+SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç, Á, Ã, Ô). No extra words. Do not write "JULIO PISTOLADA" anywhere except inside the link.
+TITLE: "LIMPEI *A BARRA*"
+SUBTITLE: "AGORA VEM PRA LIVE"
+KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
+```
+
+## L12-02 — Caminhão-tanque na rodovia
+```
+REFERENCE: classic GTA highway truck chase in Leonida, rendered with the same official Rockstar game-engine look.
+SCENE: Horizontal 16:9. Sunset on a Leonida highway: Julio Pistolada standing on the side step of a speeding chrome tanker truck, one hand gripping the door handle, the pistol held low in the other, wind in his clothes, police cars chasing behind, a trail of sparks from the trailer, palm trees, swamp and an orange-pink sky. Camera close beside the cab, his face sharp.
+OUTFIT: red-and-black flannel shirt with sleeves rolled up over a white tee, light-wash jeans, brown work boots.
+[LAYOUT]: title lockup in the upper 30%, over the sky.
+ACTION & WEAPON: epic GTA VI action moment frozen at its peak. Julio has a serious, focused, intense expression — jaw set, NOT laughing, NOT smiling. The black semi-automatic pistol is clearly VISIBLE in his hand as a key prop, held in a confident GTA hero pose (low-ready or close to his chest), finger off the trigger, NOT firing: no muzzle flash, no bullets, no blood, no injured people, no gore. Stylized video game action.
+
+=== JULIO PISTOLADA — MASTER RULES V3 (apply all) ===
+ATTACHMENTS: (1) the APPROVED head character sheet of Julio, (2) his official face photo with the rectangular sunglasses, (3) the OFFICIAL GTA VI LOGO image, (4) the OFFICIAL KICK LOGO image.
+CHARACTER: Julio Pistolada — copy his face EXACTLY from the approved head sheet: round face, warm light-brown skin, thick full black beard with sharp lined edge connected to the mustache.
+HAIR: VERY SHORT buzz-cut length (about 1 cm on top), flat and close to the scalp, high skin fade on the sides. NO volume, NO height, NO afro, NOT wavy.
+SUNGLASSES (always on): flat-front narrow RECTANGULAR metal sunglasses (Matrix / Y2K style), thin gunmetal full-rim frame, dark smoke lenses. NOT wraparound, NOT oval, NOT sporty, NOT red.
+BODY: about 10-15 kg slimmer than his real photos — solid, broad shoulders, small belly, slim neck, no double chin; head proportional to the body (no bobblehead). Black-and-silver watch on the left wrist.
+CLOTHING: only the GTA outfit written in the scene. Never football jerseys, tactical vests, bandanas, balaclavas, slide sandals, "NARIZES FC".
+GAME STYLE — STRICT (most important rule): this is OFFICIAL ROCKSTAR GAMES KEY ART made with in-game 3D assets of Grand Theft Auto VI. Everything — Julio, cars, buildings, palm trees, water, sky — is a 3D GAME ASSET rendered in the game engine: Rockstar-style 3D character model with smooth, slightly stylized CG skin (no real pores, no photographic skin), stylized facial modeling like a GTA protagonist, game-quality hair and clothing meshes, clean game textures, saturated GTA VI color grading, game-engine bloom, glossy CG reflections. When in doubt, choose MORE game-like, never more realistic. FORBIDDEN: photo, photorealism, live-action, movie still, DSLR look, real human skin, film grain, AI-photo look. Also forbidden: cartoon, comic, flat 2D drawing, anime, outlines.
+CINEMATIC COMPOSITION: AAA game cover composition — Julio is the hero, dramatic low or dynamic camera angle, strong colored rim light, depth, atmosphere, foreground/background layers, rule of thirds. His face is always large, sharp and readable (at least about 1/6 of the image height). Keep the title zone clean (sky, wall or dark area) so the title lockup sits on a calm background.
+OFFICIAL LOGO: place the attached official GTA VI logo image EXACTLY as provided — same shapes, colors and proportions, not redrawn, not distorted, not recolored. If it cannot be reproduced exactly, leave its space EMPTY instead of drawing a fake logo. Never write "GTA", "GTA VI", "GTA 6" or "Grand Theft Auto" as text.
+TITLE LOCKUP — ART DIRECTION (this is a game cover, never a random caption):
+- Design ONE unified title lockup, like the title block of an official video game cover or a blockbuster movie poster, created by a AAA game art director. All text elements are aligned to the same center axis, with consistent spacing and a clear hierarchy: LOGO (top of the lockup) → MAIN TITLE (biggest) → SUBTITLE → KICK LINK PILL.
+- Position: the whole lockup sits in the [LAYOUT] area given in the scene, centered on that area, with generous safe margins. Nothing floats randomly, nothing is tilted at random angles, no stray text anywhere else in the image.
+- MAIN TITLE: heavy condensed GTA-style display lettering (Pricedown-like), ALL CAPS, very tight letter-spacing, 1 or 2 stacked lines with tight leading, spanning about 70-85% of the lockup width; WHITE fill with a THICK clean BLACK outline, a crisp hard black drop shadow and a subtle bevel, so it reads like an embossed game logo. Light from the scene can add a soft warm edge glow.
+- HIGHLIGHT: the word(s) between *asterisks* use the GTA VI sunset gradient (hot pink #FF2E9A → magenta #C2185B → a touch of orange) inside the same letterforms and outline. Never print the asterisks.
+- SUBTITLE: clean condensed sans-serif, white, all caps, wide letter-spacing, much smaller than the title, thin dark outline.
+- KICK LINK PILL (always): a sleek black rounded pill with a thin Kick-green border (#53FC18); on the left inside the pill, the attached OFFICIAL KICK LOGO exactly as provided (not redrawn, not recolored); then the link text in bold Kick green #53FC18 (any "AO VIVO •" part in white). If the Kick logo cannot be reproduced exactly, leave a small empty square for it instead of drawing a fake one.
+- The lockup NEVER covers his face or sunglasses. No other text, labels, watermarks or UI anywhere unless the scene asks for it.
+SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç, Á, Ã, Ô). No extra words. Do not write "JULIO PISTOLADA" anywhere except inside the link.
+TITLE: "A ESTRADA *LEVA PRA LIVE*"
+SUBTITLE: "TÔ AO VIVO AGORA"
+KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
+```
+
+## L12-03 — Perseguição no shopping
+```
+REFERENCE: classic GTA chase through a luxury shopping mall at night, rendered with the same official Rockstar game-engine look.
+SCENE: Vertical 4:5. Night inside a luxury Vice City shopping mall with a huge glass atrium: Julio Pistolada running up a moving escalator toward the camera, pistol held close to his chest, shopping bags dropped on the floor, security guards chasing far below, neon store signs (no readable text), palm trees inside the atrium, the night sky visible through the glass roof.
+OUTFIT: black silk short-sleeve shirt with a subtle purple palm print, black tailored trousers, black loafers, thin silver chain.
+[LAYOUT]: title lockup in the upper 30%, over the dark glass roof.
+ACTION & WEAPON: epic GTA VI action moment frozen at its peak. Julio has a serious, focused, intense expression — jaw set, NOT laughing, NOT smiling. The black semi-automatic pistol is clearly VISIBLE in his hand as a key prop, held in a confident GTA hero pose (low-ready or close to his chest), finger off the trigger, NOT firing: no muzzle flash, no bullets, no blood, no injured people, no gore. Stylized video game action.
+
+=== JULIO PISTOLADA — MASTER RULES V3 (apply all) ===
+ATTACHMENTS: (1) the APPROVED head character sheet of Julio, (2) his official face photo with the rectangular sunglasses, (3) the OFFICIAL GTA VI LOGO image, (4) the OFFICIAL KICK LOGO image.
+CHARACTER: Julio Pistolada — copy his face EXACTLY from the approved head sheet: round face, warm light-brown skin, thick full black beard with sharp lined edge connected to the mustache.
+HAIR: VERY SHORT buzz-cut length (about 1 cm on top), flat and close to the scalp, high skin fade on the sides. NO volume, NO height, NO afro, NOT wavy.
+SUNGLASSES (always on): flat-front narrow RECTANGULAR metal sunglasses (Matrix / Y2K style), thin gunmetal full-rim frame, dark smoke lenses. NOT wraparound, NOT oval, NOT sporty, NOT red.
+BODY: about 10-15 kg slimmer than his real photos — solid, broad shoulders, small belly, slim neck, no double chin; head proportional to the body (no bobblehead). Black-and-silver watch on the left wrist.
+CLOTHING: only the GTA outfit written in the scene. Never football jerseys, tactical vests, bandanas, balaclavas, slide sandals, "NARIZES FC".
+GAME STYLE — STRICT (most important rule): this is OFFICIAL ROCKSTAR GAMES KEY ART made with in-game 3D assets of Grand Theft Auto VI. Everything — Julio, cars, buildings, palm trees, water, sky — is a 3D GAME ASSET rendered in the game engine: Rockstar-style 3D character model with smooth, slightly stylized CG skin (no real pores, no photographic skin), stylized facial modeling like a GTA protagonist, game-quality hair and clothing meshes, clean game textures, saturated GTA VI color grading, game-engine bloom, glossy CG reflections. When in doubt, choose MORE game-like, never more realistic. FORBIDDEN: photo, photorealism, live-action, movie still, DSLR look, real human skin, film grain, AI-photo look. Also forbidden: cartoon, comic, flat 2D drawing, anime, outlines.
+CINEMATIC COMPOSITION: AAA game cover composition — Julio is the hero, dramatic low or dynamic camera angle, strong colored rim light, depth, atmosphere, foreground/background layers, rule of thirds. His face is always large, sharp and readable (at least about 1/6 of the image height). Keep the title zone clean (sky, wall or dark area) so the title lockup sits on a calm background.
+OFFICIAL LOGO: place the attached official GTA VI logo image EXACTLY as provided — same shapes, colors and proportions, not redrawn, not distorted, not recolored. If it cannot be reproduced exactly, leave its space EMPTY instead of drawing a fake logo. Never write "GTA", "GTA VI", "GTA 6" or "Grand Theft Auto" as text.
+TITLE LOCKUP — ART DIRECTION (this is a game cover, never a random caption):
+- Design ONE unified title lockup, like the title block of an official video game cover or a blockbuster movie poster, created by a AAA game art director. All text elements are aligned to the same center axis, with consistent spacing and a clear hierarchy: LOGO (top of the lockup) → MAIN TITLE (biggest) → SUBTITLE → KICK LINK PILL.
+- Position: the whole lockup sits in the [LAYOUT] area given in the scene, centered on that area, with generous safe margins. Nothing floats randomly, nothing is tilted at random angles, no stray text anywhere else in the image.
+- MAIN TITLE: heavy condensed GTA-style display lettering (Pricedown-like), ALL CAPS, very tight letter-spacing, 1 or 2 stacked lines with tight leading, spanning about 70-85% of the lockup width; WHITE fill with a THICK clean BLACK outline, a crisp hard black drop shadow and a subtle bevel, so it reads like an embossed game logo. Light from the scene can add a soft warm edge glow.
+- HIGHLIGHT: the word(s) between *asterisks* use the GTA VI sunset gradient (hot pink #FF2E9A → magenta #C2185B → a touch of orange) inside the same letterforms and outline. Never print the asterisks.
+- SUBTITLE: clean condensed sans-serif, white, all caps, wide letter-spacing, much smaller than the title, thin dark outline.
+- KICK LINK PILL (always): a sleek black rounded pill with a thin Kick-green border (#53FC18); on the left inside the pill, the attached OFFICIAL KICK LOGO exactly as provided (not redrawn, not recolored); then the link text in bold Kick green #53FC18 (any "AO VIVO •" part in white). If the Kick logo cannot be reproduced exactly, leave a small empty square for it instead of drawing a fake one.
+- The lockup NEVER covers his face or sunglasses. No other text, labels, watermarks or UI anywhere unless the scene asks for it.
+SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç, Á, Ã, Ô). No extra words. Do not write "JULIO PISTOLADA" anywhere except inside the link.
+TITLE: "SOBE *PRA LIVE*"
+SUBTITLE: "TÁ ROLANDO AGORA"
+KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
+```
+
+## L12-04 — Fuga de carrinho de golfe (ref. GTA V)
+```
+REFERENCE: homage to the GTA V country club golf course, set in Los Santos, rendered with the same official Rockstar game-engine look.
+SCENE: Horizontal 16:9. Bright afternoon on a perfect green golf course: Julio Pistolada driving a white golf cart at full speed across the fairway, grass and sand flying from a bunker, the pistol visible in his free hand, two security guards in golf carts chasing behind, palm trees, a luxury clubhouse and the Vinewood hills in the distance, blue sky. Camera low in front of the cart, his face large.
+OUTFIT: white polo shirt, beige chino trousers, white golf shoes.
+[LAYOUT]: title lockup on the left third, over the blue sky.
+ACTION & WEAPON: epic GTA VI action moment frozen at its peak. Julio has a serious, focused, intense expression — jaw set, NOT laughing, NOT smiling. The black semi-automatic pistol is clearly VISIBLE in his hand as a key prop, held in a confident GTA hero pose (low-ready or close to his chest), finger off the trigger, NOT firing: no muzzle flash, no bullets, no blood, no injured people, no gore. Stylized video game action.
+
+=== JULIO PISTOLADA — MASTER RULES V3 (apply all) ===
+ATTACHMENTS: (1) the APPROVED head character sheet of Julio, (2) his official face photo with the rectangular sunglasses, (3) the OFFICIAL GTA VI LOGO image, (4) the OFFICIAL KICK LOGO image.
+CHARACTER: Julio Pistolada — copy his face EXACTLY from the approved head sheet: round face, warm light-brown skin, thick full black beard with sharp lined edge connected to the mustache.
+HAIR: VERY SHORT buzz-cut length (about 1 cm on top), flat and close to the scalp, high skin fade on the sides. NO volume, NO height, NO afro, NOT wavy.
+SUNGLASSES (always on): flat-front narrow RECTANGULAR metal sunglasses (Matrix / Y2K style), thin gunmetal full-rim frame, dark smoke lenses. NOT wraparound, NOT oval, NOT sporty, NOT red.
+BODY: about 10-15 kg slimmer than his real photos — solid, broad shoulders, small belly, slim neck, no double chin; head proportional to the body (no bobblehead). Black-and-silver watch on the left wrist.
+CLOTHING: only the GTA outfit written in the scene. Never football jerseys, tactical vests, bandanas, balaclavas, slide sandals, "NARIZES FC".
+GAME STYLE — STRICT (most important rule): this is OFFICIAL ROCKSTAR GAMES KEY ART made with in-game 3D assets of Grand Theft Auto VI. Everything — Julio, cars, buildings, palm trees, water, sky — is a 3D GAME ASSET rendered in the game engine: Rockstar-style 3D character model with smooth, slightly stylized CG skin (no real pores, no photographic skin), stylized facial modeling like a GTA protagonist, game-quality hair and clothing meshes, clean game textures, saturated GTA VI color grading, game-engine bloom, glossy CG reflections. When in doubt, choose MORE game-like, never more realistic. FORBIDDEN: photo, photorealism, live-action, movie still, DSLR look, real human skin, film grain, AI-photo look. Also forbidden: cartoon, comic, flat 2D drawing, anime, outlines.
+CINEMATIC COMPOSITION: AAA game cover composition — Julio is the hero, dramatic low or dynamic camera angle, strong colored rim light, depth, atmosphere, foreground/background layers, rule of thirds. His face is always large, sharp and readable (at least about 1/6 of the image height). Keep the title zone clean (sky, wall or dark area) so the title lockup sits on a calm background.
+OFFICIAL LOGO: place the attached official GTA VI logo image EXACTLY as provided — same shapes, colors and proportions, not redrawn, not distorted, not recolored. If it cannot be reproduced exactly, leave its space EMPTY instead of drawing a fake logo. Never write "GTA", "GTA VI", "GTA 6" or "Grand Theft Auto" as text.
+TITLE LOCKUP — ART DIRECTION (this is a game cover, never a random caption):
+- Design ONE unified title lockup, like the title block of an official video game cover or a blockbuster movie poster, created by a AAA game art director. All text elements are aligned to the same center axis, with consistent spacing and a clear hierarchy: LOGO (top of the lockup) → MAIN TITLE (biggest) → SUBTITLE → KICK LINK PILL.
+- Position: the whole lockup sits in the [LAYOUT] area given in the scene, centered on that area, with generous safe margins. Nothing floats randomly, nothing is tilted at random angles, no stray text anywhere else in the image.
+- MAIN TITLE: heavy condensed GTA-style display lettering (Pricedown-like), ALL CAPS, very tight letter-spacing, 1 or 2 stacked lines with tight leading, spanning about 70-85% of the lockup width; WHITE fill with a THICK clean BLACK outline, a crisp hard black drop shadow and a subtle bevel, so it reads like an embossed game logo. Light from the scene can add a soft warm edge glow.
+- HIGHLIGHT: the word(s) between *asterisks* use the GTA VI sunset gradient (hot pink #FF2E9A → magenta #C2185B → a touch of orange) inside the same letterforms and outline. Never print the asterisks.
+- SUBTITLE: clean condensed sans-serif, white, all caps, wide letter-spacing, much smaller than the title, thin dark outline.
+- KICK LINK PILL (always): a sleek black rounded pill with a thin Kick-green border (#53FC18); on the left inside the pill, the attached OFFICIAL KICK LOGO exactly as provided (not redrawn, not recolored); then the link text in bold Kick green #53FC18 (any "AO VIVO •" part in white). If the Kick logo cannot be reproduced exactly, leave a small empty square for it instead of drawing a fake one.
+- The lockup NEVER covers his face or sunglasses. No other text, labels, watermarks or UI anywhere unless the scene asks for it.
+SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç, Á, Ã, Ô). No extra words. Do not write "JULIO PISTOLADA" anywhere except inside the link.
+TITLE: "FUGI *DE CARRINHO*"
+SUBTITLE: "VEM VER AO VIVO"
+KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
+```
+
+## L12-05 — Cabana no pântano à noite
+```
+REFERENCE: GTA VI swamp atmosphere in rural Leonida, rendered with the same official Rockstar game-engine look.
+SCENE: Vertical 4:5. Night in the Leonida swamp: Julio Pistolada standing on the wooden dock of an old stilt shack lit by string lights and a single bulb, pistol held low at his side, looking at the camera while two airboats with spotlights approach across the dark water, fireflies, cypress trees with hanging moss, a full moon and the pink glow of Vice City on the horizon.
+OUTFIT: olive utility jacket over a plain black t-shirt, cargo pants, boots.
+[LAYOUT]: title lockup in the upper 30%, over the moonlit sky.
+ACTION & WEAPON: epic GTA VI action moment frozen at its peak. Julio has a serious, focused, intense expression — jaw set, NOT laughing, NOT smiling. The black semi-automatic pistol is clearly VISIBLE in his hand as a key prop, held in a confident GTA hero pose (low-ready or close to his chest), finger off the trigger, NOT firing: no muzzle flash, no bullets, no blood, no injured people, no gore. Stylized video game action.
+
+=== JULIO PISTOLADA — MASTER RULES V3 (apply all) ===
+ATTACHMENTS: (1) the APPROVED head character sheet of Julio, (2) his official face photo with the rectangular sunglasses, (3) the OFFICIAL GTA VI LOGO image, (4) the OFFICIAL KICK LOGO image.
+CHARACTER: Julio Pistolada — copy his face EXACTLY from the approved head sheet: round face, warm light-brown skin, thick full black beard with sharp lined edge connected to the mustache.
+HAIR: VERY SHORT buzz-cut length (about 1 cm on top), flat and close to the scalp, high skin fade on the sides. NO volume, NO height, NO afro, NOT wavy.
+SUNGLASSES (always on): flat-front narrow RECTANGULAR metal sunglasses (Matrix / Y2K style), thin gunmetal full-rim frame, dark smoke lenses. NOT wraparound, NOT oval, NOT sporty, NOT red.
+BODY: about 10-15 kg slimmer than his real photos — solid, broad shoulders, small belly, slim neck, no double chin; head proportional to the body (no bobblehead). Black-and-silver watch on the left wrist.
+CLOTHING: only the GTA outfit written in the scene. Never football jerseys, tactical vests, bandanas, balaclavas, slide sandals, "NARIZES FC".
+GAME STYLE — STRICT (most important rule): this is OFFICIAL ROCKSTAR GAMES KEY ART made with in-game 3D assets of Grand Theft Auto VI. Everything — Julio, cars, buildings, palm trees, water, sky — is a 3D GAME ASSET rendered in the game engine: Rockstar-style 3D character model with smooth, slightly stylized CG skin (no real pores, no photographic skin), stylized facial modeling like a GTA protagonist, game-quality hair and clothing meshes, clean game textures, saturated GTA VI color grading, game-engine bloom, glossy CG reflections. When in doubt, choose MORE game-like, never more realistic. FORBIDDEN: photo, photorealism, live-action, movie still, DSLR look, real human skin, film grain, AI-photo look. Also forbidden: cartoon, comic, flat 2D drawing, anime, outlines.
+CINEMATIC COMPOSITION: AAA game cover composition — Julio is the hero, dramatic low or dynamic camera angle, strong colored rim light, depth, atmosphere, foreground/background layers, rule of thirds. His face is always large, sharp and readable (at least about 1/6 of the image height). Keep the title zone clean (sky, wall or dark area) so the title lockup sits on a calm background.
+OFFICIAL LOGO: place the attached official GTA VI logo image EXACTLY as provided — same shapes, colors and proportions, not redrawn, not distorted, not recolored. If it cannot be reproduced exactly, leave its space EMPTY instead of drawing a fake logo. Never write "GTA", "GTA VI", "GTA 6" or "Grand Theft Auto" as text.
+TITLE LOCKUP — ART DIRECTION (this is a game cover, never a random caption):
+- Design ONE unified title lockup, like the title block of an official video game cover or a blockbuster movie poster, created by a AAA game art director. All text elements are aligned to the same center axis, with consistent spacing and a clear hierarchy: LOGO (top of the lockup) → MAIN TITLE (biggest) → SUBTITLE → KICK LINK PILL.
+- Position: the whole lockup sits in the [LAYOUT] area given in the scene, centered on that area, with generous safe margins. Nothing floats randomly, nothing is tilted at random angles, no stray text anywhere else in the image.
+- MAIN TITLE: heavy condensed GTA-style display lettering (Pricedown-like), ALL CAPS, very tight letter-spacing, 1 or 2 stacked lines with tight leading, spanning about 70-85% of the lockup width; WHITE fill with a THICK clean BLACK outline, a crisp hard black drop shadow and a subtle bevel, so it reads like an embossed game logo. Light from the scene can add a soft warm edge glow.
+- HIGHLIGHT: the word(s) between *asterisks* use the GTA VI sunset gradient (hot pink #FF2E9A → magenta #C2185B → a touch of orange) inside the same letterforms and outline. Never print the asterisks.
+- SUBTITLE: clean condensed sans-serif, white, all caps, wide letter-spacing, much smaller than the title, thin dark outline.
+- KICK LINK PILL (always): a sleek black rounded pill with a thin Kick-green border (#53FC18); on the left inside the pill, the attached OFFICIAL KICK LOGO exactly as provided (not redrawn, not recolored); then the link text in bold Kick green #53FC18 (any "AO VIVO •" part in white). If the Kick logo cannot be reproduced exactly, leave a small empty square for it instead of drawing a fake one.
+- The lockup NEVER covers his face or sunglasses. No other text, labels, watermarks or UI anywhere unless the scene asks for it.
+SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç, Á, Ã, Ô). No extra words. Do not write "JULIO PISTOLADA" anywhere except inside the link.
+TITLE: "TE ESPERO *NA LIVE*"
+SUBTITLE: "TÔ AO VIVO AGORA"
+KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
+```
