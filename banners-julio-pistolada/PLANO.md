@@ -27,3 +27,10 @@
 - [ ] **ETAPA 5 — Montagem final**: título premium e link da Kick nas artes certas.
 
 A versão antiga (Flamengo, colete, cenas V1–V3) está em `_versao-anterior/`, só para consulta.
+
+## Atualização 18/11: regras fixas daqui pra frente
+- **Óculos oficial:** retangular fino, armação prata, lente fumê (`01-character-sheet/referencias/00-ROSTO-OFICIAL-oculos-novo.png`). O vermelho “Juliet” saiu.
+- **Cabelo:** crespo bem curto e colado, degradê alto. Nunca ondulado.
+- **Peso:** só ~5 kg mais leve, cabeça proporcional ao corpo.
+- **GTA VI nas artes:** sempre com o **logo do GTA VI**, nunca o texto “GTA VI” escrito.
+- **Character sheet V3:** 3 prompts em `01-character-sheet/PRONTO-V3-*.txt` (cabeça, proporção do busto e expressões).

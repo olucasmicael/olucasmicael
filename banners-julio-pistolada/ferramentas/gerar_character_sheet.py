@@ -29,6 +29,8 @@ crops = {
     "09-detalhe-barba": p3.crop((500, 400, 880, 700)),
     "10-detalhe-relogio": p8.crop((250, 550, 370, 700)),
     "11-detalhe-oculos-lado": p4.crop((170, 540, 800, 900)),
+    "12-detalhe-oculos-oficial": p3.crop((520, 300, 860, 460)),
+    "13-detalhe-cabelo": p3.crop((520, 140, 860, 330)),
 }
 for k, v in crops.items():
     v.save(os.path.join(REF, k + ".png"))
@@ -55,8 +57,8 @@ for x in range(W):
     d.line([(x, 0), (x, 8)], fill=tuple(int(PINK[i] * (1 - t) + PURPLE[i] * t) for i in range(3)))
 d.text((30, 30), "JULIO PISTOLADA", font=font(78), fill=WHITE)
 d.text((32, 118), "FICHA DE PERSONAGEM  •  REFERÊNCIA DE ROSTO PARA IA", font=font(28, False), fill=PINK)
-d.text((W - 30, 52), "SEMPRE COM O ÓCULOS", font=font(30), fill=WHITE, anchor="ra")
-d.text((W - 30, 92), "DE LENTE VERMELHA", font=font(30), fill=PINK, anchor="ra")
+d.text((W - 30, 52), "ÓCULOS OFICIAL:", font=font(30), fill=WHITE, anchor="ra")
+d.text((W - 30, 92), "RETANGULAR, LENTE FUMÊ", font=font(30), fill=PINK, anchor="ra")
 TOP, BOT = 175, H - 34
 
 def place(im, x, y, w, h, label=None, centering=(0.5, 0.5)):
@@ -73,18 +75,18 @@ def place(im, x, y, w, h, label=None, centering=(0.5, 0.5)):
 place(crops["04-corpo-inteiro-em-pe"], 34, TOP, 590, BOT - TOP, "CORPO INTEIRO", (0.5, 0.3))
 # col 2 – rosto frente + pose
 c2 = 660
-place(crops["01-rosto-frente-oculos-vermelho"], c2, TOP, 570, 640, "FRENTE  •  VISUAL OFICIAL")
+place(crops["02-rosto-frente-sem-lente-vermelha"], c2, TOP, 570, 640, "FRENTE  •  ÓCULOS OFICIAL")
 place(crops["06-pose-assinatura-pistolinha"], c2, TOP + 664, 570, BOT - TOP - 664, "POSE ASSINATURA", (0.5, 0.25))
 # col 3
 c3, r = 1266, 2366
 cw = (r - c3 - 40) // 3
-place(crops["02-rosto-frente-sem-lente-vermelha"], c3, TOP, cw, 360, "ROSTO (OUTRO ÓCULOS)")
+place(crops["12-detalhe-oculos-oficial"], c3, TOP, cw, 360, "ÓCULOS OFICIAL")
 place(crops["03-rosto-3-4"], c3 + cw + 20, TOP, cw, 360, "3/4")
-place(crops["08-detalhe-oculos"], c3 + 2 * (cw + 20), TOP, cw, 360, "ÓCULOS")
+place(crops["13-detalhe-cabelo"], c3 + 2 * (cw + 20), TOP, cw, 360, "CABELO")
 y2 = TOP + 384
 place(crops["09-detalhe-barba"], c3, y2, cw, 250, "BARBA")
 place(crops["10-detalhe-relogio"], c3 + cw + 20, y2, cw, 250, "RELÓGIO", (0.5, 0.4))
-place(crops["11-detalhe-oculos-lado"], c3 + 2 * (cw + 20), y2, cw, 250, "ÓCULOS (LADO)")
+place(crops["01-rosto-frente-oculos-vermelho"], c3 + 2 * (cw + 20), y2, cw, 250, "ÓCULOS ANTIGO: NÃO USAR")
 
 y3 = y2 + 250 + 26
 d.text((c3, y3), "PALETA (TIRADA DAS FOTOS, APROXIMADA)", font=font(22), fill=PINK)
@@ -100,11 +102,11 @@ d.rounded_rectangle([c3, ty, r, BOT], 16, fill=PANEL)
 d.text((c3 + 26, ty + 20), "TRAÇOS QUE NÃO PODEM MUDAR", font=font(28), fill=PINK)
 traits = [
     "Pele morena clara, tom quente",
-    "Cabelo preto crespo curto, degradê (fade) nas laterais",
+    "Cabelo crespo BEM curto, colado, degradê alto (NÃO ondulado)",
     "Barba preta cheia e volumosa no queixo, ligada ao bigode",
     "Rosto redondo e cheio, bochechas largas",
-    "Corpo IGUAL às fotos: forte e cheinho — NÃO engordar, NÃO emagrecer",
-    "Óculos esportivo prata, lente espelhada vermelha (tipo “Juliet”)",
+    "Corpo ~5 kg mais leve, cabeça proporcional ao corpo",
+    "Óculos NOVO: retangular fino, metal prata, lente escura fumê",
     "Relógio grande preto e prata + corrente prata",
     "ROUPA: só trajes de GTA (NÃO a camisa das fotos)",
     "Pose: braços cruzados ou “pistolinha” com a mão; queixo pra cima",
