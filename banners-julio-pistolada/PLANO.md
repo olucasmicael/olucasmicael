@@ -34,4 +34,4 @@ A versão antiga (Flamengo, colete, cenas V1–V3) está em `_versao-anterior/`,
 - **Cabelo:** crespo bem curto e colado, degradê alto. Nunca ondulado.
 - **Peso:** uns **10 a 15 kg mais magro**, como combinado, com o **rosto afinando junto** para a cabeça ficar proporcional ao corpo.
 - **GTA VI nas artes:** sempre com o **logo do GTA VI**, nunca o texto “GTA VI” escrito.
-- **Character sheet V3:** 3 prompts em `01-character-sheet/PRONTO-V3-*.txt` (cabeça, proporção do busto e expressões).
+- **Character sheet V3:** 2 prompts em `01-character-sheet/PRONTO-V3-*.txt` (cabeça e expressões).
