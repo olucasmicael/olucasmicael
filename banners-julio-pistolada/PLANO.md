@@ -35,3 +35,6 @@ A versão antiga (Flamengo, colete, cenas V1–V3) está em `_versao-anterior/`,
 - **Peso:** uns **10 a 15 kg mais magro**, como combinado, com o **rosto afinando junto** para a cabeça ficar proporcional ao corpo.
 - **GTA VI nas artes:** sempre com o **logo do GTA VI**, nunca o texto “GTA VI” escrito.
 - **Character sheet V3:** 2 prompts em `01-character-sheet/PRONTO-V3-*.txt` (cabeça e expressões).
+
+## ENTREGA FINAL (18/11): `03-cenas-finais/`
+São 20 prompts prontos, com o modelo certo (ficha da cabeça aprovada), o **logo oficial do GTA VI anexado**, o título nas cores do GTA com enquadramento de capa, o visual 100% videogame, cabelo curto, ~10-15 kg mais magro e a ação com arma em pose segura. São 10 de pré-live e 10 de live rolando. Inclui o crocodilo e homenagens a momentos clássicos (San Andreas, trailer do GTA VI).
