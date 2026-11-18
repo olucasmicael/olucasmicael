@@ -105,7 +105,7 @@ traits = [
     "Cabelo crespo BEM curto, colado, degradê alto (NÃO ondulado)",
     "Barba preta cheia e volumosa no queixo, ligada ao bigode",
     "Rosto redondo e cheio, bochechas largas",
-    "Corpo ~5 kg mais leve, cabeça proporcional ao corpo",
+    "Corpo 10-15 kg mais magro, rosto afina junto",
     "Óculos NOVO: retangular fino, metal prata, lente escura fumê",
     "Relógio grande preto e prata + corrente prata",
     "ROUPA: só trajes de GTA (NÃO a camisa das fotos)",

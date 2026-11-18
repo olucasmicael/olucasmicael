@@ -3,7 +3,7 @@
 | Pedido do Julio | Correção |
 |---|---|
 | Cabelo saindo ondulado | Trava nova: cabelo **crespo bem curto, colado na cabeça**, com degradê. Proibido ondulado ou cacheado solto. |
-| Tamanho desproporcional com o corpo | Proporção travada: cabeça do tamanho certo pro corpo, rosto e corpo com o **mesmo peso**, só um pouco mais leve que nas fotos. |
+| Tamanho desproporcional com o corpo | Proporção travada: cabeça do tamanho certo pro corpo, rosto e corpo com o **mesmo peso**, uns 10 a 15 kg mais magro, com o rosto afinando junto. |
 | Óculos: quer outro | Linha do óculos agora é **trocável** (abaixo). Falta a foto que ele mandou. |
 | Cor das letras fora da temática do GTA | Título **branco com contorno preto grosso** (GTA clássico) + **uma palavra em rosa/magenta do GTA VI** + info branca. |
 | Fugindo da polícia ele tá rindo | Cenas de ação com expressão **séria e focada**. Nada de risada. |
@@ -36,7 +36,7 @@ sunglasses: EXACTLY the sunglasses from the attached glasses photo — same fram
 CHARACTER: the man is JULIO PISTOLADA — copy his face exactly from the attached head sheet/photos: round face, warm light-brown skin, thick full black beard with sharp lined cheek edge connected to the mustache.
 HAIR (important): very short, tight, coily/kinky black hair pressed close to the head on top, high skin fade on the sides. NOT wavy, NOT loose curls, NOT long, NOT slicked.
 [ÓCULOS] — always on his face. Black-and-silver chronograph watch on the left wrist.
-PROPORTIONS (important): realistic adult male proportions — head size correct for his body (not oversized, not small), face and body with the SAME build: a sturdy, broad-shouldered, solid guy, slightly lighter than in the photos (about 5 kg), slight belly, no double chin. Face fullness must match the body. NOT obese, NOT skinny, NOT muscular, no bobblehead effect.
+WEIGHT & PROPORTIONS (important): clearly SLIMMER than in the photos — about 10-15 kg lighter: broad-shouldered solid guy, small belly, slimmer neck, defined jawline, no double chin, slightly less full cheeks. Face slimmed together with the body so the head size is correct for the body. NOT a bobblehead, NOT fat, NOT skinny, NOT muscular.
 CLOTHING: ONLY the GTA outfit described in the scene. Ignore the clothes in the photos. No football jerseys, no tactical vests, no "NARIZES FC".
 VIDEO GAME LOOK (most important): it must clearly look like an in-game screenshot / cutscene from Grand Theft Auto V or GTA VI — stylized real-time 3D game graphics, 3D game character model with smooth simplified game skin, clean game textures, game-engine lighting (bloom, saturated colors, crisp game shadows). NOT a real photo, NOT hyperrealistic, no film grain. NOT a cartoon, NOT a drawing.
 ```

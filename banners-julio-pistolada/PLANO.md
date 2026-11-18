@@ -4,7 +4,7 @@
 
 | # | O que ele disse | Como corrigimos |
 |---|---|---|
-| 1 | Peso e proporção | V2 (18/11): só ~5 kg mais leve, cabeça proporcional ao corpo. Cabelo crespo curto, não ondulado. Óculos trocável. Ver `02-cenas-gta/V2-CORRECOES-CLIENTE.md`. |
+| 1 | Peso e proporção | V3 (18/11): 10 a 15 kg mais magro, com o rosto afinando junto (cabeça proporcional). Cabelo crespo curto, não ondulado. Óculos trocável. Ver `02-cenas-gta/V2-CORRECOES-CLIENTE.md`. |
 | 2 | “Tá muito estilo favela ainda” | Saem a camisa de time, o colete tático, o chinelo, a bandana e a balaclava. Fica **só traje de GTA**. |
 | 3 | “Tinha que ficar pegada GTA mesmo, traje de GTA” | Guarda-roupa novo inspirado nos protagonistas e figurinos dos jogos (Vice City, Los Santos, Leonida). |
 | 4 | “As cenas seriam interessantes, mas com traje de GTA” | Vamos reaproveitar as **ideias de cena**, trocando a roupa. |
@@ -31,6 +31,6 @@ A versão antiga (Flamengo, colete, cenas V1–V3) está em `_versao-anterior/`,
 ## Atualização 18/11: regras fixas daqui pra frente
 - **Óculos oficial:** retangular fino, armação prata, lente fumê (`01-character-sheet/referencias/00-ROSTO-OFICIAL-oculos-novo.png`). O vermelho “Juliet” saiu.
 - **Cabelo:** crespo bem curto e colado, degradê alto. Nunca ondulado.
-- **Peso:** só ~5 kg mais leve, cabeça proporcional ao corpo.
+- **Peso:** uns **10 a 15 kg mais magro**, como combinado, com o **rosto afinando junto** para a cabeça ficar proporcional ao corpo.
 - **GTA VI nas artes:** sempre com o **logo do GTA VI**, nunca o texto “GTA VI” escrito.
 - **Character sheet V3:** 3 prompts em `01-character-sheet/PRONTO-V3-*.txt` (cabeça, proporção do busto e expressões).
