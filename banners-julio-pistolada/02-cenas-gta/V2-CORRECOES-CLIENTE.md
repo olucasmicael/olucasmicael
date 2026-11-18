@@ -17,7 +17,7 @@
 
 **Opção A (provável): o óculos retangular da foto dele de camiseta preta com estampa**
 ```
-sunglasses: thin rectangular silver metal frame sunglasses with dark smoke-gray lenses (exactly like the attached photo where he wears thin rectangular glasses)
+SUNGLASSES: EXACTLY the glasses in the attached close-up photo — classic narrow RECTANGULAR metal sunglasses (Matrix / Y2K style), FLAT front, NOT wraparound, rectangular lenses with slightly rounded corners, thin full-rim gunmetal frame, thin straight bridge and temples, dark smoke lenses, NOT mirrored, NOT red. NOT oval, NOT sporty, NOT Oakley/Juliet style
 ```
 **Opção B: o óculos da foto que ele mandou agora**
 ```

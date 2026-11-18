@@ -29,7 +29,8 @@
 A versão antiga (Flamengo, colete, cenas V1–V3) está em `_versao-anterior/`, só para consulta.
 
 ## Atualização 18/11: regras fixas daqui pra frente
-- **Óculos oficial:** retangular fino, armação prata, lente fumê (`01-character-sheet/referencias/00-ROSTO-OFICIAL-oculos-novo.png`). O vermelho “Juliet” saiu.
+- **Óculos oficial:** retangular estilo Matrix, frente reta (não curva), armação de metal fina, lente fumê (`00-ROSTO-OFICIAL-oculos-novo.png` + `00b-OCULOS-OFICIAL-detalhe.png`). O vermelho “Juliet” saiu.
+- **Anexos:** NUNCA anexar foto com o óculos vermelho. Para o corpo, usar `04b-CORPO-sem-cabeca.png`.
 - **Cabelo:** crespo bem curto e colado, degradê alto. Nunca ondulado.
 - **Peso:** uns **10 a 15 kg mais magro**, como combinado, com o **rosto afinando junto** para a cabeça ficar proporcional ao corpo.
 - **GTA VI nas artes:** sempre com o **logo do GTA VI**, nunca o texto “GTA VI” escrito.
