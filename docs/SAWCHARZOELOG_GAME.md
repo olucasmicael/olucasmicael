@@ -52,3 +52,33 @@
 | colyseus/colyseus | ~7,5k | MIT | Servidor multiplayer (fase 2) |
 | kevinshen56714/SkyOffice | ~1,3k | MIT | Referência de "escritório virtual" multiplayer (2D) |
 | workadventure/workadventure | ~5,9k | verificar | Referência de mundo social; licença não identificada pela API |
+
+## Pesquisa ampliada — repos que ajudam o Claude a construir (GitHub, 18/11/2026)
+Critério: licença aberta conhecida, atualizado em 2026 e muitas estrelas (ou mantenedor oficial).
+
+### A) Ferramentas para o Claude Code (skills, plugins, MCP)
+| Repo | ★ | Licença | Para quê | Prioridade |
+|---|---|---|---|---|
+| microsoft/playwright-mcp | ~40k | Apache-2.0 | Claude abre o jogo no navegador, joga, tira print e acha bugs (substitui o Patch) | Alta |
+| anthropics/claude-plugins-official | ~48k | Apache-2.0 | Diretório oficial da Anthropic de plugins | Alta |
+| gamedev-skills/awesome-gamedev-agent-skills | ~9,3k | Apache-2.0 | Skills de gamedev (router + web-engines) | Alta |
+| Donchitos/Claude-Code-Game-Studios | ~40k | MIT | Agentes e skills de estúdio (só agents/skills, sem hooks) | Média |
+| obra/superpowers | ~319k | MIT | Metodologia: planejar → testar → implementar | Média |
+| OthmanAdi/planning-with-files | ~28k | MIT | Planos em arquivos .md (bom para dividir o trabalho com o amigo) | Média |
+| viettranx/3dviz-pro-max | ~1,4k | MIT | Skill de cenas Three.js caprichadas | Média |
+| ahujasid/mcp-for-blender | ~35k | MIT | Claude controla o Blender para modelar a sala e os objetos 3D | Média (exige Blender local) |
+| mankidev/codixel | ~0,2k | MIT | Pixel art e sprites para os jogos arcade do acervo | Baixa |
+
+### B) Bibliotecas do jogo
+| Repo | ★ | Licença | Para quê |
+|---|---|---|---|
+| pixiv/three-vrm | ~2,3k | MIT | Avatares VRM no Three.js (padrão aberto de avatar) |
+| M3-org/CharacterStudio | ~0,4k | MIT | Criador de avatar web open source (referência ou base) |
+| heroiclabs/nakama | ~13,7k | Apache-2.0 | Backend de jogo: contas, chat, ranking, multiplayer (self-host) |
+| majidmanzarpour/vibe-coding-starter-pack-3d-multiplayer | ~0,3k | MIT | Starter 3D multiplayer (usa SpacetimeDB) |
+| clockworklabs/SpacetimeDB | ~25k | não identificada pela API | Verificar a licença antes de usar |
+
+### Descartados
+- rehan-remade/universal-modder: ligado ao Patch e focado em mods de jogos comerciais.
+- op7418/guizang-game-skill: AGPL-3.0; não copiar código dele para o nosso projeto.
+- scenario-labs/*: dependem de API paga.
