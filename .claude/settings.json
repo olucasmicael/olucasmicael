@@ -1,0 +1,21 @@
+{
+  "enabledPlugins": {
+    "router@awesome-gamedev-agent-skills": true,
+    "web-engines@awesome-gamedev-agent-skills": true,
+    "superpowers@superpowers-marketplace": true
+  },
+  "extraKnownMarketplaces": {
+    "awesome-gamedev-agent-skills": {
+      "source": {
+        "source": "github",
+        "repo": "gamedev-skills/awesome-gamedev-agent-skills"
+      }
+    },
+    "superpowers-marketplace": {
+      "source": {
+        "source": "github",
+        "repo": "obra/superpowers-marketplace"
+      }
+    }
+  }
+}

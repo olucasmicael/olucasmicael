@@ -82,3 +82,15 @@ Critério: licença aberta conhecida, atualizado em 2026 e muitas estrelas (ou m
 - rehan-remade/universal-modder: ligado ao Patch e focado em mods de jogos comerciais.
 - op7418/guizang-game-skill: AGPL-3.0; não copiar código dele para o nosso projeto.
 - scenario-labs/*: dependem de API paga.
+
+## Instalado (etapa 1 — 18/11/2026), escopo do projeto
+Verificação feita antes de instalar (código lido, sem nada malicioso):
+| Item | Versão/commit verificado | O que roda |
+|---|---|---|
+| router + web-engines (awesome-gamedev-agent-skills) | c6ca6c4 | Só arquivos .md (+1 yaml). Nenhum script. |
+| superpowers (obra) | 22f0b46 | 1 hook SessionStart que só lê um .md local e injeta como contexto. Sem rede. |
+| @playwright/mcp (Microsoft) | 0.0.85 (fixada) | Servidor MCP; publicado pelos mantenedores da Microsoft; dependências só playwright. |
+
+Arquivos: `.claude/settings.json` (só plugins/marketplaces, **nenhuma permissão alterada**) e `.mcp.json`.
+Na primeira vez que abrir o Claude Code na pasta, ele pede para confiar nos plugins e aprovar o MCP `playwright`.
+Observação: plugins não estão fixados em commit; atualizações futuras devem ser revisadas.
