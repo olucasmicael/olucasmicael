@@ -27,8 +27,8 @@ TITLE LOCKUP — ART DIRECTION (this is a game cover, never a random caption):
 - KICK LINK PILL (always): a sleek black rounded pill with a thin Kick-green border (#53FC18); on the left inside the pill, the attached OFFICIAL KICK LOGO exactly as provided (not redrawn, not recolored); then the link text in bold Kick green #53FC18 (any "AO VIVO •" part in white). If the Kick logo cannot be reproduced exactly, leave a small empty square for it instead of drawing a fake one.
 - The lockup NEVER covers his face or sunglasses. No other text, labels, watermarks or UI anywhere unless the scene asks for it.
 SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç, Á, Ã, Ô). No extra words. Do not write "JULIO PISTOLADA" anywhere except inside the link.
-TITLE: "DESCI *COM O DINHEIRO*"
-SUBTITLE: "VEM VER AGORA"
+TITLE: "DESCE *PRA LIVE*"
+SUBTITLE: "TÔ AO VIVO AGORA, VEM"
 KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
 ```
 
@@ -59,8 +59,8 @@ TITLE LOCKUP — ART DIRECTION (this is a game cover, never a random caption):
 - KICK LINK PILL (always): a sleek black rounded pill with a thin Kick-green border (#53FC18); on the left inside the pill, the attached OFFICIAL KICK LOGO exactly as provided (not redrawn, not recolored); then the link text in bold Kick green #53FC18 (any "AO VIVO •" part in white). If the Kick logo cannot be reproduced exactly, leave a small empty square for it instead of drawing a fake one.
 - The lockup NEVER covers his face or sunglasses. No other text, labels, watermarks or UI anywhere unless the scene asks for it.
 SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç, Á, Ã, Ô). No extra words. Do not write "JULIO PISTOLADA" anywhere except inside the link.
-TITLE: "ILHA *INVADIDA*"
-SUBTITLE: "COLA NA LIVE"
+TITLE: "INVADE *A LIVE*"
+SUBTITLE: "TÁ ROLANDO AGORA, ENTRA"
 KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
 ```
 
@@ -91,8 +91,8 @@ TITLE LOCKUP — ART DIRECTION (this is a game cover, never a random caption):
 - KICK LINK PILL (always): a sleek black rounded pill with a thin Kick-green border (#53FC18); on the left inside the pill, the attached OFFICIAL KICK LOGO exactly as provided (not redrawn, not recolored); then the link text in bold Kick green #53FC18 (any "AO VIVO •" part in white). If the Kick logo cannot be reproduced exactly, leave a small empty square for it instead of drawing a fake one.
 - The lockup NEVER covers his face or sunglasses. No other text, labels, watermarks or UI anywhere unless the scene asks for it.
 SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç, Á, Ã, Ô). No extra words. Do not write "JULIO PISTOLADA" anywhere except inside the link.
-TITLE: "NO TÚNEL *AO VIVO*"
-SUBTITLE: "ACELERA PRA LIVE"
+TITLE: "ACELERA *PRA LIVE*"
+SUBTITLE: "TÔ AO VIVO, COLA AÍ"
 KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
 ```
 
@@ -123,8 +123,8 @@ TITLE LOCKUP — ART DIRECTION (this is a game cover, never a random caption):
 - KICK LINK PILL (always): a sleek black rounded pill with a thin Kick-green border (#53FC18); on the left inside the pill, the attached OFFICIAL KICK LOGO exactly as provided (not redrawn, not recolored); then the link text in bold Kick green #53FC18 (any "AO VIVO •" part in white). If the Kick logo cannot be reproduced exactly, leave a small empty square for it instead of drawing a fake one.
 - The lockup NEVER covers his face or sunglasses. No other text, labels, watermarks or UI anywhere unless the scene asks for it.
 SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç, Á, Ã, Ô). No extra words. Do not write "JULIO PISTOLADA" anywhere except inside the link.
-TITLE: "NO SET *DE FILMAGEM*"
-SUBTITLE: "AO VIVO AGORA"
+TITLE: "CORRE *PRA LIVE*"
+SUBTITLE: "A LIVE TÁ ON AGORA"
 KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
 ```
 
@@ -155,7 +155,7 @@ TITLE LOCKUP — ART DIRECTION (this is a game cover, never a random caption):
 - KICK LINK PILL (always): a sleek black rounded pill with a thin Kick-green border (#53FC18); on the left inside the pill, the attached OFFICIAL KICK LOGO exactly as provided (not redrawn, not recolored); then the link text in bold Kick green #53FC18 (any "AO VIVO •" part in white). If the Kick logo cannot be reproduced exactly, leave a small empty square for it instead of drawing a fake one.
 - The lockup NEVER covers his face or sunglasses. No other text, labels, watermarks or UI anywhere unless the scene asks for it.
 SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç, Á, Ã, Ô). No extra words. Do not write "JULIO PISTOLADA" anywhere except inside the link.
-TITLE: "VOANDO *BAIXO*"
-SUBTITLE: "PULA NA LIVE"
+TITLE: "VOA *PRA LIVE*"
+SUBTITLE: "TÔ AO VIVO, CHEGA MAIS"
 KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
 ```
