@@ -1,9 +1,9 @@
 CHARACTER LOCK — JULIO PISTOLADA. The attached photos are the ONLY reference for this man's identity. Reproduce him exactly:
 - Face: round full face, wide cheeks, warm light-brown/tan skin (#A17157 lit, #A97150 shadow), full lips. Same face shape as the photos.
-- Hair: short black tightly-curled hair with a skin fade on the sides, a bit taller on top.
+- HAIR (important): very short, tight, coily/kinky black hair pressed close to the head on top, high skin fade on the sides. NOT wavy, NOT loose curls, NOT long.
 - Beard: thick full black beard (#333130), fuller and slightly longer at the chin, sharp lined cheek edge, connected to the mustache.
-- BODY WEIGHT LOCK: make him about 10-15 kg LIGHTER than in the reference photos — a solid, broad-shouldered, sturdy build with only a slight belly, thick arms, defined jawline under the beard, no double chin, slimmer neck and slightly less full cheeks. He must still be clearly recognizable as the same man (same face shape, same beard, same skin). Do NOT make him fat or obese, do NOT exaggerate belly, cheeks or neck; also do NOT make him skinny or a bodybuilder. Realistic adult proportions, normal-sized head.
-- Signature item (always on his face): silver metal wraparound sport sunglasses with oval ruby-red mirrored lenses (#CF394A lens, #95908A frame), "Juliet" style.
+- BODY WEIGHT LOCK: make him only slightly lighter than in the reference photos (about 5 kg), with head size correct for his body and the same build in face and body — a solid, broad-shouldered, sturdy build with only a slight belly, thick arms, defined jawline under the beard, no double chin, slimmer neck and slightly less full cheeks. He must still be clearly recognizable as the same man (same face shape, same beard, same skin). Do NOT make him fat or obese, do NOT exaggerate belly, cheeks or neck; also do NOT make him skinny or a bodybuilder. Realistic adult proportions, normal-sized head.
+- [ÓCULOS] — always on his face. (Troque [ÓCULOS] pela linha escolhida em 02-cenas-gta/V2-CORRECOES-CLIENTE.md)
 - Accessories: large black-and-silver chronograph watch on the left wrist, thin silver chain.
 - Attitude: serious, confident, chin slightly up.
 - CLOTHING LOCK: IGNORE the clothes in the reference photos completely (never the black jersey with a crest, never "NARIZES FC", never the red-and-blue sleeve band). He only wears GTA video game protagonist wardrobe as described in the prompt. Never: football jerseys, tactical vests, bandanas, balaclavas, slide sandals, flip-flops.
@@ -12,6 +12,6 @@ Do not change his ethnicity, age (mid-twenties), face shape, beard shape or weig
 STYLE — 3D VIDEO GAME CHARACTER: render him as a real-time 3D character model from a modern open-world crime video game, like Grand Theft Auto V on PC at max settings / Grand Theft Auto VI (Rockstar RAGE engine look). Realistic human proportions but a clearly VIDEO-GAME look: smooth, slightly simplified game-model skin (no real-life pores), stylized game-model features, game-quality curly hair and beard, clean game textures, game-engine lighting. It must look like a 3D character model viewer inside the game, NOT a real photo, NOT hyperrealistic, NOT a drawing.
 NEGATIVE: no real photo, no hyperrealism, no film look, no cartoon, no comic, no illustration, no painting, no cel shading, no black outlines, no anime, no caricature, no big head, no exaggerated body, no vector art.
 
-3D EXPRESSION SHEET of JULIO PISTOLADA — HEAD ONLY: 3x3 grid of in-engine head renders cropped at the neck (no outfit details), same lighting, neutral gray studio backdrop, red-lens sunglasses ON in all:
+3D EXPRESSION SHEET of JULIO PISTOLADA — HEAD ONLY: 3x3 grid of in-engine head renders cropped at the neck (no outfit details), same lighting, neutral gray studio backdrop, sunglasses ON in all:
 1 serious/neutral, 2 confident smirk, 3 hyped shouting (streamer reaction), 4 laughing, 5 shocked, 6 angry frown, 7 eyebrow raised (one brow above the glasses), 8 chin up looking down at the camera, 9 tired-but-smiling (marathon mode).
 Same face, beard and weight in all 9 — slimmer neck and jawline, no double chin. Only text: "JULIO PISTOLADA" small at the top.
