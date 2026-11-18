@@ -35,7 +35,7 @@ KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
 ```
 REFERENCE: GTA VI key art moment, rendered with the same official Rockstar game-engine look.
 SCENE: Vertical 4:5. Dusk at a lonely Leonida highway gas station with pink neon lights: Julio Pistolada leaning on a purple muscle car, pistol held low against his leg, looking at the camera, palm trees, a long empty road and a blue-to-orange sky.
-OUTFIT: black hoodie, dark jeans, black sneakers.
+OUTFIT: worn brown leather jacket over a dark gray t-shirt, dark jeans, black boots.
 [LAYOUT]: title lockup in the upper 30%, over the dusk sky.
 ACTION & WEAPON: epic GTA VI action moment frozen at its peak. Julio has a serious, focused, intense expression — jaw set, NOT laughing, NOT smiling. The black semi-automatic pistol is clearly VISIBLE in his hand as a key prop, held in a confident GTA hero pose (low-ready or close to his chest), finger off the trigger, NOT firing: no muzzle flash, no bullets, no blood, no injured people, no gore. Stylized video game action.
 
