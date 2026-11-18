@@ -2,6 +2,9 @@
 
 ## V-06 — V-06
 ```
+!!! HAIR RULE — NON-NEGOTIABLE, READ FIRST !!!
+His hair is "cabelo crespo": short, black, KINKY-COILY / AFRO-TEXTURED hair — tiny tight zig-zag coils packed densely together, matte and spongy, exactly like the attached hair close-up and the approved sheets. It is NOT WAVY. ZERO waves. No wave pattern of any kind, no 360 waves, no S-shaped strands, no loose curls, no ringlets, no smooth shiny wavy texture, no straight hair, no slicked hair. Length about 2-3 cm on top with a little volume, neat rounded shape, high skin fade on the sides. If unsure, make the texture MORE tightly coiled and matte, never wavier.
+
 REFERENCE: classic GTA escape between crashing police cars, rendered with the same official Rockstar game-engine look.
 SCENE: Horizontal 16:9. Night intersection in Vice City: Julio Pistolada diving forward through the narrow gap between two police cruisers that are colliding right behind him (no people hurt), glass and sparks exploding, his body horizontal mid-dive toward the camera, pistol held close to his chest, red and blue lights, neon signs and palm trees. Camera low in front of him, his face sharp.
 OUTFIT: black hoodie, dark jeans, black sneakers.
@@ -11,7 +14,7 @@ ACTION & WEAPON: FULL-ON GTA VI ACTION SHOT — real movement, not a pose: froze
 === JULIO PISTOLADA — MASTER RULES V6 (apply all) ===
 ATTACHMENTS: (1) the APPROVED expression sheet and head sheet of Julio (main reference for face, hair, beard, glasses and build), (2) his official face photo with the rectangular sunglasses, (3) the hair close-up photo, (4) the OFFICIAL GTA VI LOGO image, (5) the OFFICIAL KICK LOGO image.
 CHARACTER: Julio Pistolada — copy the EXACT character model from the approved sheets: round face, warm light-brown skin, thick full black beard with sharp lined edge connected to the mustache.
-HAIR: exactly as in the approved sheets — short black KINKY-COILY hair ("cabelo crespo") with a little volume on top (about 2-3 cm), compact matte texture of tiny tight coils, neat rounded shape, high skin fade on the sides. NO waves, NO loose curls; NOT thin or shaved; NOT tall or puffy.
+HAIR: exactly as in the approved sheets — short black KINKY-COILY / AFRO-TEXTURED hair ("cabelo crespo"), tiny tight zig-zag coils packed densely, matte and spongy, about 2-3 cm on top with a little volume, neat rounded shape, high skin fade on the sides. ABSOLUTELY NOT WAVY: no waves, no 360 waves, no S-shaped strands, no loose curls, no ringlets, no shiny wavy texture. NOT thin or shaved; NOT tall or puffy.
 SUNGLASSES (always on): the same flat-front narrow RECTANGULAR metal sunglasses as in the approved sheets (Matrix / Y2K style), thin gunmetal full-rim frame, dark smoke lenses. NOT wraparound, NOT oval, NOT sporty, NOT mirrored, NOT red.
 BODY: same build as the approved sheets — solid, broad shoulders, defined jawline, no double chin; head proportional to the body (no bobblehead). Black-and-silver watch on the left wrist.
 CLOTHING: only the GTA outfit written in the scene. Never football jerseys, tactical vests, bandanas, balaclavas, slide sandals, "NARIZES FC".
@@ -33,6 +36,9 @@ KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
 
 ## V-07 — V-07
 ```
+!!! HAIR RULE — NON-NEGOTIABLE, READ FIRST !!!
+His hair is "cabelo crespo": short, black, KINKY-COILY / AFRO-TEXTURED hair — tiny tight zig-zag coils packed densely together, matte and spongy, exactly like the attached hair close-up and the approved sheets. It is NOT WAVY. ZERO waves. No wave pattern of any kind, no 360 waves, no S-shaped strands, no loose curls, no ringlets, no smooth shiny wavy texture, no straight hair, no slicked hair. Length about 2-3 cm on top with a little volume, neat rounded shape, high skin fade on the sides. If unsure, make the texture MORE tightly coiled and matte, never wavier.
+
 REFERENCE: GTA phone-call-during-a-chase moment, rendered with the same official Rockstar game-engine look.
 SCENE: Vertical 4:5. Night chase on a Vice City highway: Julio Pistolada driving a black sports car at full speed, holding a smartphone to his ear with one hand and the pistol resting on the steering wheel with the other, police lights flooding the rear window, neon city light streaks through the windshield. Camera on the hood looking in at him, his face large and sharp.
 OUTFIT: black silk short-sleeve shirt with a subtle purple palm print, thin silver chain.
@@ -42,7 +48,7 @@ ACTION & WEAPON: FULL-ON GTA VI ACTION SHOT — real movement, not a pose: froze
 === JULIO PISTOLADA — MASTER RULES V6 (apply all) ===
 ATTACHMENTS: (1) the APPROVED expression sheet and head sheet of Julio (main reference for face, hair, beard, glasses and build), (2) his official face photo with the rectangular sunglasses, (3) the hair close-up photo, (4) the OFFICIAL GTA VI LOGO image, (5) the OFFICIAL KICK LOGO image.
 CHARACTER: Julio Pistolada — copy the EXACT character model from the approved sheets: round face, warm light-brown skin, thick full black beard with sharp lined edge connected to the mustache.
-HAIR: exactly as in the approved sheets — short black KINKY-COILY hair ("cabelo crespo") with a little volume on top (about 2-3 cm), compact matte texture of tiny tight coils, neat rounded shape, high skin fade on the sides. NO waves, NO loose curls; NOT thin or shaved; NOT tall or puffy.
+HAIR: exactly as in the approved sheets — short black KINKY-COILY / AFRO-TEXTURED hair ("cabelo crespo"), tiny tight zig-zag coils packed densely, matte and spongy, about 2-3 cm on top with a little volume, neat rounded shape, high skin fade on the sides. ABSOLUTELY NOT WAVY: no waves, no 360 waves, no S-shaped strands, no loose curls, no ringlets, no shiny wavy texture. NOT thin or shaved; NOT tall or puffy.
 SUNGLASSES (always on): the same flat-front narrow RECTANGULAR metal sunglasses as in the approved sheets (Matrix / Y2K style), thin gunmetal full-rim frame, dark smoke lenses. NOT wraparound, NOT oval, NOT sporty, NOT mirrored, NOT red.
 BODY: same build as the approved sheets — solid, broad shoulders, defined jawline, no double chin; head proportional to the body (no bobblehead). Black-and-silver watch on the left wrist.
 CLOTHING: only the GTA outfit written in the scene. Never football jerseys, tactical vests, bandanas, balaclavas, slide sandals, "NARIZES FC".
@@ -64,6 +70,9 @@ KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
 
 ## V-08 — V-08
 ```
+!!! HAIR RULE — NON-NEGOTIABLE, READ FIRST !!!
+His hair is "cabelo crespo": short, black, KINKY-COILY / AFRO-TEXTURED hair — tiny tight zig-zag coils packed densely together, matte and spongy, exactly like the attached hair close-up and the approved sheets. It is NOT WAVY. ZERO waves. No wave pattern of any kind, no 360 waves, no S-shaped strands, no loose curls, no ringlets, no smooth shiny wavy texture, no straight hair, no slicked hair. Length about 2-3 cm on top with a little volume, neat rounded shape, high skin fade on the sides. If unsure, make the texture MORE tightly coiled and matte, never wavier.
+
 REFERENCE: GTA VI Leonida swamp chase (the alligator scene the client asked for, in action), rendered with the same official Rockstar game-engine look.
 SCENE: Horizontal 16:9. Sunset in the Leonida swamp: Julio Pistolada standing on a speeding airboat that jumps over a fallen log, three alligators snapping their jaws out of the water below, water spray everywhere, pistol in his hand, a police airboat chasing behind, cypress trees with hanging moss and a blue-pink-orange sky. Camera low at water level, his face sharp.
 OUTFIT: open short-sleeve camp-collar shirt in a sunset-orange and pink tropical print over a white tank top, olive cargo pants.
@@ -73,7 +82,7 @@ ACTION & WEAPON: FULL-ON GTA VI ACTION SHOT — real movement, not a pose: froze
 === JULIO PISTOLADA — MASTER RULES V6 (apply all) ===
 ATTACHMENTS: (1) the APPROVED expression sheet and head sheet of Julio (main reference for face, hair, beard, glasses and build), (2) his official face photo with the rectangular sunglasses, (3) the hair close-up photo, (4) the OFFICIAL GTA VI LOGO image, (5) the OFFICIAL KICK LOGO image.
 CHARACTER: Julio Pistolada — copy the EXACT character model from the approved sheets: round face, warm light-brown skin, thick full black beard with sharp lined edge connected to the mustache.
-HAIR: exactly as in the approved sheets — short black KINKY-COILY hair ("cabelo crespo") with a little volume on top (about 2-3 cm), compact matte texture of tiny tight coils, neat rounded shape, high skin fade on the sides. NO waves, NO loose curls; NOT thin or shaved; NOT tall or puffy.
+HAIR: exactly as in the approved sheets — short black KINKY-COILY / AFRO-TEXTURED hair ("cabelo crespo"), tiny tight zig-zag coils packed densely, matte and spongy, about 2-3 cm on top with a little volume, neat rounded shape, high skin fade on the sides. ABSOLUTELY NOT WAVY: no waves, no 360 waves, no S-shaped strands, no loose curls, no ringlets, no shiny wavy texture. NOT thin or shaved; NOT tall or puffy.
 SUNGLASSES (always on): the same flat-front narrow RECTANGULAR metal sunglasses as in the approved sheets (Matrix / Y2K style), thin gunmetal full-rim frame, dark smoke lenses. NOT wraparound, NOT oval, NOT sporty, NOT mirrored, NOT red.
 BODY: same build as the approved sheets — solid, broad shoulders, defined jawline, no double chin; head proportional to the body (no bobblehead). Black-and-silver watch on the left wrist.
 CLOTHING: only the GTA outfit written in the scene. Never football jerseys, tactical vests, bandanas, balaclavas, slide sandals, "NARIZES FC".
@@ -95,6 +104,9 @@ KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
 
 ## V-09 — V-09
 ```
+!!! HAIR RULE — NON-NEGOTIABLE, READ FIRST !!!
+His hair is "cabelo crespo": short, black, KINKY-COILY / AFRO-TEXTURED hair — tiny tight zig-zag coils packed densely together, matte and spongy, exactly like the attached hair close-up and the approved sheets. It is NOT WAVY. ZERO waves. No wave pattern of any kind, no 360 waves, no S-shaped strands, no loose curls, no ringlets, no smooth shiny wavy texture, no straight hair, no slicked hair. Length about 2-3 cm on top with a little volume, neat rounded shape, high skin fade on the sides. If unsure, make the texture MORE tightly coiled and matte, never wavier.
+
 REFERENCE: GTA skydive with stolen cash, rendered with the same official Rockstar game-engine look.
 SCENE: Vertical 9:16. High above Vice City at golden hour: Julio Pistolada in free fall right after jumping from the open ramp of a cargo plane, arms spread, pistol in one hand, a torn duffel bag releasing a cloud of cash bills flying around him, the coastline, skyline and ocean far below, blue-pink-orange sky. Camera falling in front of him, his face sharp, parachute pack on his back.
 OUTFIT: black tactical heist jumpsuit (no vest), black gloves, parachute harness.
@@ -104,7 +116,7 @@ ACTION & WEAPON: FULL-ON GTA VI ACTION SHOT — real movement, not a pose: froze
 === JULIO PISTOLADA — MASTER RULES V6 (apply all) ===
 ATTACHMENTS: (1) the APPROVED expression sheet and head sheet of Julio (main reference for face, hair, beard, glasses and build), (2) his official face photo with the rectangular sunglasses, (3) the hair close-up photo, (4) the OFFICIAL GTA VI LOGO image, (5) the OFFICIAL KICK LOGO image.
 CHARACTER: Julio Pistolada — copy the EXACT character model from the approved sheets: round face, warm light-brown skin, thick full black beard with sharp lined edge connected to the mustache.
-HAIR: exactly as in the approved sheets — short black KINKY-COILY hair ("cabelo crespo") with a little volume on top (about 2-3 cm), compact matte texture of tiny tight coils, neat rounded shape, high skin fade on the sides. NO waves, NO loose curls; NOT thin or shaved; NOT tall or puffy.
+HAIR: exactly as in the approved sheets — short black KINKY-COILY / AFRO-TEXTURED hair ("cabelo crespo"), tiny tight zig-zag coils packed densely, matte and spongy, about 2-3 cm on top with a little volume, neat rounded shape, high skin fade on the sides. ABSOLUTELY NOT WAVY: no waves, no 360 waves, no S-shaped strands, no loose curls, no ringlets, no shiny wavy texture. NOT thin or shaved; NOT tall or puffy.
 SUNGLASSES (always on): the same flat-front narrow RECTANGULAR metal sunglasses as in the approved sheets (Matrix / Y2K style), thin gunmetal full-rim frame, dark smoke lenses. NOT wraparound, NOT oval, NOT sporty, NOT mirrored, NOT red.
 BODY: same build as the approved sheets — solid, broad shoulders, defined jawline, no double chin; head proportional to the body (no bobblehead). Black-and-silver watch on the left wrist.
 CLOTHING: only the GTA outfit written in the scene. Never football jerseys, tactical vests, bandanas, balaclavas, slide sandals, "NARIZES FC".
@@ -126,6 +138,9 @@ KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
 
 ## V-10 — V-10
 ```
+!!! HAIR RULE — NON-NEGOTIABLE, READ FIRST !!!
+His hair is "cabelo crespo": short, black, KINKY-COILY / AFRO-TEXTURED hair — tiny tight zig-zag coils packed densely together, matte and spongy, exactly like the attached hair close-up and the approved sheets. It is NOT WAVY. ZERO waves. No wave pattern of any kind, no 360 waves, no S-shaped strands, no loose curls, no ringlets, no smooth shiny wavy texture, no straight hair, no slicked hair. Length about 2-3 cm on top with a little volume, neat rounded shape, high skin fade on the sides. If unsure, make the texture MORE tightly coiled and matte, never wavier.
+
 REFERENCE: GTA rooftop helicopter getaway, rendered with the same official Rockstar game-engine look.
 SCENE: Vertical 4:5. Sunset on a Vice City skyscraper helipad: Julio Pistolada leaping off the edge of the helipad and grabbing the skid of a black helicopter that is already lifting off, one hand on the skid, pistol in the other, his body hanging in the air, police storming onto the roof behind, rotor wind, the skyline and a pink-orange-blue sky. Camera from the side at his height, his face sharp.
 OUTFIT: sharp black tailored suit, black shirt, no tie, black leather gloves.
@@ -135,7 +150,7 @@ ACTION & WEAPON: FULL-ON GTA VI ACTION SHOT — real movement, not a pose: froze
 === JULIO PISTOLADA — MASTER RULES V6 (apply all) ===
 ATTACHMENTS: (1) the APPROVED expression sheet and head sheet of Julio (main reference for face, hair, beard, glasses and build), (2) his official face photo with the rectangular sunglasses, (3) the hair close-up photo, (4) the OFFICIAL GTA VI LOGO image, (5) the OFFICIAL KICK LOGO image.
 CHARACTER: Julio Pistolada — copy the EXACT character model from the approved sheets: round face, warm light-brown skin, thick full black beard with sharp lined edge connected to the mustache.
-HAIR: exactly as in the approved sheets — short black KINKY-COILY hair ("cabelo crespo") with a little volume on top (about 2-3 cm), compact matte texture of tiny tight coils, neat rounded shape, high skin fade on the sides. NO waves, NO loose curls; NOT thin or shaved; NOT tall or puffy.
+HAIR: exactly as in the approved sheets — short black KINKY-COILY / AFRO-TEXTURED hair ("cabelo crespo"), tiny tight zig-zag coils packed densely, matte and spongy, about 2-3 cm on top with a little volume, neat rounded shape, high skin fade on the sides. ABSOLUTELY NOT WAVY: no waves, no 360 waves, no S-shaped strands, no loose curls, no ringlets, no shiny wavy texture. NOT thin or shaved; NOT tall or puffy.
 SUNGLASSES (always on): the same flat-front narrow RECTANGULAR metal sunglasses as in the approved sheets (Matrix / Y2K style), thin gunmetal full-rim frame, dark smoke lenses. NOT wraparound, NOT oval, NOT sporty, NOT mirrored, NOT red.
 BODY: same build as the approved sheets — solid, broad shoulders, defined jawline, no double chin; head proportional to the body (no bobblehead). Black-and-silver watch on the left wrist.
 CLOTHING: only the GTA outfit written in the scene. Never football jerseys, tactical vests, bandanas, balaclavas, slide sandals, "NARIZES FC".
