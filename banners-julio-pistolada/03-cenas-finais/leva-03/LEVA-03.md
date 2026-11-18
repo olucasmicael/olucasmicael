@@ -28,7 +28,7 @@ TITLE LOCKUP — ART DIRECTION (this is a game cover, never a random caption):
 SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç, Á, Ã, Ô). No extra words. Do not write "JULIO PISTOLADA" anywhere except inside the link.
 TITLE: "O GOLPE *TÁ AO VIVO*"
 SUBTITLE: "ENTRA NA EQUIPE"
-INFO: "AO VIVO • kick.com/juliopistolada"
+KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
 ```
 
 ## L3-02 — O plano no esconderijo
@@ -59,7 +59,7 @@ TITLE LOCKUP — ART DIRECTION (this is a game cover, never a random caption):
 SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç, Á, Ã, Ô). No extra words. Do not write "JULIO PISTOLADA" anywhere except inside the link.
 TITLE: "O PLANO *TÁ ROLANDO*"
 SUBTITLE: "COLA AGORA"
-INFO: "AO VIVO • kick.com/juliopistolada"
+KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
 ```
 
 ## L3-03 — Pântano de noite
@@ -90,7 +90,7 @@ TITLE LOCKUP — ART DIRECTION (this is a game cover, never a random caption):
 SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç, Á, Ã, Ô). No extra words. Do not write "JULIO PISTOLADA" anywhere except inside the link.
 TITLE: "TEM COISA *NA ÁGUA*"
 SUBTITLE: "AO VIVO EM LEONIDA"
-INFO: "AO VIVO • kick.com/juliopistolada"
+KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
 ```
 
 ## L3-04 — Fuga a pé pelo beco
@@ -121,7 +121,7 @@ TITLE LOCKUP — ART DIRECTION (this is a game cover, never a random caption):
 SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç, Á, Ã, Ô). No extra words. Do not write "JULIO PISTOLADA" anywhere except inside the link.
 TITLE: "CORRE QUE *TÁ AO VIVO*"
 SUBTITLE: "A POLÍCIA TÁ PERTO"
-INFO: "AO VIVO • kick.com/juliopistolada"
+KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
 ```
 
 ## L3-05 — Festa no iate (a polícia chegou)
@@ -152,5 +152,5 @@ TITLE LOCKUP — ART DIRECTION (this is a game cover, never a random caption):
 SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç, Á, Ã, Ô). No extra words. Do not write "JULIO PISTOLADA" anywhere except inside the link.
 TITLE: "FESTA *AO VIVO*"
 SUBTITLE: "ATÉ A POLÍCIA VEIO"
-INFO: "AO VIVO • kick.com/juliopistolada"
+KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
 ```

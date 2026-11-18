@@ -24,4 +24,4 @@ TITLE LOCKUP — ART DIRECTION (this is a game cover, never a random caption):
 SPELLING LOCK: write every word exactly as below, letter by letter, with Portuguese accents (É, Ç, Á, Ã, Ô). No extra words. Do not write "JULIO PISTOLADA" anywhere except inside the link.
 TITLE: "O PLANO *TÁ ROLANDO*"
 SUBTITLE: "COLA AGORA"
-INFO: "AO VIVO • kick.com/juliopistolada"
+KICK LINK PILL TEXT: "AO VIVO • kick.com/juliopistolada"
