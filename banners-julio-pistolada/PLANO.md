@@ -38,3 +38,7 @@ A versão antiga (Flamengo, colete, cenas V1–V3) está em `_versao-anterior/`,
 
 ## ENTREGA FINAL (18/11): `03-cenas-finais/`
 São 20 prompts prontos, com o modelo certo (ficha da cabeça aprovada), o **logo oficial do GTA VI anexado**, o título nas cores do GTA com enquadramento de capa, o visual 100% videogame, cabelo curto, ~10-15 kg mais magro e a ação com arma em pose segura. São 10 de pré-live e 10 de live rolando. Inclui o crocodilo e homenagens a momentos clássicos (San Andreas, trailer do GTA VI).
+
+## 18/11: ficha de expressões aprovada
+- `01-character-sheet/APROVADO-expressoes.png` é a **referência principal de rosto e cabelo** daqui pra frente (cabelo crespo com um pouco de volume, sem onda, e óculos retangular).
+- Anexos nas cenas: `APROVADO-expressoes.png` + `00-ROSTO-OFICIAL-oculos-novo.png` + `13-detalhe-cabelo.png` + logo do GTA VI + logo da Kick.
